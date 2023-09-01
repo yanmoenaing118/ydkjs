@@ -25,7 +25,7 @@ var obj2 = {};
 // obj.logMe();
 // obj.logStillMe();
 // obj.logChangedMe();
-// logThis.call(obj2, 'some parar', 2, { name: 'hiel'});
+// // logThis.call(obj2, 'some parar', 2, { name: 'hiel'});
 /** ------------------------------- */
 
 var priStr = "Lovely Go Youn Jung";
@@ -101,3 +101,24 @@ function loop(timeEllaped) {
 }
 
 loop(0);
+
+
+var myObj = {}
+
+myObj[myObj] = "Hello Who are you?";
+
+var symb = Symbol("id");
+var uiquesSymb = Symbol("id");
+
+var myId = "ID";
+var myKey = "ID";
+
+myObj[symb] = "eh";
+myObj[uiquesSymb] = "eh";
+
+
+console.log(myObj[symb]);
+console.log(myObj[uiquesSymb])
+
+
+
