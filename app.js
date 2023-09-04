@@ -71,7 +71,7 @@ var assignedObj = Object.assign({}, myObj);
 var obj3 = {
   a: 2,
   b: function shit() {
-    console.log("from shit", this);
+    // console.log("from shit", this);
   },
 };
 
@@ -102,30 +102,66 @@ function loop(timeEllaped) {
 
 // loop(0);
 
-
-var myObj = {}
-
+var myObj = {};
 
 var symb = Symbol("id");
 var uiquesSymb = Symbol("id");
+var mySymb = Symbol("id");
+
+Object.defineProperty(myObj, mySymb, {
+  value: "Hello mySymb",
+});
 
 var myId = "ID";
 var myKey = "ID";
 
-myObj[symb] = "eh";
-myObj[uiquesSymb] = "eh";
-
+myObj[symb] = "symb";
+myObj[uiquesSymb] = "imqadsfdffd";
 
 // console.log(myObj[symb]);
 // console.log(myObj[uiquesSymb])
 
 Object.defineProperty(myObj, "a", {
   value: "Go Youn Jung",
+  writable: true,
+  enumerable: true,
+  configurable: false,
+});
+
+Object.defineProperty(myObj, "b", {
+  value: "Who are you",
   writable: false,
   enumerable: true,
-  configurable: false
-})
+  configurable: false,
+});
 
-myObj.a = 'cannot modified'
-console.log(myObj)
+const keys = Object.keys(myObj);
+const values = Object.values(myObj);
 
+// console.log(keys);
+// console.log(values);
+
+const ownKeys = Reflect.ownKeys(myObj);
+ownKeys.forEach((key) => {
+  // console.log(myObj[key]);
+});
+
+/**--- [[Get]]() and [[PUT]]()  */
+
+var myLove = {
+  get name() {
+    return this._name_;
+  },
+
+  set name(value) {
+    this._name_ = value;
+  },
+};
+
+myLove.name = "Go Youn Jung";
+
+for (let key in myLove) {
+  if (myLove.hasOwnProperty(key)) {
+    console.log(`${key}: ${myLove[key]}`.toLocaleUpperCase());
+  }
+}
