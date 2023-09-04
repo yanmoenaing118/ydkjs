@@ -100,12 +100,11 @@ function loop(timeEllaped) {
   }, 1 / 60);
 }
 
-loop(0);
+// loop(0);
 
 
 var myObj = {}
 
-myObj[myObj] = "Hello Who are you?";
 
 var symb = Symbol("id");
 var uiquesSymb = Symbol("id");
@@ -117,8 +116,16 @@ myObj[symb] = "eh";
 myObj[uiquesSymb] = "eh";
 
 
-console.log(myObj[symb]);
-console.log(myObj[uiquesSymb])
+// console.log(myObj[symb]);
+// console.log(myObj[uiquesSymb])
 
+Object.defineProperty(myObj, "a", {
+  value: "Go Youn Jung",
+  writable: false,
+  enumerable: true,
+  configurable: false
+})
 
+myObj.a = 'cannot modified'
+console.log(myObj)
 
