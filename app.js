@@ -165,3 +165,64 @@ for (let key in myLove) {
     console.log(`${key}: ${myLove[key]}`.toLocaleUpperCase());
   }
 }
+
+var noProto = Object.create(null);
+
+Object.defineProperty(noProto, "title", {
+  value: "No [[Prototype]]",
+  enumerable: true,
+  configurable: false,
+  writable: false,
+});
+
+// console.log(Object.prototype.hasOwnProperty.call(noProto, 'title'))
+/** Enumerable */
+
+var myObject = {};
+
+Object.defineProperty(myObject, "a", {
+  value: 2,
+  enumerable: true,
+});
+
+Object.defineProperty(myObject, "b", {
+  value: 3,
+  enumerable: false,
+});
+
+console.log("b" in myObject);
+console.log(myObject.hasOwnProperty("b"));
+for (let key in myObject) {
+  console.log(key, myObject[key]);
+}
+
+var arr = [1, 2, 3, 34];
+
+for (let key in arr) {
+  console.log(key, arr[key]);
+}
+
+class Person {
+  constructor(name) {
+    this.name = name;
+  }
+
+  getName() {
+    return this.name;
+  }
+}
+
+class Student extends Person {
+  constructor(name, id) {
+    super(name);
+    this.id = id;
+  }
+}
+
+var std = new Student("Yan", 32);
+
+console.log(std);
+console.log("name" in std);
+console.log(std.hasOwnProperty("name"));
+console.log("getName" in std); // in operator traveres the entire prototype chain
+console.log(std.hasOwnProperty("getName"));
