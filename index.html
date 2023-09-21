@@ -14,8 +14,9 @@
         section {
             width: 800px;
             margin-inline: auto;
-            max-height: 100vh;
+            max-height: 400px;
             overflow-y: auto;
+            margin-top: 100px;
         }
         section div {
             display: flex;
@@ -79,9 +80,16 @@
         function isOutSideViewPort(el) {
             const dims = getDimension(el);
             const parent = el.parentElement;
-            const parentH = getDimension(parent).height;
-        
-            return dims.top < 0 && Math.abs(dims.top) > dims.height || dims.bottom - parentH > dims.height;
+            const parentDims = getDimension(parent);
+
+            // console.log(dims.top);
+            // console.log(dims.top - parentDims.top)
+            if(dims.top < parentDims.top && Math.abs(dims.top - parentDims.top) > dims.height) {
+                console.log('exited from top');
+            }
+            
+
+            // return  || dims.bottom - parentDims.height > dims.height;
         }
     </script>
   </body>
