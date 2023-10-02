@@ -3,102 +3,24 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Reading YDKJS</title>
-    <style>
-      * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-        font-family: Arial, Helvetica, sans-serif;
-      }
-      section {
-        width: 800px;
-        margin-inline: auto;
-        max-height: 400px;
-        overflow-y: auto;
-        margin-top: 100px;
-      }
-      section div {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-size: 4rem;
-        height: 300px;
-        background-color: lightgreen;
-      }
-      section div:nth-child(2n) {
-        background-color: red;
-      }
-    </style>
+    <title>Service Worker Push Notification</title>
   </head>
   <body>
-    <section>
-      <div class="item-1">Item 1</div>
-      <div class="item-2">item 2</div>
-      <div class="item-3">item 3</div>
-      <div class="item-4">item 4</div>
-      <div class="item-5">item 5</div>
-      <div class="item-6">item 6</div>
-      <div class="item-7">item 7</div>
-      <div class="item-8">item 8</div>
-    </section>
-
-    <script src="app.js"></script>
-
+    <button onclick="subscribe()">subscribe</button>
     <script>
-      const section = document.querySelector("section");
-      const items = section.querySelectorAll("div");
-
-      section.addEventListener("scroll", function (e) {
-        items.forEach((item) => {
-          const sectionDim = getDimension(item);
-          // console.log(JSON.stringify(sectionDim))
-          if (!isOutSideViewPort(item)) {
-            console.log(item.textContent);
-          }
+      async function subscribe() {
+        let sw = await navigator.serviceWorker.ready;
+        let push = await sw.pushManager.subscribe({
+          userVisibleOnly: true,
+          applicationServerKey:
+            "BJug4_4hTyZakHM-X1cdFJcJZ1t4_E_rSaJA4s1ZWpZlfH9FSbETUSBfAR5UYWc6_uhsjK5zguzFQxPLslW0zPA",
         });
-      });
-
-      function getDimension(el) {
-        const rect = el.getBoundingClientRect();
-        const dims = {};
-        for (let key in rect) {
-          if (typeof rect[key] !== "function") {
-            dims[key] = rect[key];
-          }
-        }
-        return {
-          ...dims,
-          scrollWidth: el.scrollWidth,
-          scrollHeight: el.scrollHeight,
-        };
+        console.log(JSON.stringify(push));
       }
 
-      function isOutSideViewPort(el) {
-        const dims = getDimension(el);
-        const parent = el.parentElement;
-        const parentDims = getDimension(parent);
-
-        // console.log(dims.bottom);
-        // console.log(parentDims.bottom);
-        // console.log(parentDims.bottom - dims.bottom)
-        // if(dims.top < parentDims.top && Math.abs(dims.top - parentDims.top) > dims.height) {
-        //     console.log('exited from top');
-        // }
-
-        // if(parentDims.bottom - dims.bottom < 0 && Math.abs(parentDims.bottom - dims.bottom) > dims.height) {
-        //     console.log('exited from bottom');
-        // }
-
-        // return  || dims.bottom - parentDims.height > dims.height;
-
-        return (
-          (dims.top < parentDims.top &&
-            Math.abs(dims.top - parentDims.top) > dims.height) ||
-          (parentDims.bottom - dims.bottom < 0 &&
-            Math.abs(parentDims.bottom - dims.bottom) > dims.height)
-        );
-      }
+      window.addEventListener("load", async () => {
+        let sw = window.navigator.serviceWorker.register("./sw.js");
+      })
     </script>
   </body>
 </html>
