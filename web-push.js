@@ -14,12 +14,12 @@ webpush.setVapidDetails(
 
 const sub = {
   endpoint:
-    "https://fcm.googleapis.com/fcm/send/dW5gk41d8_0:APA91bFI-p5f9No9otZljMOvD9sUFIrXCHb7licvHxcvNFkg0crXv-90Yow3bZf33w_2vzX5tHVjHzC7NnzXJGENy-KLvvK6ODwTq7jtt3oqTPaShMDCOjeYMlZzxWRpFMXDkM9z33oA",
+    "https://fcm.googleapis.com/fcm/send/cNBJIQ5-ips:APA91bErqSGE58y5YDBDTEismRBibxRW4bwoOcO4dvzxW4naFHn63m2vMuNBLecZoj_92lxo5a9bu_CWmDOzRIyIfqvSOJyzqFRyc_u476oTdiExQK-vDlmSgRJR3vAm9q9vcSEXju8G",
   expirationTime: null,
   keys: {
     p256dh:
-      "BI9o_h8yDoAT8wPE07U8PwcJ_m2U_SmYSMPbEYXc4SeWb494XSQT8oujUuHgEPubEBfyBkfiWqrkSEuboiurDOo",
-    auth: "PC8HeexUoZrVUAhezSpCGg",
+      "BIsKndJosfIge88XbA6q-KHFkRu7CL0mXyQuCbWe8dMcfy3yfH_QZ3NImTsrZ0G1Ya3dXipx3J90lhCHExCaSRo",
+    auth: "jonnN56HLdd6YdeiQqp4Yw",
   },
 };
 webpush.sendNotification(sub, "My dearest Go Youn Jung");
