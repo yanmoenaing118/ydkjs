@@ -6,6 +6,7 @@
     <title>Service Worker Push Notification</title>
   </head>
   <body>
+    <div class="cont"></div>
     <button onclick="subscribe()">subscribe</button>
     <script>
       async function subscribe() {
@@ -19,6 +20,8 @@
         
         // save subscription to server
         console.log(JSON.stringify(push));
+    
+        document.querySelector(".cont").textContent = JSON.stringify(push);
       }
 
       window.addEventListener("load", async () => {
