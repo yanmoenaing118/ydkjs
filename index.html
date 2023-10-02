@@ -20,7 +20,23 @@
 
       window.addEventListener("load", async () => {
         let sw = window.navigator.serviceWorker.register("./sw.js");
-      })
+
+        Notification.requestPermission().then((result) => {
+          if (result === "granted") {
+            console.log("notification granted");
+            subscribe();
+          }
+        });
+
+        const options = { tag: "go-youn-jung" };
+
+        navigator.serviceWorker.ready.then((registration) => {
+          registration.getNotifications(options).then((notifications) => {
+            // do something with your notifications
+            console.log('getnotificatioin ',notifications);
+          });
+        });
+      });
     </script>
   </body>
 </html>
