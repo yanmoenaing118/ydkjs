@@ -14,12 +14,12 @@ webpush.setVapidDetails(
 
 const sub = {
   endpoint:
-    "https://updates.push.services.mozilla.com/wpush/v2/gAAAAABlGlAsGc34NzeIs1UId8ns_IrnAwv8wSFwFsa6MekB-g_d3VLKsG_akN98xBS-oOVupAHQpr0f0y71jiwqjBjskpYJQsMIzHJ3Ng4kcfOtNGZHuzKQSE6Jhef2hHv5KxO7NukBgyE2qNc1_3Udu4NvI2kitLLia6SmEmjMEItc8d7Oc9Q",
+    "https://fcm.googleapis.com/fcm/send/ePb8c22j7GM:APA91bHzScJSfXJJA8HXnrTqBn5Fx7yTQPtMRK0bRLDMSbZY3q4tCyNbEoDlgNHOtaaYXzJ1R7hRCU9H7_pQPucw89PfeO69qkPmTzlrQJTkyhMs8nMUlEOfTAr1u2P7JgwA5XW4rRKY",
   expirationTime: null,
   keys: {
-    auth: "m9f0W_jScP5OhkhsfLP5aA",
     p256dh:
-      "BB1lGreLs91Csv12W-Q08buZinaggjGWtN8nMkU4vqqoItvu1qdFv39pPdYa_KBkcd3SBq9aDFW-VU4nXxXWi_4",
+      "BJ0KqnZlphUFBeVFCTicRXdfJPpGER03czDDjleBN3SChzniaH5bxjt4ZaQUyfuCstE23Ql2Odjs8SQbTNGDQcQ",
+    auth: "_aRoEDSKjgjUiXWu6nNKqw",
   },
 };
 webpush.sendNotification(sub, "My dearest Go Youn Jung");

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <style>
+      label,
+      input {
+        display: block;
+      }
+      .form-group {
+        margin-bottom: 1rem;
+      }
+
+      .error {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <form class="form">
+      <div class="form-group">
+        <label for="username">Username</label>
+        <input type="text" name="username" id="username" />
+        <div class="error"></div>
+      </div>
+
+      <div class="form-group">
+        <label for="nid">National ID</label>
+        <input type="text" name="nid" id="nid" />
+      </div>
+
+      <div class="form-group">
+        <label for="phone">Mobile Number</label>
+        <input type="text" name="phone" id="phone" />
+      </div>
+
+      <button type="submit" id="submit" disabled>Click</button>
+    </form>
+
+    <script>
+      const username = document.getElementById("username");
+      const nid = document.getElementById("nid");
+      const phone = document.getElementById("phone");
+      const button = document.getElementById("submit");
+
+      // username validators
+      const userName = {
+        validators: {
+          maxLength: 25,
+          minLength: 10,
+          pattern: "",
+        },
+        valid: false,
+      };
+
+      Object.entries(userName.validators).forEach(([key, value]) => {
+        username.setAttribute(key.toLowerCase(), value);
+      });
+
+      username.addEventListener("input", (e) => {
+        const errors = validateInput(username, userName.validators);
+        const errEl = document.querySelector("#username + .error");
+
+        if (errors.maxLength) {
+          errEl.textContent = errors.maxLength;
+          userName.valid = false;
+        } else if (errors.minLength) {
+          errEl.textContent = errors.minLength;
+          userName.valid = false;
+        } else {
+          errEl.textContent = "";
+          userName.valid = true;
+        }
+
+        isValidForm();
+      });
+
+      nid.addEventListener("input", (e) => {
+        isValidForm();
+      });
+
+      phone.addEventListener("input", (e) => {
+        isValidForm();
+      });
+
+      function validateInput(input, validators) {
+        const value = input.value;
+        const errors = {};
+        if (value.length < validators.minLength) {
+          errors["minLength"] = `Minimum lenght is ${validators.minLength}`;
+        } else {
+          errors["minLength"] = "";
+        }
+
+        if (value.length > validators.maxLength) {
+          errors["maxLength"] = `Max length is ${validators.maxLength}`;
+        } else {
+          errors["maxLength"] = "";
+        }
+        return errors;
+      }
+
+      function isValidForm() {
+        const hasInput = [username, nid, phone]
+          .map((input) => input.value)
+          .every((value) => value != "");
+
+        const valid = [userName]
+          .map((obj) => obj.valid)
+          .reduce((acc, prev) => acc && prev, true);
+
+        if (hasInput && valid) {
+          button.removeAttribute("disabled");
+        } else {
+          button.setAttribute("disabled", "true");
+        }
+      }
+    </script>
+  </body>
+</html>
