@@ -1,123 +1,172 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
 
-    <style>
-      label,
-      input {
-        display: block;
-      }
-      .form-group {
-        margin-bottom: 1rem;
-      }
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
 
-      .error {
-        color: red;
-      }
-    </style>
-  </head>
-  <body>
-    <form class="form">
-      <div class="form-group">
-        <label for="username">Username</label>
-        <input type="text" name="username" id="username" />
-        <div class="error"></div>
-      </div>
+  <style>
+    label,
+    input {
+      display: block;
+    }
 
-      <div class="form-group">
-        <label for="nid">National ID</label>
-        <input type="text" name="nid" id="nid" />
-      </div>
+    .form-group {
+      margin-bottom: 1rem;
+    }
 
-      <div class="form-group">
-        <label for="phone">Mobile Number</label>
-        <input type="text" name="phone" id="phone" />
-      </div>
+    .error {
+      color: red;
+    }
 
-      <button type="submit" id="submit" disabled>Click</button>
-    </form>
+    input:invalid {
+      outline-color: red;
+    }
+  </style>
+</head>
 
-    <script>
-      const username = document.getElementById("username");
-      const nid = document.getElementById("nid");
-      const phone = document.getElementById("phone");
-      const button = document.getElementById("submit");
+<body>
+  <form class="form">
+    <div class="form-group">
+      <label for="username">Username</label>
+      <input type="text" name="username" id="username" />
+      <div class="error"></div>
+    </div>
 
-      // username validators
-      const userName = {
-        validators: {
-          maxLength: 25,
-          minLength: 10,
-          pattern: "",
-        },
-        valid: false,
+    <div class="form-group">
+      <label for="nid">National ID</label>
+      <input type="text" name="nid" id="nid" />
+      <div class="error"></div>
+    </div>
+
+    <div class="form-group">
+      <label for="phone">Mobile Number</label>
+      <input type="text" name="phone" id="phone" />
+      <div class="error"></div>
+    </div>
+
+    <button type="submit" id="submit" disabled>Click</button>
+  </form>
+
+  <script>
+    const username = document.getElementById("username");
+    const nid = document.getElementById("nid");
+    const phone = document.getElementById("phone");
+    const button = document.getElementById("submit");
+
+    // username validators
+    const userName = {
+      validators: {
+        maxLength: 25,
+        minLength: 6,
+        pattern: "[a-z0-9]{6,25}"
+      },
+      valid: false,
+    };
+
+    const phoneValue = {
+      validators: {
+        pattern: "09[0-9]{5,13}",
+        maxLength: "15",
+      },
+      valid: false,
+    };
+
+    setValidators(username, userName);
+    setValidators(phone, phoneValue);
+
+    function setValidators(el, controls) {
+      Object.entries(controls.validators).forEach(([key, value]) => {
+        if (!value) return;
+        el.setAttribute(key.toLowerCase(), value);
+      });
+    }
+
+    username.addEventListener("input", (e) => {
+      console.log(username.value);
+      if(!username.value) {
+        username.value = username.value.slice(0, e.target.length - 2);
+        console.log('hell')
       };
+      const errors = validateInput(username, userName.validators);
+      const errEl = document.querySelector("#username + .error");
 
-      Object.entries(userName.validators).forEach(([key, value]) => {
-        username.setAttribute(key.toLowerCase(), value);
-      });
-
-      username.addEventListener("input", (e) => {
-        const errors = validateInput(username, userName.validators);
-        const errEl = document.querySelector("#username + .error");
-
-        if (errors.maxLength) {
-          errEl.textContent = errors.maxLength;
-          userName.valid = false;
-        } else if (errors.minLength) {
-          errEl.textContent = errors.minLength;
-          userName.valid = false;
-        } else {
-          errEl.textContent = "";
-          userName.valid = true;
-        }
-
-        isValidForm();
-      });
-
-      nid.addEventListener("input", (e) => {
-        isValidForm();
-      });
-
-      phone.addEventListener("input", (e) => {
-        isValidForm();
-      });
-
-      function validateInput(input, validators) {
-        const value = input.value;
-        const errors = {};
-        if (value.length < validators.minLength) {
-          errors["minLength"] = `Minimum lenght is ${validators.minLength}`;
-        } else {
-          errors["minLength"] = "";
-        }
-
-        if (value.length > validators.maxLength) {
-          errors["maxLength"] = `Max length is ${validators.maxLength}`;
-        } else {
-          errors["maxLength"] = "";
-        }
-        return errors;
+      if (errors.maxLength) {
+        errEl.textContent = errors.maxLength;
+        userName.valid = false;
+      } else if (errors.minLength) {
+        errEl.textContent = errors.minLength;
+        userName.valid = false;
+      } else if(errors.pattern) {
+        errEl.textContent = "Invalid username";
+        userName.valid = false;
+      } else {
+        errEl.textContent = "";
+        userName.valid = true;
       }
 
-      function isValidForm() {
-        const hasInput = [username, nid, phone]
-          .map((input) => input.value)
-          .every((value) => value != "");
+      isValidForm();
+    });
 
-        const valid = [userName]
-          .map((obj) => obj.valid)
-          .reduce((acc, prev) => acc && prev, true);
+    nid.addEventListener("input", (e) => {
+      isValidForm();
+    });
 
-        if (hasInput && valid) {
-          button.removeAttribute("disabled");
-        } else {
-          button.setAttribute("disabled", "true");
+    phone.addEventListener("input", (e) => {
+      const errors = validateInput(phone, phoneValue.validators);
+      const errEl = document.querySelector("#phone + .error");
+
+      if(errors.pattern) {
+        errEl.textContent = errors.pattern
+        phoneValue.valid = false;
+      } else {
+        errEl.textContent = "";
+        phoneValue.valid = true;
+      }
+
+      isValidForm();
+    });
+
+    function validateInput(input, validators) {
+      const value = input.value;
+      const errors = {};
+      if(validators.pattern) {
+
+        if(input.matches(":invalid")) {
+          errors["pattern"] = `Invalid input`;
         }
       }
-    </script>
-  </body>
+      if (value.length < validators.minLength) {
+        errors["minLength"] = `Minimum lenght is ${validators.minLength}`;
+      } else {
+        errors["minLength"] = "";
+      }
+
+      if (value.length > validators.maxLength) {
+        errors["maxLength"] = `Max length is ${validators.maxLength}`;
+      } else {
+        errors["maxLength"] = "";
+      } 
+      return errors;
+    }
+
+    function isValidForm() {
+      const hasInput = [username, nid, phone]
+        .map((input) => input.value)
+        .every((value) => value != "");
+
+      const valid = [userName, phoneValue]
+        .map((obj) => obj.valid)
+        .reduce((acc, prev) => acc && prev, true);
+
+      if (hasInput && valid) {
+        button.removeAttribute("disabled");
+      } else {
+        button.setAttribute("disabled", "true");
+      }
+    }
+  </script>
+</body>
+
 </html>
