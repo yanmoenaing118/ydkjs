@@ -7,29 +7,75 @@
   <title>Document</title>
 
   <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+    }
     label,
     input {
       display: block;
+      max-width: 100%;
     }
 
+    form {
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      width: 80%;
+      margin: auto;
+    }
+
+    form > div {
+      flex: 1;
+    }
     .form-group {
       margin-bottom: 1rem;
+      display: flex;
+      flex-direction: column;
     }
 
     .error {
       color: red;
     }
 
+    input {
+      border-radius: 4px;
+      border: 1px solid gray;
+      padding: .5rem 0.4rem;
+      color: #333;
+    }
+
     input:invalid {
       outline-color: red;
+    }
+
+    button {
+      transition: background-color .2s ease-in;
+      background: none;
+      border: none;
+      width: 100%;
+      padding: .8rem;
+      background: red;
+      border-radius: 4px;
+      color: white;
+      font-size: 16px;
+      text-transform: uppercase;
+      cursor: pointer;
+    }
+
+    button:disabled {
+      background-color: rgb(183, 169, 169);
+      cursor: not-allowed;
     }
   </style>
 </head>
 
 <body>
   <form class="form">
+    <div>
+      <h2>Enter Your Personal Information</h2>
+    </div>
     <div class="form-group">
-      <label for="username">Username</label>
+      <label for="username">Name</label>
       <input type="text" name="username" id="username" />
       <div class="error"></div>
     </div>
@@ -42,11 +88,13 @@
 
     <div class="form-group">
       <label for="phone">Mobile Number</label>
-      <input type="text" name="phone" id="phone" />
+      <input type="text" name="phone" id="phone" placeholder="09XXXXXXXXX" />
       <div class="error"></div>
     </div>
 
-    <button type="submit" id="submit" disabled>Click</button>
+    <div class="form-group">
+      <button type="submit" id="submit" disabled>Click</button>
+    </div>
   </form>
 
   <script>
@@ -132,7 +180,6 @@
       const value = input.value;
       const errors = {};
       if(validators.pattern) {
-
         if(input.matches(":invalid")) {
           errors["pattern"] = `Invalid input`;
         }
