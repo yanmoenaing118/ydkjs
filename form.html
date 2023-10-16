@@ -10,6 +10,7 @@
     body {
       font-family: Arial, Helvetica, sans-serif;
     }
+
     label,
     input {
       display: block;
@@ -24,9 +25,10 @@
       margin: auto;
     }
 
-    form > div {
+    form>div {
       flex: 1;
     }
+
     .form-group {
       margin-bottom: 1rem;
       display: flex;
@@ -133,7 +135,7 @@
 
     username.addEventListener("input", (e) => {
       console.log(username.value);
-      if(!username.value) {
+      if (!username.value) {
         username.value = username.value.slice(0, e.target.length - 2);
         console.log('hell')
       };
@@ -146,7 +148,7 @@
       } else if (errors.minLength) {
         errEl.textContent = errors.minLength;
         userName.valid = false;
-      } else if(errors.pattern) {
+      } else if (errors.pattern) {
         errEl.textContent = "Invalid username";
         userName.valid = false;
       } else {
@@ -165,7 +167,7 @@
       const errors = validateInput(phone, phoneValue.validators);
       const errEl = document.querySelector("#phone + .error");
 
-      if(errors.pattern) {
+      if (errors.pattern) {
         errEl.textContent = errors.pattern
         phoneValue.valid = false;
       } else {
@@ -179,8 +181,8 @@
     function validateInput(input, validators) {
       const value = input.value;
       const errors = {};
-      if(validators.pattern) {
-        if(input.matches(":invalid")) {
+      if (validators.pattern) {
+        if (input.matches(":invalid")) {
           errors["pattern"] = `Invalid input`;
         }
       }
@@ -194,7 +196,7 @@
         errors["maxLength"] = `Max length is ${validators.maxLength}`;
       } else {
         errors["maxLength"] = "";
-      } 
+      }
       return errors;
     }
 
@@ -213,6 +215,8 @@
         button.setAttribute("disabled", "true");
       }
     }
+
+    
   </script>
 </body>
 
