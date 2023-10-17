@@ -158,13 +158,13 @@ var myLove = {
   },
 };
 
-myLove.name = "Go Youn Jung";
+// myLove.name = "Go Youn Jung";
 
-for (let key in myLove) {
-  if (myLove.hasOwnProperty(key)) {
-    console.log(`${key}: ${myLove[key]}`.toLocaleUpperCase());
-  }
-}
+// for (let key in myLove) {
+//   if (myLove.hasOwnProperty(key)) {
+//     console.log(`${key}: ${myLove[key]}`.toLocaleUpperCase());
+//   }
+// }
 
 var noProto = Object.create(null);
 
@@ -190,39 +190,134 @@ Object.defineProperty(myObject, "b", {
   enumerable: false,
 });
 
-console.log("b" in myObject);
-console.log(myObject.hasOwnProperty("b"));
-for (let key in myObject) {
-  console.log(key, myObject[key]);
-}
+// console.log("b" in myObject);
+// console.log(myObject.hasOwnProperty("b"));
+// for (let key in myObject) {
+//   console.log(key, myObject[key]);
+// }
 
-var arr = [1, 2, 3, 34];
+// var arr = [1, 2, 3, 34];
 
-for (let key in arr) {
-  console.log(key, arr[key]);
-}
+// for (let key in arr) {
+//   console.log(key, arr[key]);
+// }
 
-class Person {
-  constructor(name) {
-    this.name = name;
+// class Person {
+//   constructor(name) {
+//     this.name = name;
+//   }
+
+//   getName() {
+//     return this.name;
+//   }
+// }
+
+// class Student extends Person {
+//   constructor(name, id) {
+//     super(name);
+//     this.id = id;
+//   }
+// }
+
+// var std = new Student("Yan", 32);
+
+// console.log(std);
+// console.log("name" in std);
+// console.log(std.hasOwnProperty("name"));
+// console.log("getName" in std); // in operator traveres the entire prototype chain
+// console.log(std.hasOwnProperty("getName"));
+
+/**
+ * mixins
+ */
+
+function mixin(sourceObj, targetObj) {
+  for (let key in sourceObj) {
+    targetObj[key] = sourceObj[key];
   }
+  return targetObj;
+}
 
-  getName() {
-    return this.name;
+var Vehicle = {
+  engines: 1,
+  ignition: function () {
+    console.log("Turning on my engines: " + this.engines);
+    // console.log(this)
+  },
+  drive: function () {
+    this.ignition();
+    console.log("Steering and moving forward.");
+  },
+};
+
+var Car = mixin(Vehicle, {});
+
+mixin(
+  {
+    engines: 4,
+    wheels: 4,
+    drive: function () {
+      Vehicle.drive.call(this);
+      console.log("Rolling on all " + this.wheels);
+    },
+  },
+  Car
+);
+
+// Car.drive();
+
+function Person(name) {
+  this.name = name;
+}
+
+Person.prototype.printInfo = function () {
+  console.log(`My name is ${this.name}`);
+};
+
+function Student(name) {
+  this.name = name;
+  this.studentId = "MKPT-6313";
+}
+
+
+
+Student.prototype.printInfo = function () {
+  Person.prototype.printInfo.call(this);
+  console.log(`My stutend Id is ${this.studentId}`);
+};
+
+
+
+var std = new Student("Yan Moe Naing");
+var psr = new Person("Go Yoon Jung");
+
+
+// std.printInfo();
+// psr.printInfo();
+
+
+var Entity = {
+  init: function (x, y, w, h) {
+    this.x = x;
+    this.y = y;
+    this.w = w;
+    this.h = h;
+    return this;
+  },
+
+  update: function(dt) {
+    console.log('update: ' + dt);
+  },
+
+  render: function(ctx) {
+    console.log('render: ctx');
   }
 }
 
-class Student extends Person {
-  constructor(name, id) {
-    super(name);
-    this.id = id;
-  }
-}
+var rect = Object.create(Entity)
 
-var std = new Student("Yan", 32);
+rect.init(0,0,32,32);
+rect.shape = 'rectangle';
 
-console.log(std);
-console.log("name" in std);
-console.log(std.hasOwnProperty("name"));
-console.log("getName" in std); // in operator traveres the entire prototype chain
-console.log(std.hasOwnProperty("getName"));
+rect.update(16.666);
+rect.render();
