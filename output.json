@@ -1,0 +1,5392 @@
+{
+  "Features": [
+    {
+      "Feature": "Self-activation",
+      "English": "YOMA BANK NEXT ACTIVATION",
+      "မြန်မာ": "YOMA BANK NEXT အကောင့်ဖွင့်ရန်",
+      "Chinese": "佑瑪銀行下次激活"
+    },
+    {
+      "English": "Enter Yoma bank account and NRC or Passport number",
+      "မြန်မာ": "သင်၏ရိုးမဘဏ်အကောင့်နှင့် မှတ်ပုံတင်နံပါတ် သို့မဟုတ် နိုင်ငံကူးလက်မှတ်ထည့်ရန်",
+      "Chinese": "输入Yoma 银行帐户 和 身份证号码"
+    },
+    {
+      "English": "Please provide the following information to register",
+      "မြန်မာ": "စာရင်းသွင်းရန် အောက်ပါအချက်များကို ဖြည့်စွက်ပါ",
+      "Chinese": "请提供以下信息进行注册"
+    },
+    {
+      "English": "Account number",
+      "မြန်မာ": "အကောင့် နံပါတ်",
+      "Chinese": "银行帐号"
+    },
+    {
+      "English": "Enter digits",
+      "မြန်မာ": "နံပါတ်ထည့်ပါ",
+      "Chinese": "输入数字"
+    },
+    {
+      "English": "Passport or 6 digits of your NRC number",
+      "မြန်မာ": "ပတ်စ်ပို့  (သို့) မှတ်ပုံတင်နံပါတ် ၆ လုံး",
+      "Chinese": "身份证号码的6 位数字 或 护照号码"
+    },
+    {
+      "English": "Enter passport or NRC",
+      "မြန်မာ": "ပတ်စ်ပို့ (သို့) မှတ်ပုံတင်နံပါတ် ရိုက်ထည့်ပါ",
+      "Chinese": "输入护照号码或身份证号码"
+    },
+    {
+      "English": "I agree of terms and conditions.",
+      "မြန်မာ": "စည်းမျဥ်းစည်းကမ်း နှင့် သတ်မှတ်ချက်များကို သဘောတူပါသည်",
+      "Chinese": "我同意  条款和条件。 "
+    },
+    {
+      "English": "Next",
+      "မြန်မာ": "ဆက်လုပ်မည်",
+      "Chinese": "下一步"
+    },
+    {
+      "English": "Enter Verification code",
+      "မြန်မာ": "အတည်ပြုကုတ်နံပါတ် ထည့်ပါ",
+      "Chinese": "输入验证码"
+    },
+    {
+      "English": "Please enter the verification code send to register phone number ** **** **45.",
+      "မြန်မာ": "ဘဏ်အကောင့်ဖွင့်စဉ်က စာရင်းသွင်းထားသည့် ဖုန်းနံပါတ် .............၄၅ သို့ ပေးပို့ထားသောအတည်ပြုကုတ်နံပါတ်ကို ထည့်ပါ",
+      "Chinese": "请输入验证代码发送到注册电话号码** **** ** 45。"
+    },
+    {
+      "English": "Verification code",
+      "မြန်မာ": "အတည်ပြုကုတ်နံပါတ်",
+      "Chinese": "验证码"
+    },
+    {
+      "English": "Enter 6 digit code",
+      "မြန်မာ": "ကုတ်နံပါတ် ၆ လုံးကို ထည့်ပါ",
+      "Chinese": "输入6位数代码"
+    },
+    {
+      "English": "OTP will be expired in 02:45",
+      "မြန်မာ": "02:45 တွင် OTP သက်တမ်းကုန်ဆုံးပါမည်",
+      "Chinese": "OTP将在02:45到期"
+    },
+    {
+      "English": "Don’t receive the OTP?",
+      "မြန်မာ": "OTP မရရှိပါသလား?",
+      "Chinese": "没收到OTP？"
+    },
+    {
+      "English": "Resend OTP",
+      "မြန်မာ": "ပြန်ပို့ရန်",
+      "Chinese": "重新发送OTP"
+    },
+    {
+      "English": "Create your username",
+      "မြန်မာ": "အသုံးပြုသူအမည် သတ်မှတ်ရန်",
+      "Chinese": "创建您的用户名"
+    },
+    {
+      "English": "Enter username to login to Yoma Bank Next Portal. 8-25 Characters allowed. Alpha-numeric, No special characters allowed.",
+      "မြန်မာ": "Yoma Bank Next Portal ကို login ၀င်ရန် စာလုံးနှင့် ကိန်းဂဏန်း ၈လုံးမှ ၂၅လုံးရှိသည့် အထူးအက္ခရာမပါ၀င်သော အသုံးပြုသူအမည်ထည့်ပါ။ ",
+      "Chinese": "输入用户名登录到Yoma应用程序。允许8到12个字符。 alpha-numeric，不允许特殊字符。"
+    },
+    {
+      "English": "Username",
+      "မြန်မာ": "အသုံးပြုသူအမည်",
+      "Chinese": "用户名"
+    },
+    {
+      "English": "Enter username",
+      "မြန်မာ": "အသုံးပြုသူအမည် ထည့်ပါ",
+      "Chinese": "输入用户名"
+    },
+    {
+      "English": "Username can only contain lowercase letters and numbers (a-z, 0-9)",
+      "မြန်မာ": "အသုံးပြုသူအမည်တွင် အက္ခရာစာလုံးအသေး နှင့် ဂဏန်းများသာပါဝင်နိုင်ပါသည် (a-z ၊ 0-9)",
+      "Chinese": "用户名只能包含小写字母和数字（a-z、0-9）"
+    },
+    {
+      "English": "Next",
+      "မြန်မာ": "ဆက်လုပ်မည်",
+      "Chinese": "继续"
+    },
+    {
+      "English": "Create Password",
+      "မြန်မာ": "စကားဝှက်သတ်မှတ်ရန်",
+      "Chinese": "创建密码"
+    },
+    {
+      "English": "For security, use 8-16 characters with uppercase, lowercase, number and special characters.",
+      "မြန်မာ": "စကားဝှက်တွင် စာလုံးအကြီး၊ စာလုံးအသေး၊ ကိန်းဂဏန်းနှင့် အထူးအက္ခရာ ၈လုံးမှ ၁၆လုံးထိ ပါဝင်ရမည်။",
+      "Chinese": "为了安全起见，请使用 8-16 个字符，包括大写、小写、数字和特殊字符"
+    },
+    {
+      "English": "At least one uppercase letter",
+      "မြန်မာ": "အနည်းဆုံး စာလုံးအကြီးတစ်လုံး",
+      "Chinese": "至少有一个大写字母"
+    },
+    {
+      "English": "At least one lowercase letter",
+      "မြန်မာ": "အနည်းဆုံး  စာလုံးအသေးတစ်လုံး",
+      "Chinese": "\r\n至少一个小写字母"
+    },
+    {
+      "English": "At least one number",
+      "မြန်မာ": "အနည်းဆုံး ဂဏန်းတစ်လုံး",
+      "Chinese": "至少一个数字"
+    },
+    {
+      "English": "At least one special character",
+      "မြန်မာ": "အနည်းဆုံး  အထူးအက္ခရာတစ်လုံး",
+      "Chinese": "\r\n至少一个特殊字符"
+    },
+    {
+      "English": "Sufficient Length  (8-16 characters)",
+      "မြန်မာ": "သတ်မှတ်ထားသော စာလုံးအရေအတွက် (၈လုံး မှ ၁၆လုံး)",
+      "Chinese": "足够的长度（8-16 个字符）"
+    },
+    {
+      "English": "Password",
+      "မြန်မာ": "စကားဝှက် ",
+      "Chinese": "密码"
+    },
+    {
+      "English": "Enter password",
+      "မြန်မာ": "စကားဝှက် ထည့်ပါ",
+      "Chinese": "输入密码"
+    },
+    {
+      "English": "Confirm password",
+      "မြန်မာ": "စကားဝှက် အတည်ပြုပါ",
+      "Chinese": "确认你的密码"
+    },
+    {
+      "English": "Next",
+      "မြန်မာ": "ဆက်လုပ်မည်",
+      "Chinese": "继续"
+    },
+    {
+      "English": "Registration Successful",
+      "မြန်မာ": "စာရင်းသွင်းခြင်း အောင်မြင်ပါပြီ",
+      "Chinese": "注册成功"
+    },
+    {
+      "English": "You have been successfully registered and contimue to login",
+      "မြန်မာ": "စာရင်းသွင်းခြင်း အောင်မြင်စွာ ပြီးဆုံးပါပြီ။ Login ဝင်ရောက်ရန် ဆက်လက်လုပ်ဆောင်ပါ။",
+      "Chinese": "您已经成功注册并继续登录"
+    },
+    {
+      "English": "Go to Login",
+      "မြန်မာ": "Login သို့သွားပါ",
+      "Chinese": "转到登录"
+    },
+    {
+      "Feature": "Login",
+      "English": "Username",
+      "မြန်မာ": "အသုံးပြုသူအမည်",
+      "Chinese": "用户名称"
+    },
+    {
+      "English": "Password",
+      "မြန်မာ": "စကားဝှက်",
+      "Chinese": "密码"
+    },
+    {
+      "English": "Forgot Password?",
+      "မြန်မာ": "စကားဝှက် မေ့နေပါသလား?",
+      "Chinese": "忘记密码？"
+    },
+    {
+      "English": "Login",
+      "မြန်မာ": "ဝင်မည်",
+      "Chinese": "登录"
+    },
+    {
+      "English": "YOMA BANK NEXT ACTIVATION",
+      "မြန်မာ": "YOMA BANK NEXT အကောင့်ဖွင့်ရန်",
+      "Chinese": "佑玛银行下次激活"
+    },
+    {
+      "Feature": "Forgot Password",
+      "English": "Forgot Password",
+      "မြန်မာ": "စကားဝှက် မေ့နေပါသလား?",
+      "Chinese": "忘记密码？"
+    },
+    {
+      "English": "Username",
+      "မြန်မာ": "အသုံးပြုသူအမည်",
+      "Chinese": "用户名称"
+    },
+    {
+      "English": "Enter username",
+      "မြန်မာ": "အသုံးပြုသူအမည် ထည့်ပါ",
+      "Chinese": "输入用户名"
+    },
+    {
+      "English": "National ID",
+      "မြန်မာ": "မှတ်ပုံတင်ဂဏန်း၆လုံး",
+      "Chinese": "身份证号码"
+    },
+    {
+      "English": "Mobile Number",
+      "မြန်မာ": "ဖုန်းနံပါတ်",
+      "Chinese": "手机号码"
+    },
+    {
+      "English": "<< Back to Login",
+      "မြန်မာ": "Login သို့ပြန်သွားရန်",
+      "Chinese": "<< 返回登录页面"
+    },
+    {
+      "English": "Next",
+      "မြန်မာ": "ဆက်လုပ်မည်",
+      "Chinese": "继续"
+    },
+    {
+      "English": "Update password",
+      "မြန်မာ": "စကားဝှက် အသစ်ပြင်ဆင်ပါ။",
+      "Chinese": "更新密码"
+    },
+    {
+      "English": " You need to change your password.",
+      "မြန်မာ": "စကားဝှက်ပြောင်းရန် လိုပါမည်",
+      "Chinese": "您需要更改密码。"
+    },
+    {
+      "English": "New Password",
+      "မြန်မာ": "စကားဝှက်အသစ်",
+      "Chinese": "\r\n新密码"
+    },
+    {
+      "English": "Enter New Password",
+      "မြန်မာ": "စကားဝှက်အသစ် ထည့်ပါ",
+      "Chinese": "输入新密码"
+    },
+    {
+      "English": "Confirm Password",
+      "မြန်မာ": "စကားဝှက်အသစ်  အတည်ပြုပါ",
+      "Chinese": "确认密码"
+    },
+    {
+      "English": "Re-type New Password",
+      "မြန်မာ": "စကားဝှက်အသစ်  ပြန်ထည့်ပါ",
+      "Chinese": "\r\n重新输入新密码"
+    },
+    {
+      "English": "Update",
+      "မြန်မာ": "ပြင်ဆင်မည်။",
+      "Chinese": "更新"
+    },
+    {
+      "Feature": "Side Menu",
+      "English": "Dashboard",
+      "မြန်မာ": "ပင်မစာမျက်နှာ",
+      "Chinese": "仪表板"
+    },
+    {
+      "English": "Account Overview",
+      "မြန်မာ": "ဘဏ်စာရင်းများ",
+      "Chinese": "账户"
+    },
+    {
+      "English": "Fixed Deposit",
+      "မြန်မာ": "စာရင်းသေအပ်ငွေများ",
+      "Chinese": "定期存款"
+    },
+    {
+      "English": "Loans",
+      "မြန်မာ": "ချေးငွေအချက်အလက်များ",
+      "Chinese": "贷款"
+    },
+    {
+      "English": "Transfer ",
+      "မြန်မာ": "ငွေလွှဲရန်",
+      "Chinese": "转移资金"
+    },
+    {
+      "English": "Own Account Transfer",
+      "မြန်မာ": "မိမိအကောင့်သို့ငွေလွှဲရန်",
+      "Chinese": "自有账户转账"
+    },
+    {
+      "English": "Other Account Transfer",
+      "မြန်မာ": "အခြားအကောင့်သို့ငွေလွှဲရန်",
+      "Chinese": "其他账户转账"
+    },
+    {
+      "English": "Other Bank Transfer",
+      "မြန်မာ": "အခြားဘဏ်သို့ငွေလွှဲရန်",
+      "Chinese": "其他银行转账"
+    },
+    {
+      "English": "WavePay Transfer",
+      "မြန်မာ": "WavePay အကောင့်သို့ငွေလွှဲရန်",
+      "Chinese": "WavePay转账"
+    },
+    {
+      "English": "Transaction History",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုမှတ်တမ်းများ",
+      "Chinese": "交易纪录"
+    },
+    {
+      "English": "Receivers",
+      "မြန်မာ": "ငွေလက်ခံသူများ",
+      "Chinese": "收件人"
+    },
+    {
+      "English": "Bill Payment",
+      "မြန်မာ": "ဘေလ်ပေးဆောင်ရန်",
+      "Chinese": "缴费"
+    },
+    {
+      "English": "Mobile Top-up",
+      "မြန်မာ": "ဖုန်းငွေဖြည့်ရန်",
+      "Chinese": "手机充值"
+    },
+    {
+      "English": "Bulk Payment",
+      "မြန်မာ": "အစုလိုက်ငွေလွှဲပြောင်းရန်",
+      "Chinese": "批量支付"
+    },
+    {
+      "English": "Bulk Transaction History",
+      "မြန်မာ": "အစုလိုက်ငွေလွှဲပြောင်းမှုမှတ်တမ်းများ",
+      "Chinese": "批量交易历史"
+    },
+    {
+      "English": "Schedule Payment",
+      "မြန်မာ": "ငွေပေးချေမှုကြိုတင်စီစဉ်ရန်",
+      "Chinese": "安排付款"
+    },
+    {
+      "English": "Approvals",
+      "မြန်မာ": "အတည်ပြုရန်",
+      "Chinese": "批准"
+    },
+    {
+      "English": "Change Language",
+      "မြန်မာ": "ဘာသာစကားပြောင်းရန်",
+      "Chinese": "改变语言"
+    },
+    {
+      "English": "Logout",
+      "မြန်မာ": "ထွက်ရန်",
+      "Chinese": "登出"
+    },
+    {
+      "Feature": "Notifications",
+      "English": "Notifications",
+      "မြန်မာ": "အသိပေးချက်များ",
+      "Chinese": "通知"
+    },
+    {
+      "English": "All",
+      "မြန်မာ": "အသိပေးချက်များအားလုံး",
+      "Chinese": "所有通知"
+    },
+    {
+      "English": "News & Promotions",
+      "မြန်မာ": "သတင်း နှင့် ပရိုမိုးရှင်း အသိပေးချက်များ",
+      "Chinese": "\r\n新闻与促销"
+    },
+    {
+      "English": "Account Infromation",
+      "မြန်မာ": "အကောင့်နှင့် ဆိုင်သော အသိပေးချက်များ",
+      "Chinese": "账户信息"
+    },
+    {
+      "English": "System Information",
+      "မြန်မာ": "စနစ်နှင့် ဆိုင်သော  အသိပေးချက်များ",
+      "Chinese": "系统信息"
+    },
+    {
+      "English": "No Notifications",
+      "မြန်မာ": "အသိပေးချက်များမရှိပါ။",
+      "Chinese": "无通知"
+    },
+    {
+      "Feature": "Dashboard",
+      "English": "Welcome Back",
+      "မြန်မာ": "ပြန်လည်ကြိုဆိုပါသည်",
+      "Chinese": "欢迎回来"
+    },
+    {
+      "English": "My Accounts ",
+      "မြန်မာ": "ကျွန်ုပ်၏ အကောင့်စာရင်းများ",
+      "Chinese": "我的账户"
+    },
+    {
+      "English": "Recent Transactions",
+      "မြန်မာ": "လတ်တလောငွေလွှဲပြောင်းမှုများ",
+      "Chinese": "最近交易"
+    },
+    {
+      "English": "Acc No.",
+      "မြန်မာ": "အကောင့်နံပါတ်",
+      "Chinese": "户口号码"
+    },
+    {
+      "English": "Transaction Initiated Date",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုလုပ်ဆောင်သည့်နေ့",
+      "Chinese": "交易日期"
+    },
+    {
+      "English": "Transaction Reference ID",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်ချက် ရည်ညွန်းအမှတ်",
+      "Chinese": "交易参考 ID"
+    },
+    {
+      "English": "Transaction Amount",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမည့်ပမာဏ",
+      "Chinese": "交易金额"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从转移"
+    },
+    {
+      "English": "To",
+      "မြန်မာ": "သို့",
+      "Chinese": "传送到"
+    },
+    {
+      "English": "Transaction Type",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်မှုအမျိုးအစား",
+      "Chinese": "交易类型"
+    },
+    {
+      "English": "There is no transaction yet.",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်မှု မရှိသေးပါ။",
+      "Chinese": "还没有交易。"
+    },
+    {
+      "Feature": "Account Overview",
+      "English": "My Accounts",
+      "မြန်မာ": "ကျွန်ုပ်၏ အကောင့်စာရင်းများ",
+      "Chinese": "我的账户"
+    },
+    {
+      "English": "Deposit",
+      "မြန်မာ": "အပ်ငွေစာရင်းများ",
+      "Chinese": "\r\n订金"
+    },
+    {
+      "English": "You don't have any active Deposit Accounts",
+      "မြန်မာ": "သင့်တွင် လက်ရှိအပ်ငွေစာရင်းများ မရှိပါ။",
+      "Chinese": "您没有任何活跃的存款账户"
+    },
+    {
+      "English": "Acc No",
+      "မြန်မာ": "အကောင့်နံပါတ်",
+      "Chinese": "户口号码"
+    },
+    {
+      "English": "Account Detail",
+      "မြန်မာ": "အကောင့်အသေးစိတ် အချက်အလက်များ ",
+      "Chinese": "账户详情"
+    },
+    {
+      "English": "Download Account Statement",
+      "မြန်မာ": "အကောင့်စာရင်း ဒေါင်းလုဒ်လုပ်မည်",
+      "Chinese": "下载账户结单"
+    },
+    {
+      "English": "Transfer",
+      "မြန်မာ": "ငွေလွှဲမည်",
+      "Chinese": "\r\n转移"
+    },
+    {
+      "English": "Acc No",
+      "မြန်မာ": "အကောင့်နံပါတ်",
+      "Chinese": "户口号码"
+    },
+    {
+      "English": "Account Name",
+      "မြန်မာ": "အကောင့်အမည်",
+      "Chinese": "\r\n帐户名称"
+    },
+    {
+      "English": "Account Holder Name",
+      "မြန်မာ": "အကောင့်ပိုင်ရှင်အမည်",
+      "Chinese": "账户持有人姓名"
+    },
+    {
+      "English": "Account Number",
+      "မြန်မာ": "အကောင့်နံပါတ်",
+      "Chinese": "\r\n帐号"
+    },
+    {
+      "English": "Available Balance",
+      "မြန်မာ": "လွှဲနိုင်သည့်ပမာဏ",
+      "Chinese": "\r\n可用余额"
+    },
+    {
+      "English": "Account Currency",
+      "မြန်မာ": "ငွေကြေးအမျိုးအစား",
+      "Chinese": "账户币种"
+    },
+    {
+      "English": "Interest Rate",
+      "မြန်မာ": "အတိုးနှုန်း",
+      "Chinese": "利率"
+    },
+    {
+      "English": "Blocked Amount",
+      "မြန်မာ": "လွှဲမရသည့်ပမာဏ",
+      "Chinese": "冻结金额"
+    },
+    {
+      "English": "Booked Balance",
+      "မြန်မာ": "စာရင်းရှိပမာဏ",
+      "Chinese": "预订余额"
+    },
+    {
+      "English": "Account Type",
+      "မြန်မာ": "အကောင့်အမျိုးအစား",
+      "Chinese": "帐户类型"
+    },
+    {
+      "English": "Opening Date",
+      "မြန်မာ": "အကောင့်ဖွင့်သည့်နေ့",
+      "Chinese": "账户开设日期"
+    },
+    {
+      "English": "Account Status",
+      "မြန်မာ": "အကောင့်အခြေအနေ",
+      "Chinese": "帐户状态"
+    },
+    {
+      "English": "More Detail",
+      "မြန်မာ": "အသေးစိတ်ကြည့်မည်။",
+      "Chinese": "更多详情"
+    },
+    {
+      "English": "Transaction List",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်ချက်စာရင်းများ",
+      "Chinese": "交易清单"
+    },
+    {
+      "English": "From Date",
+      "မြန်မာ": "ရက်စွဲမှ",
+      "Chinese": "从日期"
+    },
+    {
+      "English": "To Date",
+      "မြန်မာ": "ရက်စွဲသို့",
+      "Chinese": "迄今为止"
+    },
+    {
+      "English": "Search",
+      "မြန်မာ": "ရှာမည်",
+      "Chinese": "搜索"
+    },
+    {
+      "English": "Clear All",
+      "မြန်မာ": "အားလုံးရှင်းမည်",
+      "Chinese": "全部清除"
+    },
+    {
+      "English": "There is no transaction yet.",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်မှုမရှိသေးပါ။",
+      "Chinese": "还没有交易。"
+    },
+    {
+      "English": "Download Account Statement",
+      "မြန်မာ": "အကောင့်စာရင်း ဒေါင်းလုဒ်လုပ်မည်",
+      "Chinese": "下载账户结单"
+    },
+    {
+      "English": "You could only download account statements that are valid for the last 12 months.",
+      "မြန်မာ": "လွန်ခဲ့သော ၁၂လ၏စာရင်းရှင်းတမ်းကို လအလိုက် ရွေးချယ်ကာ ဒေါင်းလုဒ်လုပ်နိုင်ပါသည်",
+      "Chinese": "您可以下载最近 12 个月数据的每月账户报表"
+    },
+    {
+      "English": "Please choose month",
+      "မြန်မာ": "လကိုရွေးချယ်ပါ",
+      "Chinese": "选择一个月"
+    },
+    {
+      "English": "Download ",
+      "မြန်မာ": "ဒေါင်းလုဒ်လုပ်မည်",
+      "Chinese": "下载"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Downloading ......",
+      "မြန်မာ": "ဒေါင်းလုဒ်လုပ်နေပါသည် .........",
+      "Chinese": "正在下载......"
+    },
+    {
+      "English": "Download Successfully",
+      "မြန်မာ": "ဒေါင်းလုဒ်လုပ်ခြင်းအောင်မြင်ပါသည်",
+      "Chinese": "下载成功"
+    },
+    {
+      "English": "Change your account name",
+      "မြန်မာ": "အကောင့်နာမည်ပြောင်းမည်",
+      "Chinese": "更改您的帐户名称"
+    },
+    {
+      "English": "Account Rename",
+      "မြန်မာ": "အကောင့်နာမည် ပြန်လည်သတ်မှတ်ပါ",
+      "Chinese": "帐户重命名"
+    },
+    {
+      "English": "Enter account name",
+      "မြန်မာ": "အကောင့်နာမည် ထည့်ပါ",
+      "Chinese": "输入您的帐户名称"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "\r\n取消"
+    },
+    {
+      "English": "Save",
+      "မြန်မာ": "သိမ်းဆည်းမည် ",
+      "Chinese": "节省"
+    },
+    {
+      "English": "Transaction Initiated Date",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုလုပ်ဆောင်သည့်နေ့",
+      "Chinese": "交易日期"
+    },
+    {
+      "English": "Transaction Reference ID",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်ချက် ရည်ညွန်းအမှတ်",
+      "Chinese": "交易参考 ID"
+    },
+    {
+      "English": "Transaction Amount",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမည့်ပမာဏ",
+      "Chinese": "交易金额"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从转移"
+    },
+    {
+      "English": "To",
+      "မြန်မာ": "သို့",
+      "Chinese": "传送到"
+    },
+    {
+      "English": "Transaction Type",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်မှုအမျိုးအစား",
+      "Chinese": "交易类型"
+    },
+    {
+      "English": "Transaction ID",
+      "မြန်မာ": "ငွေလွှဲသည့်အမှတ်",
+      "Chinese": "交易ID"
+    },
+    {
+      "English": "Message",
+      "မြန်မာ": "အကြောင်းအရာ",
+      "Chinese": "评论"
+    },
+    {
+      "English": "Purpose of Transaction",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုရည်ရွယ်ချက်",
+      "Chinese": "交易目的"
+    },
+    {
+      "English": "Transfer Fees",
+      "မြန်မာ": "ငွေလွှဲ၀န်ဆောင်ခ",
+      "Chinese": "转让费"
+    },
+    {
+      "English": "Remark",
+      "မြန်မာ": "မှတ်ချက်",
+      "Chinese": "评论"
+    },
+    {
+      "English": "Receiver Bank Name",
+      "မြန်မာ": "လက်ခံသူဘဏ်နာမည်",
+      "Chinese": "收款银行名称"
+    },
+    {
+      "English": "Receiver Branch Name",
+      "မြန်မာ": "လက်ခံသူဘဏ်ခွဲနာမည်",
+      "Chinese": "收款人分行名称"
+    },
+    {
+      "Feature": "Fixed Deposit",
+      "English": "Fixed Deposit",
+      "မြန်မာ": "စာရင်းသေအပ်ငွေများ",
+      "Chinese": "\r\n定期存款"
+    },
+    {
+      "English": "Acc No",
+      "မြန်မာ": "အကောင့်နံပါတ်",
+      "Chinese": "户口号码"
+    },
+    {
+      "English": "Fixed Deposit Account",
+      "မြန်မာ": "စာရင်းသေအပ်ငွေစာရင်းများ",
+      "Chinese": "定期存款账户"
+    },
+    {
+      "English": "Grow your savings now by opening a Fixed Deposit account with the interest rate of 8.25% p.a.",
+      "မြန်မာ": "ရိုးမဘဏ်ရဲ့ အတိုးနှုန်း ၈.၂၅% p.a အထိ ရရှိနိုင်မည့် Fixed Deposit ကို စာရင်းဖွင့်ပြီး သင်၏ စုဆောင်းငွေကို တိုးပွားအောင် ပြုလုပ်လိုက်ပါ",
+      "Chinese": "立即开设定期存款账户，年利率为 8.25%，增加您的储蓄。"
+    },
+    {
+      "English": "Grow your savings now by opening a Super Fixed Deposit account with the highest interest rate of 9.75% p.a, transferring from a Flexi Everyday account.",
+      "မြန်မာ": "ရိုးမဘဏ်ရဲ့ အမြင့်ဆုံး အတိုးနှုန်း ၉.၇၅% p.a အထိ ရရှိနိုင်မည့် Super Fixed Deposit ကို Flexi Everyday အကောင့်မှ လွှဲပြောင်း၍ စာရင်းဖွင့်ပြီး သင်၏ စုဆောင်းငွေကို တိုးပွားအောင် ပြုလုပ်လိုက်ပါ",
+      "Chinese": "现在就通过 Flexi Everyday 账户转入最高年利率 9.75% 的超级定期存款账户来增加您的储蓄。"
+    },
+    {
+      "English": "Click here to open an account",
+      "မြန်မာ": "စာရင်းသေအပ်ငွေစာရင်းဖွင့်ရန် ဤနေရာကိုနှိပ်ပါ",
+      "Chinese": "点击这里开设帐户"
+    },
+    {
+      "English": "Open Fixed Deposit Account",
+      "မြန်မာ": "စာရင်းသေအပ်ငွေစာရင်းဖွင့်မည်",
+      "Chinese": "创建定期存款"
+    },
+    {
+      "English": "Earn More interest with Fixed Deposit Account!",
+      "မြန်မာ": "စာရင်းသေအပ်ငွေစာရင်းဖွင့်ပြီး သင်၏ စုဆောင်းငွေကို တိုးပွားအောင် ပြုလုပ်လိုက်ပါ!",
+      "Chinese": "通过定期存款账户赚取更多利息！"
+    },
+    {
+      "English": "Total Interest",
+      "မြန်မာ": "အတိုးနှုန်း စုစုပေါင်း",
+      "Chinese": "总利息"
+    },
+    {
+      "English": "Total interest is :",
+      "မြန်မာ": "အတိုးနှုန်း စုစုပေါင်း",
+      "Chinese": "总利息是："
+    },
+    {
+      "English": "Interest pay-out account",
+      "မြန်မာ": "အတိုးထည့်သွင်းမည့်အကောင့်",
+      "Chinese": "利息支付帐户"
+    },
+    {
+      "English": "Super Fixed Deposit Account",
+      "မြန်မာ": "Super စာရင်းသေအပ်ငွေစာရင်း",
+      "Chinese": "Super定期存款帐户"
+    },
+    {
+      "English": "Open Super Fixed Deposit Account",
+      "မြန်မာ": "Super စာရင်းသေအပ်ငွေစာရင်းဖွင့်မည်",
+      "Chinese": "开设Super定期账户"
+    },
+    {
+      "English": "From which account",
+      "မြန်မာ": "အသုံးပြုမည့်အကောင့်",
+      "Chinese": "从哪个帐户"
+    },
+    {
+      "English": "Deposit Amount",
+      "မြန်မာ": "အပ်ငွေ ပမာဏ",
+      "Chinese": "存款金额"
+    },
+    {
+      "English": "Enter amount",
+      "မြန်မာ": "အပ်ငွေ ပမာဏရိုက်ထည့်ပါ။",
+      "Chinese": "输入金额"
+    },
+    {
+      "English": "Deposit Conditions",
+      "မြန်မာ": "အပ်ငွေသက်တမ်း",
+      "Chinese": "存款条件"
+    },
+    {
+      "English": "Maturity",
+      "မြန်မာ": "စာရင်းသက်တမ်းပြည့်မည့်နေ့အတွက်ညွှန်ကြားချက်",
+      "Chinese": "到期"
+    },
+    {
+      "English": "Maturity Info",
+      "မြန်မာ": "စာရင်းသက်တမ်းအမျိုးအစားကြည့်ရန်",
+      "Chinese": "到期信息"
+    },
+    {
+      "English": "Maturity Info",
+      "မြန်မာ": "စာရင်းသက်တမ်းအမျိုးအစား",
+      "Chinese": "到期信息"
+    },
+    {
+      "English": "Maturity methods can be effective if your new fixed deposit account is due.",
+      "မြန်မာ": "သင်၏ fixed deposit သက်တမ်းပြည့်သည့်နေ့အတွက် ဆက်လက်လုပ်ဆောင်ရမည့် ညွှန်ကြားချက် ဖြစ်သည်။",
+      "Chinese": "如果您的新定期存款账户到期，到期方法可能会很有效。"
+    },
+    {
+      "English": "Principal and Interest will be payout to your account.",
+      "မြန်မာ": "အရင်းနှင့်အတိုးအား သင်၏မူရင်းအကောင့်ထဲသို့ ပြန်ထည့်မည်။",
+      "Chinese": "本金和利息将支付到您的帐户。"
+    },
+    {
+      "English": "Interest will be payout to your source account (or) selected account and Principal will be renewal for the next term.",
+      "မြန်မာ": "အတိုးအား သင်၏ မူရင်းအကောင့် (သို့မဟုတ်) ရွေးချယ်ထားသောအကောင့်ထဲသို့ ပြန်ထည့်ပြီး အရင်းအား fixed deposit သက်တမ်းအသစ်ဖြင့် ဆက်ထားမည်။",
+      "Chinese": "利息将支付至您的源账户（或）所选账户，本金将续订下一期。"
+    },
+    {
+      "English": "Both principal and interest amount will be renewal for the next term.",
+      "မြန်မာ": "အရင်းနှင့်အတိုး အားလုံးပေါင်းပမာဏအား fixed deposit သက်တမ်းအသစ်ဖြင့် ဆက်ထားမည်။",
+      "Chinese": "本金和利息金额均会续订至下一期。"
+    },
+    {
+      "English": "Total payback amount will be 50,308.21 MMK and interest will be 308.21 MMK.",
+      "မြန်မာ": "စုစုပေါင်းပြန်ရမည့် ပမာဏမှာ ( ) ကျပ် ဖြစ်ပြီး အတိုး ပမာဏမှာ ( ) ကျပ် ဖြစ် သည်။",
+      "Chinese": "总偿还金额为 50,308.21 MMK，利息为 308.21 MMK。"
+    },
+    {
+      "English": "Interest Pay-out account",
+      "မြန်မာ": "အတိုးထည့်သွင်းမည့် အကောင့်",
+      "Chinese": "支出帐户"
+    },
+    {
+      "English": "Next",
+      "မြန်မာ": "ဆက်သွားမည်",
+      "Chinese": "继续"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Total Payback Amount",
+      "မြန်မာ": "စုစုပေါင်းပြန်ရမည့် ပမာဏ",
+      "Chinese": "总回报金额"
+    },
+    {
+      "English": "From Which Account",
+      "မြန်မာ": "အသုံးပြုမည့်အကောင့်",
+      "Chinese": "从"
+    },
+    {
+      "English": "Deposit Amount",
+      "မြန်မာ": "အပ်ငွေ အမျိုးအစား",
+      "Chinese": "存款金额"
+    },
+    {
+      "English": "Deposit Type",
+      "မြန်မာ": "အပ်ငွေ ပမာဏ",
+      "Chinese": "存款类型"
+    },
+    {
+      "English": "Deposit Conditions",
+      "မြန်မာ": "အပ်ငွေအခြေအနေ",
+      "Chinese": "存款条件"
+    },
+    {
+      "English": "Maturity",
+      "မြန်မာ": "စာရင်းသက်တမ်းပြည့်မည့်အချိန်",
+      "Chinese": "到期"
+    },
+    {
+      "English": "Maturity Date",
+      "မြန်မာ": "စာရင်းသက်တမ်းပြည့်မည့်‌နေ့",
+      "Chinese": "成人礼"
+    },
+    {
+      "English": "Interest Pay-out account",
+      "မြန်မာ": "အတိုးထည့်သွင်းမည့် အကောင့်",
+      "Chinese": "支出帐户"
+    },
+    {
+      "English": "Principal will be paid to your source account.",
+      "မြန်မာ": "အရင်းအား",
+      "Chinese": "本金将支付至您的来源账户。"
+    },
+    {
+      "English": "Back",
+      "မြန်မာ": "အရှေ့သို့ပြန်သွားရန်",
+      "Chinese": "后退"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Confirm",
+      "မြန်မာ": "အတည်ပြုမည်။",
+      "Chinese": "确认"
+    },
+    {
+      "English": "Successfully created your Fixed Deposit Account!",
+      "မြန်မာ": "စာရင်းသေအပ်ငွေစာရင်း အောင်မြင်စွာဖွင့်လှစ်ပြီးပါပြီ။",
+      "Chinese": "成功创建了您的定期存款帐户！"
+    },
+    {
+      "English": "Minimum transaction amount should be 50,000.00 MMK.",
+      "မြန်မာ": "အနည်းဆုံး ၅၀,၀၀၀ ကျပ်ဖြင့် အပ်ငွေစာရင်းဖွင့်လှစ်ရပါမည်",
+      "Chinese": "最低余额为50000。"
+    },
+    {
+      "English": "Sorry",
+      "မြန်မာ": "ဝမ်းနည်းပါတယ်",
+      "Chinese": "对不起"
+    },
+    {
+      "English": "You're not Flexi Account user!",
+      "မြန်မာ": "လူကြီးမင်းသည် Flexi Account အသုံးပြုသူမဟုတ်ပါ",
+      "Chinese": "您不是 Flexi 帐户使用者!"
+    },
+    {
+      "Feature": "Loans",
+      "English": "Loans Info",
+      "မြန်မာ": "ချေးငွေအချက်အလက်များ",
+      "Chinese": "贷款信息"
+    },
+    {
+      "English": "Loan Account No",
+      "မြန်မာ": "ချေးငွေအကောင့်နံပါတ်",
+      "Chinese": "贷款账号"
+    },
+    {
+      "English": "You do not have any active loan.",
+      "မြန်မာ": "မည်သည့်ချေးငွေမှ မရှိပါ။",
+      "Chinese": "您没有任何有效贷款。"
+    },
+    {
+      "English": "There is no repayment yet.",
+      "မြန်မာ": "ပြန်ဆပ်ခြင်းမရှိသေးပါ။",
+      "Chinese": "目前还没有还款。"
+    },
+    {
+      "English": "Loan Detail",
+      "မြန်မာ": "ချေးငွေအသေးစိတ်အချက်အလက်များ",
+      "Chinese": "贷款详情"
+    },
+    {
+      "English": "Loan Account No",
+      "မြန်မာ": "ချေးငွေအကောင့်နံပါတ်",
+      "Chinese": "贷款账号"
+    },
+    {
+      "English": "Disbursement Date",
+      "မြန်မာ": "ချေးငွေထုတ်ပေးသည့်ရက်စွဲ",
+      "Chinese": "付款日期"
+    },
+    {
+      "English": "Loan Amount",
+      "မြန်မာ": "ချေးငွေပမာဏ",
+      "Chinese": "贷款额度"
+    },
+    {
+      "English": "Interest Rate",
+      "မြန်မာ": "အတိုးနှုန်း",
+      "Chinese": "利率"
+    },
+    {
+      "English": "Loan Terms",
+      "မြန်မာ": "ချေးငွေကာလ",
+      "Chinese": "贷款条款"
+    },
+    {
+      "English": "Currency",
+      "မြန်မာ": "ငွေကြေးအမျိုးအစား",
+      "Chinese": "货币"
+    },
+    {
+      "English": "Loan Status",
+      "မြန်မာ": "ချေးငွေအခြေအနေ",
+      "Chinese": "贷款状况"
+    },
+    {
+      "English": "Summary",
+      "မြန်မာ": "အနှစ်ချုပ် အချက်အလက်များ",
+      "Chinese": "概括"
+    },
+    {
+      "English": "Loan Account No",
+      "မြန်မာ": "ချေးငွေအကောင့်နံပါတ်",
+      "Chinese": "贷款账号"
+    },
+    {
+      "English": "Loan Type",
+      "မြန်မာ": "ချေးငွေအမျိုးအစား",
+      "Chinese": "贷款类型"
+    },
+    {
+      "English": "Currency",
+      "မြန်မာ": "ငွေကြေးအမျိုးအစား",
+      "Chinese": "货币"
+    },
+    {
+      "English": "Loan Amount",
+      "မြန်မာ": "ချေးငွေပမာဏ",
+      "Chinese": "贷款额度"
+    },
+    {
+      "English": "Interest Rate",
+      "မြန်မာ": "အတိုးနှုန်း",
+      "Chinese": "利率"
+    },
+    {
+      "English": "Repayment Type",
+      "မြန်မာ": "ပေးဆောင်ရမည့်အမျိုးအစား",
+      "Chinese": "还款类型"
+    },
+    {
+      "English": "Repayment Frequency",
+      "မြန်မာ": "ပေးဆောင်ရမည့်အကြိမ်ရေ",
+      "Chinese": "还款频率"
+    },
+    {
+      "English": "Loan Terms",
+      "မြန်မာ": "ချေးငွေကာလ",
+      "Chinese": "贷款条款"
+    },
+    {
+      "English": "Next Repayment Amount",
+      "မြန်မာ": "နောက်တစ်ကြိမ်ပေးဆောင်ရမည့်ပမာဏ",
+      "Chinese": "下次还款金额"
+    },
+    {
+      "English": "Next Repayment Date",
+      "မြန်မာ": "နောက်တစ်ကြိမ်ပေးဆောင်ရမည့်နေ့",
+      "Chinese": "下一个还款日期"
+    },
+    {
+      "English": "Overdue Days",
+      "မြန်မာ": "ရက်လွန်ရက်များ",
+      "Chinese": "逾期天数"
+    },
+    {
+      "English": "Last Paid Date",
+      "မြန်မာ": "နောက်ဆုံးပေးဆောင်သည့်ရက်စွဲ",
+      "Chinese": "最后付款日期"
+    },
+    {
+      "English": "Overdue Amount",
+      "မြန်မာ": "ရက်လွန်ပမာဏ",
+      "Chinese": "逾期金额"
+    },
+    {
+      "English": "Penalty",
+      "မြန်မာ": "ဒဏ်ငွေ",
+      "Chinese": "惩罚"
+    },
+    {
+      "English": "Maturity Date",
+      "မြန်မာ": "စာရင်းသက်တမ်းပြည့်မည့်နေ့",
+      "Chinese": "成人礼"
+    },
+    {
+      "English": "Loan Status",
+      "မြန်မာ": "ချေးငွေအခြေအနေ",
+      "Chinese": "贷款状况"
+    },
+    {
+      "English": "Repayment Schedule",
+      "မြန်မာ": "ပြန်ဆပ်ရမည့်အချိန်ဇယား",
+      "Chinese": "还款时间表"
+    },
+    {
+      "English": "Payment Due On",
+      "မြန်မာ": "ပေးချေရမည့်ရက်",
+      "Chinese": "付款到期日"
+    },
+    {
+      "English": "Repayment No",
+      "မြန်မာ": "ပေးဆောင်ရမည့်အကြိမ်ရေ",
+      "Chinese": "还款编号"
+    },
+    {
+      "English": "Repayment Amount",
+      "မြန်မာ": "ပေးဆောင်ရမည့်ပမာဏ",
+      "Chinese": "还款金额"
+    },
+    {
+      "English": "Interest",
+      "မြန်မာ": "အတိုးပမာဏ",
+      "Chinese": "兴趣"
+    },
+    {
+      "English": "Principal ",
+      "မြန်မာ": "အရင်းစုစုပေါင်း",
+      "Chinese": "主要的"
+    },
+    {
+      "English": "Overdue Days",
+      "မြန်မာ": "ရက်လွန်ရက်များ",
+      "Chinese": "逾期天数"
+    },
+    {
+      "English": "Status",
+      "မြန်မာ": "အခြေအနေ",
+      "Chinese": "地位"
+    },
+    {
+      "English": "Search by Status",
+      "မြန်မာ": "အခြေအနေအလိုက်ရှာဖွေမည်",
+      "Chinese": "按状态搜索"
+    },
+    {
+      "English": "All",
+      "မြန်မာ": "အားလုံး",
+      "Chinese": "全部"
+    },
+    {
+      "English": "Paid",
+      "မြန်မာ": "ပေးဆောင်ပြီး",
+      "Chinese": "有薪酬的"
+    },
+    {
+      "English": "Unpaid",
+      "မြန်မာ": "မပေးဆောင်ရသေးပါ",
+      "Chinese": "未付"
+    },
+    {
+      "English": "UpComing",
+      "မြန်မာ": "မကြာမီပေးဆောင်ရန်",
+      "Chinese": "即将推出"
+    },
+    {
+      "English": "There is no repayment yet.",
+      "မြန်မာ": "ပေးဆောင်ထားခြင်းမရှိသေးပါ။",
+      "Chinese": "目前还没有还款。"
+    },
+    {
+      "Feature": "Transaction History",
+      "English": "Transaction History",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုမှတ်တမ်းများ",
+      "Chinese": "交易纪录"
+    },
+    {
+      "English": "From Date",
+      "မြန်မာ": "ရက်စွဲမှ",
+      "Chinese": "从日期"
+    },
+    {
+      "English": "To Date",
+      "မြန်မာ": "ရက်စွဲသို့",
+      "Chinese": "迄今为止"
+    },
+    {
+      "English": "Search",
+      "မြန်မာ": "ရှာမည်",
+      "Chinese": "搜索"
+    },
+    {
+      "English": "Clear All",
+      "မြန်မာ": "အားလုံးရှင်းမည်",
+      "Chinese": "全部清除"
+    },
+    {
+      "English": "Transaction Initiated Date",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုလုပ်ဆောင်သည့်နေ့",
+      "Chinese": "交易日期"
+    },
+    {
+      "English": "Transaction Reference ID",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်ချက် ရည်ညွန်းအမှတ်",
+      "Chinese": "交易参考 ID"
+    },
+    {
+      "English": "Transaction Amount",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမည့်ပမာဏ",
+      "Chinese": "交易金额"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从转移"
+    },
+    {
+      "English": "To",
+      "မြန်မာ": "သို့",
+      "Chinese": "传送到"
+    },
+    {
+      "English": "Transaction Type",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်မှုအမျိုးအစား",
+      "Chinese": "交易类型"
+    },
+    {
+      "English": "Transaction Detail",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုအသေးစိတ်မှတ်တမ်းများ",
+      "Chinese": "交易详情"
+    },
+    {
+      "English": "Transaction Date",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုလုပ်ဆောင်သည့်နေ့",
+      "Chinese": "交易日期"
+    },
+    {
+      "English": "Download Transaction",
+      "မြန်မာ": "ဒေါင်းလုဒ်လုပ်မည်",
+      "Chinese": "下载"
+    },
+    {
+      "English": "Transaction ID",
+      "မြန်မာ": "ငွေလွှဲသည့်အမှတ်",
+      "Chinese": "交易ID"
+    },
+    {
+      "English": "Message",
+      "မြန်မာ": "မှတ်ချက်",
+      "Chinese": "评论"
+    },
+    {
+      "English": "Purpose of Transaction",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုရည်ရွယ်ချက်",
+      "Chinese": "交易目的"
+    },
+    {
+      "English": "Transfer Fees",
+      "မြန်မာ": "ငွေလွှဲ၀န်ဆောင်ခ",
+      "Chinese": "转让费"
+    },
+    {
+      "English": "Remark",
+      "မြန်မာ": "မှတ်ချက်",
+      "Chinese": "评论"
+    },
+    {
+      "English": "Receiver Bank Name",
+      "မြန်မာ": "လက်ခံသူဘဏ်နာမည်",
+      "Chinese": "收款银行名称"
+    },
+    {
+      "English": "Receiver Branch Name",
+      "မြန်မာ": "လက်ခံသူဘဏ်ခွဲနာမည်",
+      "Chinese": "收款人分行名称"
+    },
+    {
+      "English": "There is no transaction yet.",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်မှု မရှိသေးပါ။",
+      "Chinese": "还没有交易。"
+    },
+    {
+      "Feature": "Own Account Transfer",
+      "English": "Own Account Transfer",
+      "မြန်မာ": "မိမိအကောင့်သို့ငွေလွှဲရန်",
+      "Chinese": "自有账户转账"
+    },
+    {
+      "English": "From Which Account",
+      "မြန်မာ": "ပေးပို့မည့်အကောင့်မှ",
+      "Chinese": "来自帐户"
+    },
+    {
+      "English": "To Which Account",
+      "မြန်မာ": "လက်ခံမည့်အကောင့်သို့",
+      "Chinese": "至账户"
+    },
+    {
+      "English": "Amount ",
+      "မြန်မာ": "ငွေပမာဏ",
+      "Chinese": "金额 "
+    },
+    {
+      "English": "Enter Amount",
+      "မြန်မာ": "ငွေပမာဏထည့်ပါ",
+      "Chinese": "输入金额MMK"
+    },
+    {
+      "English": "Message",
+      "မြန်မာ": "မှတ်ချက်",
+      "Chinese": "评论"
+    },
+    {
+      "English": "Optional",
+      "မြန်မာ": "မဖြည့်လဲရပါသည်",
+      "Chinese": "选修的"
+    },
+    {
+      "English": "Next",
+      "မြန်မာ": "ရှေ့သို့",
+      "Chinese": "下一个"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Own Account Transfer Review",
+      "မြန်မာ": "မိမိအကောင့်သို့ငွေလွှဲပြောင်းခြင်းကိုစစ်ဆေးရန်",
+      "Chinese": "自有账户转账 - 转账审核"
+    },
+    {
+      "English": "What you need to know before sending this money:",
+      "မြန်မာ": "ငွေမလွှဲခင် သိထားသင့်သည်များ",
+      "Chinese": "寄出这笔钱之前，您需要知道的是："
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "To",
+      "မြန်မာ": "သို့",
+      "Chinese": "到"
+    },
+    {
+      "English": "Transfer Amount",
+      "မြန်မာ": "ငွေလွှဲမည့်ပမာဏ",
+      "Chinese": "转账金额"
+    },
+    {
+      "English": "Transfer Fees",
+      "မြန်မာ": "ငွေလွှဲ၀န်ဆောင်ခ",
+      "Chinese": "转让费"
+    },
+    {
+      "English": "Own account transfers are always FREE",
+      "မြန်မာ": "ကိုယ်ပိုင်အကောင့်အချင်းချင်းအခမဲ့ငွေလွှဲနိုင်ပါသည်",
+      "Chinese": "自己的账户转账始终免费"
+    },
+    {
+      "English": "Total Debit Amount",
+      "မြန်မာ": "စုစုပေါင်းငွေပမာဏ",
+      "Chinese": "借方总额"
+    },
+    {
+      "English": "Message",
+      "မြန်မာ": "မှတ်ချက်",
+      "Chinese": "评论"
+    },
+    {
+      "English": "By clicking confirm, you agree to the Terms and Conditions",
+      "မြန်မာ": "အတည်ပြုမည်ကိုနှိပ်လိုက်ခြင်းအားဖြင့်စည်းကမ်းသတ်မှတ်ချက်များကိုသိရှိနားလည်ပြီးဖြစ်ပါသည်",
+      "Chinese": "单击确认即表示您同意条款和条件"
+    },
+    {
+      "English": "Terms and Conditions",
+      "မြန်မာ": "စည်းကမ်းသတ်မှတ်ချက်များ",
+      "Chinese": "条款和条件"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Confirm",
+      "မြန်မာ": "အတည်ပြုမည်",
+      "Chinese": "确认"
+    },
+    {
+      "English": "Back",
+      "မြန်မာ": "နောက်သို့",
+      "Chinese": "后退"
+    },
+    {
+      "English": "Your transfer is successful.",
+      "မြန်မာ": "ငွေလွှဲပြောင်းခြင်းအောင်မြင်ပါသည်။",
+      "Chinese": "交易成功。"
+    },
+    {
+      "English": "Transaction Reference ID\r\n",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်ချက် ရည်ညွန်းအမှတ်",
+      "Chinese": "交易参考 ID"
+    },
+    {
+      "English": "Transaction Date",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုလုပ်ဆောင်သည့်နေ့",
+      "Chinese": "交易日期"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "To",
+      "မြန်မာ": "သို့",
+      "Chinese": "到"
+    },
+    {
+      "English": "Transfer Amount",
+      "မြန်မာ": "ငွေလွှဲမည့်ပမာဏ",
+      "Chinese": "转账金额"
+    },
+    {
+      "English": "Transfer Fees",
+      "မြန်မာ": "ငွေလွှဲ၀န်ဆောင်ခ",
+      "Chinese": "转让费"
+    },
+    {
+      "English": "Total Debit Amount",
+      "မြန်မာ": "စုစုပေါင်းငွေပမာဏ",
+      "Chinese": "借方总额"
+    },
+    {
+      "English": "Message",
+      "မြန်မာ": "မှတ်ချက်",
+      "Chinese": "评论"
+    },
+    {
+      "English": "See Transaction History",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုမှတ်တမ်း ကြည့်မည်။",
+      "Chinese": "查看交易记录"
+    },
+    {
+      "English": "Back to Dashboard",
+      "မြန်မာ": "ပင်မစာမျက်နှာသို့ သွားမည်၊",
+      "Chinese": "返回仪表板"
+    },
+    {
+      "English": "Download Receipt",
+      "မြန်မာ": "ငွေလွှဲဖြတ်ပိုင်းကို ဒေါင်းလုဒ်လုပ်ပါ။",
+      "Chinese": "下载收据"
+    },
+    {
+      "English": "Transaction Failed",
+      "မြန်မာ": "ငွေလွှဲပြောင်းခြင်းမအောင်မြင်ပါ။",
+      "Chinese": "交易失败。"
+    },
+    {
+      "Feature": "Othre Account Transfer",
+      "English": "Other Account Transfer ",
+      "မြန်မာ": "အခြားအကောင့်သို့ငွေလွှဲရန်",
+      "Chinese": "其他账户转账"
+    },
+    {
+      "English": "From Which Account",
+      "မြန်မာ": "ပေးပို့မည့်အကောင့်မှ",
+      "Chinese": "来自帐户"
+    },
+    {
+      "English": "To Which Account",
+      "မြန်မာ": "လက်ခံမည့်အကောင့်သို့",
+      "Chinese": "至账户"
+    },
+    {
+      "English": "Enter Account Number",
+      "မြန်မာ": "အကောင့်နံပါတ်ကိုထည့်ပါ",
+      "Chinese": "输入帐号"
+    },
+    {
+      "English": "Receiver List",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူစာရင်း",
+      "Chinese": "接收者列表"
+    },
+    {
+      "English": "Search receiver name",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူကိုရှာဖွေရန်",
+      "Chinese": "搜索收件人"
+    },
+    {
+      "English": "No results found",
+      "မြန်မာ": "ရှာမတွေ့ပါ။",
+      "Chinese": "未找到结果"
+    },
+    {
+      "English": "Amount ",
+      "မြန်မာ": "ငွေပမာဏ",
+      "Chinese": "金额 "
+    },
+    {
+      "English": "Enter Amount",
+      "မြန်မာ": "ငွေပမာဏထည့်ပါ",
+      "Chinese": "输入金额MMK"
+    },
+    {
+      "English": "Purpose of Transaction ",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုရည်ရွယ်ချက်",
+      "Chinese": "\r\n交易目的"
+    },
+    {
+      "English": "Remark",
+      "မြန်မာ": "မှတ်ချက်",
+      "Chinese": "评论"
+    },
+    {
+      "English": "Enter Remark",
+      "မြန်မာ": "မှတ်ချက်ကိုထည့်ပါ",
+      "Chinese": "输入备注"
+    },
+    {
+      "English": "Optional",
+      "မြန်မာ": "မဖြည့်လဲရပါသည်",
+      "Chinese": "选修的"
+    },
+    {
+      "English": "Next",
+      "မြန်မာ": "ရှေ့သို့",
+      "Chinese": "下一个"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Transfer fees will be charged on some account types.",
+      "မြန်မာ": "အချို့သော အကောင့်အမျိုးအစားများမှ ငွေလွှဲပြောင်းခြင်းအတွက် ငွေလွှဲဝန်ဆောင်ခ ကောက်ခံပါမည်။",
+      "Chinese": "某些账户类型将收取转账费用。"
+    },
+    {
+      "English": "Other Account Transfer Review",
+      "မြန်မာ": "အခြားအကောင့်သို့ငွေလွှဲပြောင်းခြင်းကိုစစ်ဆေးရန်",
+      "Chinese": "其他账户转账 - 转账审核"
+    },
+    {
+      "English": "What you need to know before sending this money:",
+      "မြန်မာ": "ငွေမလွှဲခင် သိထားသင့်သည်များ",
+      "Chinese": "寄出这笔钱之前，您需要知道的是："
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "To",
+      "မြန်မာ": "သို့",
+      "Chinese": "到"
+    },
+    {
+      "English": "Transfer Amount",
+      "မြန်မာ": "ငွေလွှဲမည့်ပမာဏ",
+      "Chinese": "转账金额"
+    },
+    {
+      "English": "Transfer Fees",
+      "မြန်မာ": "ငွေလွှဲ၀န်ဆောင်ခ",
+      "Chinese": "转让费"
+    },
+    {
+      "English": "Total Debit Amount",
+      "မြန်မာ": "စုစုပေါင်းငွေပမာဏ",
+      "Chinese": "借方总额"
+    },
+    {
+      "English": "Purpose of Transaction",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုရည်ရွယ်ချက်",
+      "Chinese": "交易目的"
+    },
+    {
+      "English": "By clicking confirm, you agree to the Terms and Conditions",
+      "မြန်မာ": "အတည်ပြုမည်ကိုနှိပ်လိုက်ခြင်းအားဖြင့်စည်းကမ်းသတ်မှတ်ချက်များကိုသိရှိနားလည်ပြီးဖြစ်ပါသည်။ ",
+      "Chinese": "单击确认即表示您同意条款和条件"
+    },
+    {
+      "English": "Terms and Conditions",
+      "မြန်မာ": "စည်းကမ်းသတ်မှတ်ချက်များ",
+      "Chinese": "条款和条件"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Confirm",
+      "မြန်မာ": "အတည်ပြုမည်",
+      "Chinese": "确认"
+    },
+    {
+      "English": "Back",
+      "မြန်မာ": "နောက်သို့",
+      "Chinese": "后退"
+    },
+    {
+      "English": "Your transfer is successful.",
+      "မြန်မာ": "ငွေလွှဲခြင်း အောင်မြင်ပါပြီ",
+      "Chinese": "交易成功"
+    },
+    {
+      "English": "Transaction Reference ID",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်ချက် ရည်ညွှန်းအမှတ်",
+      "Chinese": "交易参考 ID"
+    },
+    {
+      "English": "Transaction Date",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုလုပ်ဆောင်သည့်နေ့",
+      "Chinese": "交易日期"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "To",
+      "မြန်မာ": "သို့",
+      "Chinese": "到"
+    },
+    {
+      "English": "Transfer Amount",
+      "မြန်မာ": "ငွေလွှဲမည့်ပမာဏ",
+      "Chinese": "转账金额"
+    },
+    {
+      "English": "Transfer Fees",
+      "မြန်မာ": "ငွေလွှဲ၀န်ဆောင်ခ",
+      "Chinese": "转让费"
+    },
+    {
+      "English": "Total Debit Amount",
+      "မြန်မာ": "စုစုပေါင်းငွေပမာဏ",
+      "Chinese": "借方总额"
+    },
+    {
+      "English": "Purpose of Transaction",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုရည်ရွယ်ချက်",
+      "Chinese": "交易目的"
+    },
+    {
+      "English": "See Transaction History",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုမှတ်တမ်း ကြည့်မည်။",
+      "Chinese": "查看交易记录"
+    },
+    {
+      "English": "Back to Dashboard",
+      "မြန်မာ": "ပင်မစာမျက်နှာသို့ သွားမည်၊",
+      "Chinese": "返回仪表板"
+    },
+    {
+      "English": "Download Receipt",
+      "မြန်မာ": "ငွေလွှဲဖြတ်ပိုင်းကို ဒေါင်းလုဒ်လုပ်ပါ။",
+      "Chinese": "下载收据"
+    },
+    {
+      "English": "Save Receiver",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူကိုသိမ်းဆည်းရန်",
+      "Chinese": "保存收件人"
+    },
+    {
+      "English": "Receiver name ",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူနာမည်",
+      "Chinese": "收件人姓名"
+    },
+    {
+      "English": "Account Number",
+      "မြန်မာ": "အကောင့်နံပါတ်",
+      "Chinese": "帐号"
+    },
+    {
+      "English": "Save ",
+      "မြန်မာ": "သိမ်းဆည်းမည်",
+      "Chinese": "节省"
+    },
+    {
+      "English": "Receiver name ",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူနာမည်",
+      "Chinese": "收件人姓名"
+    },
+    {
+      "English": "Add Receiver",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူအသစ်ထည့်ရန်",
+      "Chinese": "添加收件人"
+    },
+    {
+      "English": "Payment Type",
+      "မြန်မာ": "ငွေပေးချေမှုအမျိုးအစား",
+      "Chinese": "付款方式"
+    },
+    {
+      "English": "Receiver Name",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူနာမည်",
+      "Chinese": "收件人姓名"
+    },
+    {
+      "English": "Account Number",
+      "မြန်မာ": "အကောင့်နံပါတ်",
+      "Chinese": "帐号"
+    },
+    {
+      "Feature": "Other Bank Transfer",
+      "English": "Other Bank Transfer",
+      "မြန်မာ": "အခြားဘဏ်သို့ငွေလွှဲရန်",
+      "Chinese": "其他银行转账"
+    },
+    {
+      "English": "From Which Account",
+      "မြန်မာ": "ပေးပို့မည့်အကောင့်မှ",
+      "Chinese": "来自帐户"
+    },
+    {
+      "English": "Transfer To",
+      "မြန်မာ": "ငွေလွှဲမည့်ဘဏ်သို့",
+      "Chinese": "传送到"
+    },
+    {
+      "English": "Select Bank",
+      "မြန်မာ": "ဘဏ်ကိုရွေးပါ",
+      "Chinese": "选择银行"
+    },
+    {
+      "English": "Receiver Name",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူနာမည်",
+      "Chinese": "收件者姓名"
+    },
+    {
+      "English": "Enter receiver name",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူနာမည်ကိုထည့်ပါ",
+      "Chinese": "输入收件人姓名"
+    },
+    {
+      "English": "Receiver Account Number",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူအကောင့်နံပါတ်",
+      "Chinese": "收款人帐号"
+    },
+    {
+      "English": "Enter Receiver Account Number",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူအကောင့်နံပါတ်ကိုထည့်ပါ",
+      "Chinese": "输入收款人帐号"
+    },
+    {
+      "English": "Branch Name",
+      "မြန်မာ": "ဘဏ်ခွဲနာမည်",
+      "Chinese": "分店名称"
+    },
+    {
+      "English": "Select Branch",
+      "မြန်မာ": "ဘဏ်ခွဲနာမည်ကိုရွေးပါ",
+      "Chinese": "选择分行"
+    },
+    {
+      "English": "Select Recipient",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူကိုရွေးချယ်ရန်",
+      "Chinese": "选择收件人"
+    },
+    {
+      "English": "Search Recipient",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူကိုရှာဖွေရန်",
+      "Chinese": "搜索收件人"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Amount ",
+      "မြန်မာ": "ငွေပမာဏ",
+      "Chinese": "金额 "
+    },
+    {
+      "English": "Enter amount ",
+      "မြန်မာ": "ငွေပမာဏ ကိုထည့်ပါ",
+      "Chinese": "输入金额 "
+    },
+    {
+      "English": "Phone Number",
+      "မြန်မာ": "မိုဘိုင်းလ်ဖုန်းနံပါတ်",
+      "Chinese": "手机号码"
+    },
+    {
+      "English": "Enter Receiver Phone Number",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူမိုဘိုင်းလ်ဖုန်းနံပါတ်ကိုထည့်ပါ",
+      "Chinese": "输入收件人手机号码"
+    },
+    {
+      "English": "Purpose of Transaction",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုရည်ရွယ်ချက်",
+      "Chinese": "交易目的"
+    },
+    {
+      "English": "Remark",
+      "မြန်မာ": "မှတ်ချက်",
+      "Chinese": "评论"
+    },
+    {
+      "English": "Enter Remark",
+      "မြန်မာ": "မှတ်ချက်ကိုထည့်ပါ",
+      "Chinese": "输入备注"
+    },
+    {
+      "English": "Optional",
+      "မြန်မာ": "မဖြည့်လဲရပါသည်",
+      "Chinese": "选修的"
+    },
+    {
+      "English": "You can only make transfers between 9:30 AM to 2:30 PM on bank working days.",
+      "မြန်မာ": "ဘဏ်ဖွင့်ရက်များတွင် နံနက် ၉း၃၀ မှ နေ့လည် ၂း၃၀ အတွင်းသာ လွှဲပြောင်းနိုင်ပါသည်။",
+      "Chinese": "您只能在银行工作日上午 9:30 至下午 2:30 之间进行转账。"
+    },
+    {
+      "English": "Next",
+      "မြန်မာ": "ရှေ့သို့",
+      "Chinese": "下一个"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Other Bank Transfer Review",
+      "မြန်မာ": "အခြားဘဏ်သို့ငွေလွှဲပြောင်းခြင်းကိုစစ်ဆေးရန်",
+      "Chinese": "其他银行转账 - 转账审核"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "To ",
+      "မြန်မာ": "သို့",
+      "Chinese": "到"
+    },
+    {
+      "English": "Receiver Name",
+      "မြန်မာ": "လက်ခံသူနာမည်",
+      "Chinese": "收件者姓名"
+    },
+    {
+      "English": "Phone Number",
+      "မြန်မာ": "မိုဘိုင်းလ်ဖုန်းနံပါတ်",
+      "Chinese": "手机号码"
+    },
+    {
+      "English": "Receiver Account Number",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူအကောင့်နံပါတ်",
+      "Chinese": "收款人帐号"
+    },
+    {
+      "English": "Branch Name",
+      "မြန်မာ": "ဘဏ်ခွဲနာမည်",
+      "Chinese": "分店名称"
+    },
+    {
+      "English": "Amount",
+      "မြန်မာ": "ငွေလွှဲမည့်ပမာဏ",
+      "Chinese": "转账金额"
+    },
+    {
+      "English": "Transfer Fees",
+      "မြန်မာ": "ငွေလွှဲ၀န်ဆောင်ခ",
+      "Chinese": "转让费"
+    },
+    {
+      "English": "Total Debit Amount",
+      "မြန်မာ": "စုစုပေါင်းငွေပမာဏ",
+      "Chinese": "借方总额"
+    },
+    {
+      "English": "Purpose of Transaction",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုရည်ရွယ်ချက်",
+      "Chinese": "交易目的"
+    },
+    {
+      "English": "Note",
+      "မြန်မာ": "မှတ်သားရန်",
+      "Chinese": "笔记"
+    },
+    {
+      "English": "By clicking confirm, you agree to the Terms and Conditions",
+      "မြန်မာ": "အတည်ပြုမည်ကိုနှိပ်လိုက်ခြင်းအားဖြင့်စည်းကမ်းသတ်မှတ်ချက်များကိုသိရှိနားလည်ပြီးဖြစ်ပါသည်",
+      "Chinese": "单击确认即表示您同意条款和条件"
+    },
+    {
+      "English": "Terms and Conditions",
+      "မြန်မာ": "စည်းကမ်းသတ်မှတ်ချက်များ",
+      "Chinese": "条款和条件"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Confirm",
+      "မြန်မာ": "အတည်ပြုမည်",
+      "Chinese": "确认"
+    },
+    {
+      "English": "Back",
+      "မြန်မာ": "နောက်သို့",
+      "Chinese": "后退"
+    },
+    {
+      "English": "Your transfer is initiated",
+      "မြန်မာ": "ငွေလွှဲပြောင်းခြင်းကိုစတင်လုပ်ဆောင်နေပါသည်။",
+      "Chinese": "\r\n您的转账已启动"
+    },
+    {
+      "English": "Transaction Reference ID",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်ချက် ရည်ညွှန်းအမှတ်",
+      "Chinese": "交易参考 ID"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "To",
+      "မြန်မာ": "သို့",
+      "Chinese": "到"
+    },
+    {
+      "English": "Receiver Name",
+      "မြန်မာ": "လက်ခံသူနာမည်",
+      "Chinese": "收件者姓名"
+    },
+    {
+      "English": "Mobile Number",
+      "မြန်မာ": "မိုဘိုင်းလ်ဖုန်းနံပါတ်",
+      "Chinese": "手机号码"
+    },
+    {
+      "English": "Receiver Account Number",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူအကောင့်နံပါတ်",
+      "Chinese": "收款人帐号"
+    },
+    {
+      "English": "Branch Name",
+      "မြန်မာ": "ဘဏ်ခွဲနာမည်",
+      "Chinese": "分店名称"
+    },
+    {
+      "English": "Transfer Amount",
+      "မြန်မာ": "ငွေလွှဲမည့်ပမာဏ",
+      "Chinese": "转账金额"
+    },
+    {
+      "English": "Transfer Fees",
+      "မြန်မာ": "ငွေလွှဲ၀န်ဆောင်ခ",
+      "Chinese": "转让费"
+    },
+    {
+      "English": "Total Debit Amount",
+      "မြန်မာ": "စုစုပေါင်းငွေပမာဏ",
+      "Chinese": "借方总额"
+    },
+    {
+      "English": "Purpose of Transaction",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုရည်ရွယ်ချက်",
+      "Chinese": "交易目的"
+    },
+    {
+      "English": "Remark",
+      "မြန်မာ": "မှတ်ချက်",
+      "Chinese": "评论"
+    },
+    {
+      "English": "Save Receiver",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူကိုသိမ်းဆည်းရန်",
+      "Chinese": "保存收件人"
+    },
+    {
+      "English": "Receiver Nickname ",
+      "မြန်မာ": "နာမည်တို",
+      "Chinese": "收件人名称"
+    },
+    {
+      "English": "Receiver Account Number",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူအကောင့်နံပါတ်",
+      "Chinese": "收款人帐号"
+    },
+    {
+      "English": "Receiver Name",
+      "မြန်မာ": "လက်ခံသူနာမည်",
+      "Chinese": "收件者姓名"
+    },
+    {
+      "English": "Bank Name",
+      "မြန်မာ": "ဘဏ်နာမည်\t",
+      "Chinese": "银行名"
+    },
+    {
+      "English": "Branch Name",
+      "မြန်မာ": "ဘဏ်ခွဲနာမည်",
+      "Chinese": "分店名称"
+    },
+    {
+      "English": "Save ",
+      "မြန်မာ": "သိမ်းဆည်းမည်",
+      "Chinese": "节省"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Mobile Top-up",
+      "မြန်မာ": "ဖုန်းငွေဖြည့်ရန်",
+      "Chinese": "手机充值"
+    },
+    {
+      "English": "From Which Account",
+      "မြန်မာ": "အကောင့်မှ",
+      "Chinese": "来自帐户"
+    },
+    {
+      "English": "Phone Number",
+      "မြန်မာ": "မိုဘိုင်းလ်ဖုန်းနံပါတ်",
+      "Chinese": "手机号码"
+    },
+    {
+      "English": "Amount ",
+      "မြန်မာ": "ငွေပမာဏ",
+      "Chinese": "金额 "
+    },
+    {
+      "English": "Next",
+      "မြန်မာ": "ရှေ့သို့",
+      "Chinese": "下一个"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Mobile Top-up Review",
+      "မြန်မာ": "ဖုန်းငွေဖြည့်ခြင်းကိုစစ်ဆေးရန်",
+      "Chinese": "移动充值 - 评论"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "အကောင့်မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "Top-up To",
+      "မြန်မာ": "ငွေဖြည့်ရန်",
+      "Chinese": "充值至"
+    },
+    {
+      "English": "Top-up Amount",
+      "မြန်မာ": "ငွေဖြည့်ပမာဏ",
+      "Chinese": "充值金额"
+    },
+    {
+      "English": "Top-up Fees",
+      "မြန်မာ": "ငွေဖြည့်ခ",
+      "Chinese": "\r\n充值费用"
+    },
+    {
+      "English": "Discount",
+      "မြန်မာ": "လျှော့ဈေး",
+      "Chinese": "折扣"
+    },
+    {
+      "English": "Total Debit Amount",
+      "မြန်မာ": "စုစုပေါင်းငွေပမာဏ",
+      "Chinese": "借方总额"
+    },
+    {
+      "English": "By clicking confirm, you agree to the Terms and Conditions",
+      "မြန်မာ": "အတည်ပြုမည်ကိုနှိပ်လိုက်ခြင်းအားဖြင့်စည်းကမ်းသတ်မှတ်ချက်များကိုသိရှိနားလည်ပြီးဖြစ်ပါသည်",
+      "Chinese": "单击确认即表示您同意条款和条件"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Confirm",
+      "မြန်မာ": "အတည်ပြုမည်",
+      "Chinese": "确认"
+    },
+    {
+      "English": "Back",
+      "မြန်မာ": "နောက်သို့",
+      "Chinese": "后退"
+    },
+    {
+      "English": "Mobile top-up is successful.",
+      "မြန်မာ": "သင်၏ဖုန်းငွေဖြည့်ခြင်းအောင်မြင်ပါသည်။",
+      "Chinese": "您的手机充值成功。"
+    },
+    {
+      "English": "Transaction Reference ID",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်ချက် ရည်ညွှန်းအမှတ်",
+      "Chinese": "交易参考 ID"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "အကောင့်မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "Top-up To",
+      "မြန်မာ": "ငွေဖြည့်ရန်",
+      "Chinese": "充值至"
+    },
+    {
+      "English": "Discount",
+      "မြန်မာ": "လျှော့ဈေး",
+      "Chinese": "折扣"
+    },
+    {
+      "English": "Total Debit Amount",
+      "မြန်မာ": "စုစုပေါင်းငွေပမာဏ",
+      "Chinese": "借方总额"
+    },
+    {
+      "English": "Transaction Date",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုလုပ်ဆောင်သည့်နေ့",
+      "Chinese": "交易日期"
+    },
+    {
+      "English": "See Transaction History",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုမှတ်တမ်း ကြည့်မည်။",
+      "Chinese": "查看交易记录"
+    },
+    {
+      "English": "Back to Dashboard",
+      "မြန်မာ": "ပင်မစာမျက်နှာသို့ သွားမည်၊",
+      "Chinese": "返回仪表板"
+    },
+    {
+      "English": "Download Receipt",
+      "မြန်မာ": "ငွေလွှဲဖြတ်ပိုင်းကို ဒေါင်းလုဒ်လုပ်ပါ။",
+      "Chinese": "下载收据"
+    },
+    {
+      "Feature": "Bill Payment",
+      "English": "Bill Payment",
+      "မြန်မာ": "ဘေလ်ပေးဆောင်ရန်",
+      "Chinese": "缴费"
+    },
+    {
+      "English": "Browse by Category",
+      "မြန်မာ": "‌ဘေလ်အမျိုးအစားအလိုက်ရှာရန်",
+      "Chinese": "按类别浏览"
+    },
+    {
+      "English": "All",
+      "မြန်မာ": "အားလုံး",
+      "Chinese": "全部"
+    },
+    {
+      "English": "Internet",
+      "မြန်မာ": "အင်တာနက်",
+      "Chinese": "互联网"
+    },
+    {
+      "English": "Government & Electricity Meter Bills",
+      "မြန်မာ": "အစိုးရနှင့်လျှပ်စစ်ဓာတ်အားမီတာခ",
+      "Chinese": "政府和电表账单"
+    },
+    {
+      "English": "Insurance & Health",
+      "မြန်မာ": "အာမခံနှင့်ကျန်းမာရေး",
+      "Chinese": "保险与健康"
+    },
+    {
+      "English": "Business",
+      "မြန်မာ": "စီးပွားရေးလုပ်ငန်း",
+      "Chinese": "商业"
+    },
+    {
+      "English": "Entertainment & Digital Coupon",
+      "မြန်မာ": "ဖျော်ဖြေရေးနှင့်ဒစ်ဂျစ်တယ်ကူပွန်",
+      "Chinese": "娱乐和数字优惠券"
+    },
+    {
+      "English": "Microfinance & Re-payment",
+      "မြန်မာ": "အသေးစားငွေကြေးနှင့်ချေးငွေပြန်ဆပ်ခြင်း",
+      "Chinese": "小额信贷和还款"
+    },
+    {
+      "English": "Travel & Tours",
+      "မြန်မာ": "ခရီးသွားလုပ်ငန်း",
+      "Chinese": "旅游与旅游"
+    },
+    {
+      "English": "Online Shopping",
+      "မြန်မာ": "အွန်လိုင်းဈေးဝယ်ခြင်း",
+      "Chinese": "网上购物"
+    },
+    {
+      "English": "Education",
+      "မြန်မာ": "ပညာရေး",
+      "Chinese": "教育"
+    },
+    {
+      "English": "Property Payment ",
+      "မြန်မာ": "အိမ်မြေငွေပေးချေမှု",
+      "Chinese": "物业缴付"
+    },
+    {
+      "English": "Others",
+      "မြန်မာ": "အခြား",
+      "Chinese": "其他的"
+    },
+    {
+      "English": "Search Billers",
+      "မြန်မာ": "‌ဘေလ်ပေးဆောင်ရန်ရှာမည်",
+      "Chinese": "搜索账单人"
+    },
+    {
+      "English": "Biller List",
+      "မြန်မာ": "‌ဘေလ်စာရင်းများ",
+      "Chinese": "账单清单"
+    },
+    {
+      "English": "From Which Account",
+      "မြန်မာ": "ပေးပို့မည့်အကောင့်မှ",
+      "Chinese": "来自帐户"
+    },
+    {
+      "English": "Bill Payment Review",
+      "မြန်မာ": "ဘေလ်ပေးဆောင်ခြင်းကိုစစ်ဆေးရန်",
+      "Chinese": "账单支付 - 审查"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "To",
+      "မြန်မာ": "သို့",
+      "Chinese": "到"
+    },
+    {
+      "English": "By clicking confirm, you agree to the Terms and Conditions",
+      "မြန်မာ": "အတည်ပြုမည်ကိုနှိပ်လိုက်ခြင်းအားဖြင့်စည်းကမ်းသတ်မှတ်ချက်များကိုသိရှိနားလည်ပြီးဖြစ်ပါသည်",
+      "Chinese": "单击确认即表示您同意条款和条件"
+    },
+    {
+      "English": "Terms and Conditions",
+      "မြန်မာ": "စည်းကမ်းသတ်မှတ်ချက်များ",
+      "Chinese": "条款和条件"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Confirm",
+      "မြန်မာ": "အတည်ပြုမည်",
+      "Chinese": "确认"
+    },
+    {
+      "English": "Back",
+      "မြန်မာ": "နောက်သို့",
+      "Chinese": "后退"
+    },
+    {
+      "English": "Bill Reference ID",
+      "မြန်မာ": "ဘေလ်လုပ်ဆောင်ချက် ရည်ညွှန်းအမှတ်",
+      "Chinese": "帐单参考 ID"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "To",
+      "မြန်မာ": "သို့",
+      "Chinese": "到"
+    },
+    {
+      "English": "Your transfer is successful.",
+      "မြန်မာ": "သင်၏ဘေလ်ပေးဆောင်ခြင်းအောင်မြင်ပါသည်။",
+      "Chinese": "您的付款成功。"
+    },
+    {
+      "Feature": "Recipient",
+      "English": "Receivers",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူများ",
+      "Chinese": "收件人"
+    },
+    {
+      "English": "Yoma Bank",
+      "မြန်မာ": "ရိုးမဘဏ်",
+      "Chinese": "Yoma 银行"
+    },
+    {
+      "English": "WavePay",
+      "မြန်မာ": "WavePay",
+      "Chinese": "WavePay"
+    },
+    {
+      "English": "Other Bank",
+      "မြန်မာ": "အခြားဘဏ်",
+      "Chinese": "其他银行"
+    },
+    {
+      "English": "Add Receiver",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူသိမ်းမည်။",
+      "Chinese": "新收件人"
+    },
+    {
+      "English": "Payment Type",
+      "မြန်မာ": "ငွေပေးချေမှုအမျိုးအစား",
+      "Chinese": "付款方式"
+    },
+    {
+      "English": "Receiver Name",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူနာမည်",
+      "Chinese": "收件人姓名"
+    },
+    {
+      "English": "Enter receiver name",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူနာမည်ကိုထည့်ပါ",
+      "Chinese": "输入收件人姓名"
+    },
+    {
+      "English": "Account Number",
+      "မြန်မာ": "အကောင့်နံပါတ်",
+      "Chinese": "帐号"
+    },
+    {
+      "English": "WavePay Account Number",
+      "မြန်မာ": "WavePay အကောင့်နံပါတ်",
+      "Chinese": "WavePay 帐号"
+    },
+    {
+      "English": "Transfer To",
+      "မြန်မာ": "ငွေလွှဲမည့်ဘဏ်သို့",
+      "Chinese": "传送到"
+    },
+    {
+      "English": "Select Bank",
+      "မြန်မာ": "ဘဏ်ကိုရွေးပါ",
+      "Chinese": "选择银行"
+    },
+    {
+      "English": "Receiver Nickname ",
+      "မြန်မာ": "နာမည်တို",
+      "Chinese": "收件人名称"
+    },
+    {
+      "English": "Enter receiver nickname",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူနာမည်တို ထည့်ပါ",
+      "Chinese": "输入收件人昵称"
+    },
+    {
+      "English": "Receiver Account Number",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူအကောင့်နံပါတ်",
+      "Chinese": "收款人帐号"
+    },
+    {
+      "English": "Enter Receiver Account Number",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူအကောင့်နံပါတ်ကိုထည့်ပါ",
+      "Chinese": "输入收款人帐号"
+    },
+    {
+      "English": "Branch Name",
+      "မြန်မာ": "ဘဏ်ခွဲနာမည်\t",
+      "Chinese": "分店名称"
+    },
+    {
+      "English": "Select Branch",
+      "မြန်မာ": "ဘဏ်ခွဲကိုရွေးပါ",
+      "Chinese": "选择分行"
+    },
+    {
+      "English": "Phone Number",
+      "မြန်မာ": "မိုဘိုင်းလ်ဖုန်းနံပါတ်",
+      "Chinese": "手机号码"
+    },
+    {
+      "English": "Enter digitis",
+      "မြန်မာ": "အကောင့်နံပါတ်ကိုထည့်ပါ",
+      "Chinese": "输入帐号"
+    },
+    {
+      "English": "Save",
+      "မြန်မာ": "သိမ်းဆည်းမည်",
+      "Chinese": "节省"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Success",
+      "မြန်မာ": "အောင်မြင်ပါသည်",
+      "Chinese": "成功"
+    },
+    {
+      "English": "Save Successfully!",
+      "မြန်မာ": "အောင်မြင်စွာသိမ်းဆည်းပြီးပါပြီ",
+      "Chinese": "保存成功"
+    },
+    {
+      "English": "You have successfully saved receiver.",
+      "မြန်မာ": "‌ငွေလက်ခံသူကိုအောင်မြင်စွာသိမ်းဆည်းပြီးပါပြီ။",
+      "Chinese": "您已成功保存收件人。"
+    },
+    {
+      "English": "Go To Receiver List",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူအားလုံးကိုသိမ်းဆည်းထားသောစာရင်းသို့သွားရန်",
+      "Chinese": "转到收件人列表"
+    },
+    {
+      "English": "Name",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူနာမည်",
+      "Chinese": "收件人姓名"
+    },
+    {
+      "English": "Account Number",
+      "မြန်မာ": "အကောင့်နံပါတ်",
+      "Chinese": "帐号"
+    },
+    {
+      "English": "Action",
+      "မြန်မာ": "လုပ်ဆောင်ရန်",
+      "Chinese": "行动"
+    },
+    {
+      "English": "Search ",
+      "မြန်မာ": "ရှာဖွေရန်",
+      "Chinese": "搜索收件人"
+    },
+    {
+      "English": "Edit Receiver",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူကိုပြင်ဆင်ရန်",
+      "Chinese": "编辑收件人"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Update",
+      "မြန်မာ": "ပြင်ဆင်မည်",
+      "Chinese": "更新"
+    },
+    {
+      "English": "Delete Receiver",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူကိုဖျက်သိမ်းရန်",
+      "Chinese": "删除收件人"
+    },
+    {
+      "English": "Delete?",
+      "မြန်မာ": "ဖျက်သိမ်းမည်",
+      "Chinese": "删除"
+    },
+    {
+      "English": "Are you sure you want to delete?",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူကိုဖျက်သိမ်းလိုသည်မှာသေချာပါသလား?",
+      "Chinese": "您确定要删除该收件人吗？"
+    },
+    {
+      "English": "This will delete your recipient from the list.",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူကိုစာရင်းမှဖျက်သိမ်းလိုက်ပါမည်။",
+      "Chinese": "这将从列表中删除您的收件人。"
+    },
+    {
+      "English": "Confirm",
+      "မြန်မာ": "အတည်ပြုမည်",
+      "Chinese": "确认"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "There is no recipient(s).",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူ(များ)မရှိပါ။",
+      "Chinese": "没有收件人。"
+    },
+    {
+      "English": "Transfer",
+      "မြန်မာ": "လွှဲပြောင်းမည်",
+      "Chinese": "转移"
+    },
+    {
+      "English": "Edit",
+      "မြန်မာ": "ပြင်ဆင်မည်",
+      "Chinese": "编辑"
+    },
+    {
+      "English": "Delete",
+      "မြန်မာ": "ဖျက်သိမ်းမည်",
+      "Chinese": "删除"
+    },
+    {
+      "Feature": "Quick Actions",
+      "English": "Transfer to Own Account",
+      "မြန်မာ": "မိမိအကောင့်သို့ငွေလွှဲရန်",
+      "Chinese": "自有账户转账"
+    },
+    {
+      "English": "Transfer to Other Account",
+      "မြန်မာ": "အခြားအကောင့်သို့ငွေလွှဲရန်",
+      "Chinese": "其他账户转账"
+    },
+    {
+      "English": "Transfer to Other Bank",
+      "မြန်မာ": "အခြားဘဏ်သို့ငွေလွှဲရန်",
+      "Chinese": "其他银行转账"
+    },
+    {
+      "English": "Transfer to WavePay",
+      "မြန်မာ": "WavePay အကောင့်သို့ငွေလွှဲရန်",
+      "Chinese": "WavePay转账"
+    },
+    {
+      "English": "Pay Bills",
+      "မြန်မာ": "ဘေလ်ပေးဆောင်ရန်",
+      "Chinese": "缴费"
+    },
+    {
+      "English": "Saved Receivers",
+      "မြန်မာ": "သိမ်းဆည်းထားသော ငွေလက်ခံသူများကြည့်ရန်",
+      "Chinese": "\r\n已保存的接收者\r\n"
+    },
+    {
+      "English": "Open a Fixed Deposit Account",
+      "မြန်မာ": "စာရင်းသေအပ်ငွေစာရင်းဖွင့်ရန်",
+      "Chinese": "\r\n开设定期存款账户"
+    },
+    {
+      "English": "Promotions/ Marketing Campaign",
+      "မြန်မာ": "ပရိုမိုးရှင်း/ကမ်ပိန်းများကြည့်ရန်",
+      "Chinese": "\r\n促销/营销活动"
+    }
+  ],
+  "Self-Activation": [
+    {
+      "English": "YOMA BANK NEXT ACTIVATION",
+      "မြန်မာ": "YOMA BANK NEXT အကောင့်ဖွင့်ရန်",
+      "Chinese": "激活佑瑪网银"
+    },
+    {
+      "English": "Enter Yoma bank account and NRC or Passport number",
+      "မြန်မာ": "သင်၏ရိုးမဘဏ်အကောင့်နှင့် မှတ်ပုံတင်နံပါတ် သို့မဟုတ် နိုင်ငံကူးလက်မှတ်ထည့်ရန်",
+      "Chinese": "输入Yoma 银行帐户 和 身份证号码 或 护照号码"
+    },
+    {
+      "English": "Please provide the following information to register",
+      "မြန်မာ": "စာရင်းသွင်းရန် အောက်ပါအချက်များကို ဖြည့်စွက်ပါ",
+      "Chinese": "请提供以下信息以进行注册"
+    },
+    {
+      "English": "Account number",
+      "မြန်မာ": "အကောင့် နံပါတ်",
+      "Chinese": "帐号号码"
+    },
+    {
+      "English": "Enter digits",
+      "မြန်မာ": "နံပါတ်ထည့်ပါ",
+      "Chinese": "输入数字"
+    },
+    {
+      "English": "Passport or 6 digits of your NRC number",
+      "မြန်မာ": "ပတ်စ်ပို့  (သို့) မှတ်ပုံတင်နံပါတ် ၆ လုံး",
+      "Chinese": "身份证号码的6位数字 或 护照号码"
+    },
+    {
+      "English": "Enter passport or NRC",
+      "မြန်မာ": "ပတ်စ်ပို့ (သို့) မှတ်ပုံတင်နံပါတ် ရိုက်ထည့်ပါ",
+      "Chinese": "输入护照号码 或 身份证号码"
+    },
+    {
+      "English": "I agree of terms and conditions.",
+      "မြန်မာ": "စည်းမျဥ်းစည်းကမ်း နှင့် သတ်မှတ်ချက်များကို သဘောတူပါသည်",
+      "Chinese": "我同意  条款和协议。 "
+    },
+    {
+      "English": "Next",
+      "မြန်မာ": "ဆက်လုပ်မည်",
+      "Chinese": "下一步"
+    },
+    {
+      "English": "Enter Verification code",
+      "မြန်မာ": "အတည်ပြုကုတ်နံပါတ် ထည့်ပါ",
+      "Chinese": "输入验证代码"
+    },
+    {
+      "English": "Please enter the verification code send to register phone number ** **** **45.",
+      "မြန်မာ": "ဘဏ်အကောင့်ဖွင့်စဉ်က စာရင်းသွင်းထားသည့် ဖုန်းနံပါတ် .............၄၅ သို့ ပေးပို့ထားသောအတည်ပြုကုတ်နံပါတ်ကို ထည့်ပါ",
+      "Chinese": "请输入发送到注册电话号码** **** ** 45的验证代码。"
+    },
+    {
+      "English": "Verification code",
+      "မြန်မာ": "အတည်ပြုကုတ်နံပါတ်",
+      "Chinese": "验证代码"
+    },
+    {
+      "English": "Enter 6 digit code",
+      "မြန်မာ": "ကုတ်နံပါတ် ၆ လုံးကို ထည့်ပါ",
+      "Chinese": "输入6位数代码"
+    },
+    {
+      "English": "OTP will be expired in 02:45",
+      "မြန်မာ": "02:45 တွင် OTP သက်တမ်းကုန်ဆုံးပါမည်",
+      "Chinese": "一次性密码将在02:45过期"
+    },
+    {
+      "English": "Don’t receive the OTP?",
+      "မြန်မာ": "OTP မရရှိပါသလား?",
+      "Chinese": "没收到一次性密码？"
+    },
+    {
+      "English": "Resend OTP",
+      "မြန်မာ": "ပြန်ပို့ရန်",
+      "Chinese": "重新发送一次性密码"
+    },
+    {
+      "English": "Create your username",
+      "မြန်မာ": "အသုံးပြုသူအမည် သတ်မှတ်ရန်",
+      "Chinese": "创建您的用户名"
+    },
+    {
+      "English": "Enter username to login to Yoma Bank Next Portal. 8-25 Characters allowed. Alpha-numeric, No special characters allowed.",
+      "မြန်မာ": "Yoma Bank Next Portal ကို login ၀င်ရန် စာလုံးနှင့် ကိန်းဂဏန်း ၈လုံးမှ ၂၅လုံးရှိသည့် အထူးအက္ခရာမပါ၀င်သော အသုံးပြုသူအမည်ထည့်ပါ။ ",
+      "Chinese": "输入用户名登录到Yoma应用程序。允许8到25个字符。 字母数字，不允许特殊字符。"
+    },
+    {
+      "English": "Username",
+      "မြန်မာ": "အသုံးပြုသူအမည်",
+      "Chinese": "用户名"
+    },
+    {
+      "English": "Enter username",
+      "မြန်မာ": "အသုံးပြုသူအမည် ထည့်ပါ",
+      "Chinese": "输入用户名"
+    },
+    {
+      "English": "Username can only contain lowercase letters and numbers (a-z, 0-9)",
+      "မြန်မာ": "အသုံးပြုသူအမည်တွင် အက္ခရာစာလုံးအသေး နှင့် ဂဏန်းများသာပါဝင်နိုင်ပါသည် (a-z ၊ 0-9)",
+      "Chinese": "用户名只能包含小写字母和数字（a-z、0-9）"
+    },
+    {
+      "English": "Next",
+      "မြန်မာ": "ဆက်လုပ်မည်",
+      "Chinese": "下一步"
+    },
+    {
+      "English": "Create Password",
+      "မြန်မာ": "စကားဝှက်သတ်မှတ်ရန်",
+      "Chinese": "创建密码"
+    },
+    {
+      "English": "For security, use 8-16 characters with uppercase, lowercase, number and special characters.",
+      "မြန်မာ": "စကားဝှက်တွင် စာလုံးအကြီး၊ စာလုံးအသေး၊ ကိန်းဂဏန်းနှင့် အထူးအက္ခရာ ၈လုံးမှ ၁၆လုံးထိ ပါဝင်ရမည်။",
+      "Chinese": "为了安全起见，请使用 8-16 个字符，包括大写、小写、数字和特殊字符。"
+    },
+    {
+      "English": "At least one uppercase letter",
+      "မြန်မာ": "အနည်းဆုံး စာလုံးအကြီးတစ်လုံး",
+      "Chinese": "至少有一个大写字母"
+    },
+    {
+      "English": "At least one lowercase letter",
+      "မြန်မာ": "အနည်းဆုံး  စာလုံးအသေးတစ်လုံး",
+      "Chinese": "\r\n至少一个小写字母"
+    },
+    {
+      "English": "At least one number",
+      "မြန်မာ": "အနည်းဆုံး ဂဏန်းတစ်လုံး",
+      "Chinese": "至少一个数字"
+    },
+    {
+      "English": "At least one special character",
+      "မြန်မာ": "အနည်းဆုံး  အထူးအက္ခရာတစ်လုံး",
+      "Chinese": "\r\n至少一个特殊字符"
+    },
+    {
+      "English": "Sufficient Length  (8-16 characters)",
+      "မြန်မာ": "သတ်မှတ်ထားသော စာလုံးအရေအတွက် (၈လုံး မှ ၁၆လုံး)",
+      "Chinese": "足够的长度（8-16 个字符）"
+    },
+    {
+      "English": "Password",
+      "မြန်မာ": "စကားဝှက် ",
+      "Chinese": "密码"
+    },
+    {
+      "English": "Enter password",
+      "မြန်မာ": "စကားဝှက် ထည့်ပါ",
+      "Chinese": "输入密码"
+    },
+    {
+      "English": "Confirm password",
+      "မြန်မာ": "စကားဝှက် အတည်ပြုပါ",
+      "Chinese": "确认密码"
+    },
+    {
+      "English": "Next",
+      "မြန်မာ": "ဆက်လုပ်မည်",
+      "Chinese": "下一步"
+    },
+    {
+      "English": "Registration Successful",
+      "မြန်မာ": "စာရင်းသွင်းခြင်း အောင်မြင်ပါပြီ",
+      "Chinese": "注册成功"
+    },
+    {
+      "English": "You have been successfully registered and contimue to login",
+      "မြန်မာ": "စာရင်းသွင်းခြင်း အောင်မြင်စွာ ပြီးဆုံးပါပြီ။ Login ဝင်ရောက်ရန် ဆက်လက်လုပ်ဆောင်ပါ။",
+      "Chinese": "您已经成功注册 请继续登录"
+    },
+    {
+      "English": "Go to Login",
+      "မြန်မာ": "Login သို့သွားပါ",
+      "Chinese": "到登录页面"
+    }
+  ],
+  "Forgot Password": [
+    {
+      "English": "Forgot Password",
+      "မြန်မာ": "စကားဝှက် မေ့နေပါသလား?",
+      "Chinese": "忘记密码？"
+    },
+    {
+      "English": "Username",
+      "မြန်မာ": "အသုံးပြုသူအမည်",
+      "Chinese": "用户名"
+    },
+    {
+      "English": "Enter username",
+      "မြန်မာ": "အသုံးပြုသူအမည် ထည့်ပါ",
+      "Chinese": "输入用户名"
+    },
+    {
+      "English": "National ID",
+      "မြန်မာ": "မှတ်ပုံတင်ဂဏန်း၆လုံး",
+      "Chinese": "身份证号码"
+    },
+    {
+      "English": "Mobile Number",
+      "မြန်မာ": "ဖုန်းနံပါတ်",
+      "Chinese": "手机号码"
+    },
+    {
+      "English": "<< Back to Login",
+      "မြန်မာ": "Login သို့ပြန်သွားရန်",
+      "Chinese": "<< 返回登录页面"
+    },
+    {
+      "English": "Next",
+      "မြန်မာ": "ဆက်လုပ်မည်",
+      "Chinese": "下一步"
+    },
+    {
+      "English": "Update password",
+      "မြန်မာ": "စကားဝှက် အသစ်ပြင်ဆင်ပါ။",
+      "Chinese": "更新密码"
+    },
+    {
+      "English": " You need to change your password.",
+      "မြန်မာ": "စကားဝှက်ပြောင်းရန် လိုပါမည်",
+      "Chinese": "您需要更改密码。"
+    },
+    {
+      "English": "New Password",
+      "မြန်မာ": "စကားဝှက်အသစ်",
+      "Chinese": "\r\n新密码"
+    },
+    {
+      "English": "Enter New Password",
+      "မြန်မာ": "စကားဝှက်အသစ် ထည့်ပါ",
+      "Chinese": "输入新密码"
+    },
+    {
+      "English": "Confirm Password",
+      "မြန်မာ": "စကားဝှက်အသစ်  အတည်ပြုပါ",
+      "Chinese": "确认密码"
+    },
+    {
+      "English": "Re-type New Password",
+      "မြန်မာ": "စကားဝှက်အသစ်  ပြန်ထည့်ပါ",
+      "Chinese": "\r\n重新输入新密码"
+    },
+    {
+      "English": "Update",
+      "မြန်မာ": "ပြင်ဆင်မည်။",
+      "Chinese": "更新"
+    }
+  ],
+  "Login": [
+    {
+      "English": "Username",
+      "မြန်မာ": "အသုံးပြုသူအမည်",
+      "Chinese": "用户名"
+    },
+    {
+      "English": "Password",
+      "မြန်မာ": "စကားဝှက်",
+      "Chinese": "密码"
+    },
+    {
+      "English": "Forgot Password?",
+      "မြန်မာ": "စကားဝှက် မေ့နေပါသလား?",
+      "Chinese": "忘记密码？"
+    },
+    {
+      "English": "Login",
+      "မြန်မာ": "ဝင်မည်",
+      "Chinese": "登录"
+    },
+    {
+      "English": "YOMA BANK NEXT ACTIVATION",
+      "မြန်မာ": "YOMA BANK NEXT အကောင့်ဖွင့်ရန်",
+      "Chinese": "激活佑瑪网银"
+    }
+  ],
+  "Dashboard": [
+    {
+      "English": "Welcome Back",
+      "မြန်မာ": "ပြန်လည်ကြိုဆိုပါသည်",
+      "Chinese": "欢迎回来"
+    },
+    {
+      "English": "My Accounts ",
+      "မြန်မာ": "ကျွန်ုပ်၏ အကောင့်စာရင်းများ",
+      "Chinese": "我的账户"
+    },
+    {
+      "English": "Recent Transactions",
+      "မြန်မာ": "လတ်တလောငွေလွှဲပြောင်းမှုများ",
+      "Chinese": "最近的汇款"
+    },
+    {
+      "English": "Acc No.",
+      "မြန်မာ": "အကောင့်နံပါတ်",
+      "Chinese": "账户号码"
+    },
+    {
+      "English": "Transaction Initiated Date",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုလုပ်ဆောင်သည့်နေ့",
+      "Chinese": "汇款日期"
+    },
+    {
+      "English": "Transaction Reference ID",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်ချက် ရည်ညွန်းအမှတ်",
+      "Chinese": "汇款ID号码"
+    },
+    {
+      "English": "Transaction Amount",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမည့်ပမာဏ",
+      "Chinese": "汇款金额"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "To",
+      "မြန်မာ": "သို့",
+      "Chinese": "到"
+    },
+    {
+      "English": "Transaction Type",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်မှုအမျိုးအစား",
+      "Chinese": "汇款类型"
+    },
+    {
+      "English": "There is no transaction yet.",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်မှု မရှိသေးပါ။",
+      "Chinese": "还没有汇款。"
+    }
+  ],
+  "Side Menu": [
+    {
+      "English": "Dashboard",
+      "မြန်မာ": "ပင်မစာမျက်နှာ",
+      "Chinese": "主页面"
+    },
+    {
+      "English": "Account Overview",
+      "မြန်မာ": "ဘဏ်စာရင်းများ",
+      "Chinese": "账户信息"
+    },
+    {
+      "English": "Fixed Deposit",
+      "မြန်မာ": "စာရင်းသေအပ်ငွေများ",
+      "Chinese": "定期存款"
+    },
+    {
+      "English": "Loans",
+      "မြန်မာ": "ချေးငွေအချက်အလက်များ",
+      "Chinese": "贷款"
+    },
+    {
+      "English": "Transfer ",
+      "မြန်မာ": "ငွေလွှဲရန်",
+      "Chinese": "转移资金"
+    },
+    {
+      "English": "Own Account Transfer",
+      "မြန်မာ": "မိမိအကောင့်သို့ငွေလွှဲရန်",
+      "Chinese": "自己账户互转"
+    },
+    {
+      "English": "Other Account Transfer",
+      "မြန်မာ": "အခြားအကောင့်သို့ငွေလွှဲရန်",
+      "Chinese": "其他账户转账"
+    },
+    {
+      "English": "Other Bank Transfer",
+      "မြန်မာ": "အခြားဘဏ်သို့ငွေလွှဲရန်",
+      "Chinese": "其他银行转账"
+    },
+    {
+      "English": "WavePay Transfer",
+      "မြန်မာ": "WavePay အကောင့်သို့ငွေလွှဲရန်",
+      "Chinese": "WavePay转账"
+    },
+    {
+      "English": "Transaction History",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုမှတ်တမ်းများ",
+      "Chinese": "汇款纪录"
+    },
+    {
+      "English": "Receivers",
+      "မြန်မာ": "ငွေလက်ခံသူများ",
+      "Chinese": "收款人"
+    },
+    {
+      "English": "Bill Payment",
+      "မြန်မာ": "ဘေလ်ပေးဆောင်ရန်",
+      "Chinese": "缴费"
+    },
+    {
+      "English": "Mobile Top-up",
+      "မြန်မာ": "ဖုန်းငွေဖြည့်ရန်",
+      "Chinese": "手机充值"
+    },
+    {
+      "English": "Bulk Payment",
+      "မြန်မာ": "အစုလိုက်ငွေလွှဲပြောင်းရန်",
+      "Chinese": "批量支付"
+    },
+    {
+      "English": "Bulk Transaction History",
+      "မြန်မာ": "အစုလိုက်ငွေလွှဲပြောင်းမှုမှတ်တမ်းများ",
+      "Chinese": "批量汇款历史"
+    },
+    {
+      "English": "Schedule Payment",
+      "မြန်မာ": "ငွေပေးချေမှုကြိုတင်စီစဉ်ရန်",
+      "Chinese": "安排付款"
+    },
+    {
+      "English": "Approvals",
+      "မြန်မာ": "အတည်ပြုရန်",
+      "Chinese": "批准"
+    },
+    {
+      "English": "Change Language",
+      "မြန်မာ": "ဘာသာစကားပြောင်းရန်",
+      "Chinese": "选择语言"
+    },
+    {
+      "English": "Logout",
+      "မြန်မာ": "ထွက်ရန်",
+      "Chinese": "登出"
+    }
+  ],
+  "Own Account Transfer": [
+    {
+      "English": "Own Account Transfer",
+      "မြန်မာ": "မိမိအကောင့်သို့ငွေလွှဲရန်",
+      "Chinese": "自己账户互转"
+    },
+    {
+      "English": "From Which Account",
+      "မြန်မာ": "ပေးပို့မည့်အကောင့်မှ",
+      "Chinese": "汇款帐户"
+    },
+    {
+      "English": "To Which Account",
+      "မြန်မာ": "လက်ခံမည့်အကောင့်သို့",
+      "Chinese": "收款账户"
+    },
+    {
+      "English": "Amount ",
+      "မြန်မာ": "ငွေပမာဏ",
+      "Chinese": "金额 "
+    },
+    {
+      "English": "Enter Amount",
+      "မြန်မာ": "ငွေပမာဏထည့်ပါ",
+      "Chinese": "输入金额"
+    },
+    {
+      "English": "Message",
+      "မြန်မာ": "မှတ်ချက်",
+      "Chinese": "备注"
+    },
+    {
+      "English": "Optional",
+      "မြန်မာ": "မဖြည့်လဲရပါသည်",
+      "Chinese": "可选择填写"
+    },
+    {
+      "English": "Next",
+      "မြန်မာ": "ရှေ့သို့",
+      "Chinese": "下一步"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Own Account Transfer Review",
+      "မြန်မာ": "မိမိအကောင့်သို့ငွေလွှဲပြောင်းခြင်းကိုစစ်ဆေးရန်",
+      "Chinese": "自己账户互转记录"
+    },
+    {
+      "English": "What you need to know before sending this money:",
+      "မြန်မာ": "ငွေမလွှဲခင် သိထားသင့်သည်များ",
+      "Chinese": "汇出这笔款之前，您需要知道的是："
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "To",
+      "မြန်မာ": "သို့",
+      "Chinese": "到"
+    },
+    {
+      "English": "Transfer Amount",
+      "မြန်မာ": "ငွေလွှဲမည့်ပမာဏ",
+      "Chinese": "转账金额"
+    },
+    {
+      "English": "Transfer Fees",
+      "မြန်မာ": "ငွေလွှဲ၀န်ဆောင်ခ",
+      "Chinese": "转让费"
+    },
+    {
+      "English": "Own account transfers are always FREE",
+      "မြန်မာ": "ကိုယ်ပိုင်အကောင့်အချင်းချင်းအခမဲ့ငွေလွှဲနိုင်ပါသည်",
+      "Chinese": "自己账户互转没有费用"
+    },
+    {
+      "English": "Total Debit Amount",
+      "မြန်မာ": "စုစုပေါင်းငွေပမာဏ",
+      "Chinese": "总金额"
+    },
+    {
+      "English": "Message",
+      "မြန်မာ": "မှတ်ချက်",
+      "Chinese": "备注"
+    },
+    {
+      "English": "By clicking confirm, you agree to the Terms and Conditions",
+      "မြန်မာ": "အတည်ပြုမည်ကိုနှိပ်လိုက်ခြင်းအားဖြင့်စည်းကမ်းသတ်မှတ်ချက်များကိုသိရှိနားလည်ပြီးဖြစ်ပါသည်",
+      "Chinese": "点击确认表示您同意条款和协议"
+    },
+    {
+      "English": "Terms and Conditions",
+      "မြန်မာ": "စည်းကမ်းသတ်မှတ်ချက်များ",
+      "Chinese": "条款和协议"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Confirm",
+      "မြန်မာ": "အတည်ပြုမည်",
+      "Chinese": "确认"
+    },
+    {
+      "English": "Back",
+      "မြန်မာ": "နောက်သို့",
+      "Chinese": "后退"
+    },
+    {
+      "English": "Your transfer is successful.",
+      "မြန်မာ": "ငွေလွှဲပြောင်းခြင်းအောင်မြင်ပါသည်။",
+      "Chinese": "转账成功。"
+    },
+    {
+      "English": "Transaction Reference ID\r\n",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်ချက် ရည်ညွန်းအမှတ်",
+      "Chinese": "汇款 ID号码"
+    },
+    {
+      "English": "Transaction Date",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုလုပ်ဆောင်သည့်နေ့",
+      "Chinese": "汇款日期"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "To",
+      "မြန်မာ": "သို့",
+      "Chinese": "到"
+    },
+    {
+      "English": "Transfer Amount",
+      "မြန်မာ": "ငွေလွှဲမည့်ပမာဏ",
+      "Chinese": "转账金额"
+    },
+    {
+      "English": "Transfer Fees",
+      "မြန်မာ": "ငွေလွှဲ၀န်ဆောင်ခ",
+      "Chinese": "转账费"
+    },
+    {
+      "English": "Total Debit Amount",
+      "မြန်မာ": "စုစုပေါင်းငွေပမာဏ",
+      "Chinese": "总金额"
+    },
+    {
+      "English": "Message",
+      "မြန်မာ": "မှတ်ချက်",
+      "Chinese": "备注"
+    },
+    {
+      "English": "See Transaction History",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုမှတ်တမ်း ကြည့်မည်။",
+      "Chinese": "查看汇款记录"
+    },
+    {
+      "English": "Back to Dashboard",
+      "မြန်မာ": "ပင်မစာမျက်နှာသို့ သွားမည်၊",
+      "Chinese": "返回主页面"
+    },
+    {
+      "English": "Download Receipt",
+      "မြန်မာ": "ငွေလွှဲဖြတ်ပိုင်းကို ဒေါင်းလုဒ်လုပ်ပါ။",
+      "Chinese": "下载收据"
+    },
+    {
+      "English": "Transaction Failed",
+      "မြန်မာ": "ငွေလွှဲပြောင်းခြင်းမအောင်မြင်ပါ။",
+      "Chinese": "汇款失败"
+    }
+  ],
+  "Other Account Transfer": [
+    {
+      "English": "Other Account Transfer ",
+      "မြန်မာ": "အခြားအကောင့်သို့ငွေလွှဲရန်",
+      "Chinese": "其他账户转账"
+    },
+    {
+      "English": "From Which Account",
+      "မြန်မာ": "ပေးပို့မည့်အကောင့်မှ",
+      "Chinese": "汇款帐户"
+    },
+    {
+      "English": "To Which Account",
+      "မြန်မာ": "လက်ခံမည့်အကောင့်သို့",
+      "Chinese": "收款账户"
+    },
+    {
+      "English": "Enter Account Number",
+      "မြန်မာ": "အကောင့်နံပါတ်ကိုထည့်ပါ",
+      "Chinese": "输入账户号码"
+    },
+    {
+      "English": "Receiver List",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူစာရင်း",
+      "Chinese": "收款人列表"
+    },
+    {
+      "English": "Search receiver name",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူကိုရှာဖွေရန်",
+      "Chinese": "搜索收款人"
+    },
+    {
+      "English": "No results found",
+      "မြန်မာ": "ရှာမတွေ့ပါ။",
+      "Chinese": "未找到结果"
+    },
+    {
+      "English": "Amount ",
+      "မြန်မာ": "ငွေပမာဏ",
+      "Chinese": "金额 "
+    },
+    {
+      "English": "Enter Amount",
+      "မြန်မာ": "ငွေပမာဏထည့်ပါ",
+      "Chinese": "输入金额"
+    },
+    {
+      "English": "Purpose of Transaction ",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုရည်ရွယ်ချက်",
+      "Chinese": "汇款目的"
+    },
+    {
+      "English": "Remark",
+      "မြန်မာ": "မှတ်ချက်",
+      "Chinese": "备注"
+    },
+    {
+      "English": "Enter Remark",
+      "မြန်မာ": "မှတ်ချက်ကိုထည့်ပါ",
+      "Chinese": "输入备注"
+    },
+    {
+      "English": "Optional",
+      "မြန်မာ": "မဖြည့်လဲရပါသည်",
+      "Chinese": "可选择填写"
+    },
+    {
+      "English": "Next",
+      "မြန်မာ": "ရှေ့သို့",
+      "Chinese": "下一步"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Transfer fees will be charged on some account types.",
+      "မြန်မာ": "အချို့သော အကောင့်အမျိုးအစားများမှ ငွေလွှဲပြောင်းခြင်းအတွက် ငွေလွှဲဝန်ဆောင်ခ ကောက်ခံပါမည်။",
+      "Chinese": "某些账户类型将收取转账费用。"
+    },
+    {
+      "English": "Other Account Transfer Review",
+      "မြန်မာ": "အခြားအကောင့်သို့ငွေလွှဲပြောင်းခြင်းကိုစစ်ဆေးရန်",
+      "Chinese": "其他账户转账记录"
+    },
+    {
+      "English": "What you need to know before sending this money:",
+      "မြန်မာ": "ငွေမလွှဲခင် သိထားသင့်သည်များ",
+      "Chinese": "汇出这笔款之前，您需要知道的是："
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "To",
+      "မြန်မာ": "သို့",
+      "Chinese": "到"
+    },
+    {
+      "English": "Transfer Amount",
+      "မြန်မာ": "ငွေလွှဲမည့်ပမာဏ",
+      "Chinese": "转账金额"
+    },
+    {
+      "English": "Transfer Fees",
+      "မြန်မာ": "ငွေလွှဲ၀န်ဆောင်ခ",
+      "Chinese": "转账费"
+    },
+    {
+      "English": "Total Debit Amount",
+      "မြန်မာ": "စုစုပေါင်းငွေပမာဏ",
+      "Chinese": "总金额"
+    },
+    {
+      "English": "Purpose of Transaction",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုရည်ရွယ်ချက်",
+      "Chinese": "汇款目的"
+    },
+    {
+      "English": "By clicking confirm, you agree to the Terms and Conditions",
+      "မြန်မာ": "အတည်ပြုမည်ကိုနှိပ်လိုက်ခြင်းအားဖြင့်စည်းကမ်းသတ်မှတ်ချက်များကိုသိရှိနားလည်ပြီးဖြစ်ပါသည်။ ",
+      "Chinese": "点击确认表示您同意条款和协议"
+    },
+    {
+      "English": "Terms and Conditions",
+      "မြန်မာ": "စည်းကမ်းသတ်မှတ်ချက်များ",
+      "Chinese": "条款和协议"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Confirm",
+      "မြန်မာ": "အတည်ပြုမည်",
+      "Chinese": "确认"
+    },
+    {
+      "English": "Back",
+      "မြန်မာ": "နောက်သို့",
+      "Chinese": "后退"
+    },
+    {
+      "English": "Your transfer is successful.",
+      "မြန်မာ": "ငွေလွှဲခြင်း အောင်မြင်ပါပြီ",
+      "Chinese": "转账成功"
+    },
+    {
+      "English": "Transaction Reference ID",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်ချက် ရည်ညွှန်းအမှတ်",
+      "Chinese": "汇款ID号码"
+    },
+    {
+      "English": "Transaction Date",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုလုပ်ဆောင်သည့်နေ့",
+      "Chinese": "汇款日期"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "To",
+      "မြန်မာ": "သို့",
+      "Chinese": "到"
+    },
+    {
+      "English": "Transfer Amount",
+      "မြန်မာ": "ငွေလွှဲမည့်ပမာဏ",
+      "Chinese": "转账金额"
+    },
+    {
+      "English": "Transfer Fees",
+      "မြန်မာ": "ငွေလွှဲ၀န်ဆောင်ခ",
+      "Chinese": "转账费"
+    },
+    {
+      "English": "Total Debit Amount",
+      "မြန်မာ": "စုစုပေါင်းငွေပမာဏ",
+      "Chinese": "总金额"
+    },
+    {
+      "English": "Purpose of Transaction",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုရည်ရွယ်ချက်",
+      "Chinese": "汇款目的"
+    },
+    {
+      "English": "See Transaction History",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုမှတ်တမ်း ကြည့်မည်။",
+      "Chinese": "查看汇款记录"
+    },
+    {
+      "English": "Back to Dashboard",
+      "မြန်မာ": "ပင်မစာမျက်နှာသို့ သွားမည်၊",
+      "Chinese": "返回主页面"
+    },
+    {
+      "English": "Download Receipt",
+      "မြန်မာ": "ငွေလွှဲဖြတ်ပိုင်းကို ဒေါင်းလုဒ်လုပ်ပါ။",
+      "Chinese": "下载收据"
+    },
+    {
+      "English": "Save Receiver",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူကိုသိမ်းဆည်းရန်",
+      "Chinese": "保存收款人"
+    },
+    {
+      "English": "Receiver name ",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူနာမည်",
+      "Chinese": "收款人姓名"
+    },
+    {
+      "English": "Account Number",
+      "မြန်မာ": "အကောင့်နံပါတ်",
+      "Chinese": "账户号码"
+    },
+    {
+      "English": "Save ",
+      "မြန်မာ": "သိမ်းဆည်းမည်",
+      "Chinese": "保存"
+    },
+    {
+      "English": "Receiver name ",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူနာမည်",
+      "Chinese": "收款人姓名"
+    },
+    {
+      "English": "Add Receiver",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူအသစ်ထည့်ရန်",
+      "Chinese": "添加收款人"
+    },
+    {
+      "English": "Payment Type",
+      "မြန်မာ": "ငွေပေးချေမှုအမျိုးအစား",
+      "Chinese": "付款类型"
+    },
+    {
+      "English": "Receiver Name",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူနာမည်",
+      "Chinese": "收款人姓名"
+    },
+    {
+      "English": "Account Number",
+      "မြန်မာ": "အကောင့်နံပါတ်",
+      "Chinese": "账户号码"
+    }
+  ],
+  "Other Bank Transfer": [
+    {
+      "English": "Other Bank Transfer",
+      "မြန်မာ": "အခြားဘဏ်သို့ငွေလွှဲရန်",
+      "Chinese": "其他银行转账"
+    },
+    {
+      "English": "From Which Account",
+      "မြန်မာ": "ပေးပို့မည့်အကောင့်မှ",
+      "Chinese": "汇款帐户"
+    },
+    {
+      "English": "Transfer To",
+      "မြန်မာ": "ငွေလွှဲမည့်ဘဏ်သို့",
+      "Chinese": "转账到"
+    },
+    {
+      "English": "Select Bank",
+      "မြန်မာ": "ဘဏ်ကိုရွေးပါ",
+      "Chinese": "选择银行"
+    },
+    {
+      "English": "Receiver Name",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူနာမည်",
+      "Chinese": "收款人姓名"
+    },
+    {
+      "English": "Enter receiver name",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူနာမည်ကိုထည့်ပါ",
+      "Chinese": "输入收款人姓名"
+    },
+    {
+      "English": "Receiver Account Number",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူအကောင့်နံပါတ်",
+      "Chinese": "收款人账户号码"
+    },
+    {
+      "English": "Enter Receiver Account Number",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူအကောင့်နံပါတ်ကိုထည့်ပါ",
+      "Chinese": "输入收款人账户号码"
+    },
+    {
+      "English": "Branch Name",
+      "မြန်မာ": "ဘဏ်ခွဲနာမည်",
+      "Chinese": "分行名称"
+    },
+    {
+      "English": "Select Branch",
+      "မြန်မာ": "ဘဏ်ခွဲနာမည်ကိုရွေးပါ",
+      "Chinese": "选择分行"
+    },
+    {
+      "English": "Select Recipient",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူကိုရွေးချယ်ရန်",
+      "Chinese": "选择收款人"
+    },
+    {
+      "English": "Search Recipient",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူကိုရှာဖွေရန်",
+      "Chinese": "搜索收款人"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Amount ",
+      "မြန်မာ": "ငွေပမာဏ",
+      "Chinese": "金额 "
+    },
+    {
+      "English": "Enter amount ",
+      "မြန်မာ": "ငွေပမာဏ ကိုထည့်ပါ",
+      "Chinese": "输入金额 "
+    },
+    {
+      "English": "Phone Number",
+      "မြန်မာ": "မိုဘိုင်းလ်ဖုန်းနံပါတ်",
+      "Chinese": "手机号码"
+    },
+    {
+      "English": "Enter Receiver Phone Number",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူမိုဘိုင်းလ်ဖုန်းနံပါတ်ကိုထည့်ပါ",
+      "Chinese": "输入收款人手机号码"
+    },
+    {
+      "English": "Purpose of Transaction",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုရည်ရွယ်ချက်",
+      "Chinese": "汇款目的"
+    },
+    {
+      "English": "Remark",
+      "မြန်မာ": "မှတ်ချက်",
+      "Chinese": "备注"
+    },
+    {
+      "English": "Enter Remark",
+      "မြန်မာ": "မှတ်ချက်ကိုထည့်ပါ",
+      "Chinese": "输入备注"
+    },
+    {
+      "English": "Optional",
+      "မြန်မာ": "မဖြည့်လဲရပါသည်",
+      "Chinese": "可选择填写"
+    },
+    {
+      "English": "You can only make transfers between 9:30 AM to 2:30 PM on bank working days.",
+      "မြန်မာ": "ဘဏ်ဖွင့်ရက်များတွင် နံနက် ၉း၃၀ မှ နေ့လည် ၂း၃၀ အတွင်းသာ လွှဲပြောင်းနိုင်ပါသည်။",
+      "Chinese": "转账只能在银行工作日上午 9:30 至下午 2:30 之间进行。"
+    },
+    {
+      "English": "Next",
+      "မြန်မာ": "ရှေ့သို့",
+      "Chinese": "下一步"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Other Bank Transfer Review",
+      "မြန်မာ": "အခြားဘဏ်သို့ငွေလွှဲပြောင်းခြင်းကိုစစ်ဆေးရန်",
+      "Chinese": "其他银行转账记录"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "To ",
+      "မြန်မာ": "သို့",
+      "Chinese": "到"
+    },
+    {
+      "English": "Receiver Name",
+      "မြန်မာ": "လက်ခံသူနာမည်",
+      "Chinese": "收款人姓名"
+    },
+    {
+      "English": "Phone Number",
+      "မြန်မာ": "မိုဘိုင်းလ်ဖုန်းနံပါတ်",
+      "Chinese": "手机号码"
+    },
+    {
+      "English": "Receiver Account Number",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူအကောင့်နံပါတ်",
+      "Chinese": "收款人账户号码"
+    },
+    {
+      "English": "Branch Name",
+      "မြန်မာ": "ဘဏ်ခွဲနာမည်",
+      "Chinese": "分行名称"
+    },
+    {
+      "English": "Amount",
+      "မြန်မာ": "ငွေလွှဲမည့်ပမာဏ",
+      "Chinese": "金额"
+    },
+    {
+      "English": "Transfer Fees",
+      "မြန်မာ": "ငွေလွှဲ၀န်ဆောင်ခ",
+      "Chinese": "转账费"
+    },
+    {
+      "English": "Total Debit Amount",
+      "မြန်မာ": "စုစုပေါင်းငွေပမာဏ",
+      "Chinese": "总金额"
+    },
+    {
+      "English": "Purpose of Transaction",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုရည်ရွယ်ချက်",
+      "Chinese": "汇款目的"
+    },
+    {
+      "English": "Note",
+      "မြန်မာ": "မှတ်သားရန်",
+      "Chinese": "笔记"
+    },
+    {
+      "English": "Your transfer amount will receive within 24 - 36 hours.",
+      "မြန်မာ": "ငွေလွှဲလိုက်သည့် ပမာဏကို ၂၄ နာရီမှ ၃၆ နာရီအတွင်း ရရှိမည်ဖြစ်ပါသည်။",
+      "Chinese": "您的转账金额将在 24 - 36 小时内收到。"
+    },
+    {
+      "English": "By clicking confirm, you agree to the Terms and Conditions",
+      "မြန်မာ": "အတည်ပြုမည်ကိုနှိပ်လိုက်ခြင်းအားဖြင့်စည်းကမ်းသတ်မှတ်ချက်များကိုသိရှိနားလည်ပြီးဖြစ်ပါသည်",
+      "Chinese": "点击确认表示您同意条款和协议"
+    },
+    {
+      "English": "Terms and Conditions",
+      "မြန်မာ": "စည်းကမ်းသတ်မှတ်ချက်များ",
+      "Chinese": "条款和协议"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Confirm",
+      "မြန်မာ": "အတည်ပြုမည်",
+      "Chinese": "确认"
+    },
+    {
+      "English": "Back",
+      "မြန်မာ": "နောက်သို့",
+      "Chinese": "后退"
+    },
+    {
+      "English": "Your transfer is initiated",
+      "မြန်မာ": "ငွေလွှဲပြောင်းခြင်းကိုစတင်လုပ်ဆောင်နေပါသည်။",
+      "Chinese": "\r\n您的转账已启动"
+    },
+    {
+      "English": "Transaction Reference ID",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်ချက် ရည်ညွှန်းအမှတ်",
+      "Chinese": "汇款ID号码"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "To",
+      "မြန်မာ": "သို့",
+      "Chinese": "到"
+    },
+    {
+      "English": "Receiver Name",
+      "မြန်မာ": "လက်ခံသူနာမည်",
+      "Chinese": "收款人姓名"
+    },
+    {
+      "English": "Mobile Number",
+      "မြန်မာ": "မိုဘိုင်းလ်ဖုန်းနံပါတ်",
+      "Chinese": "手机号码"
+    },
+    {
+      "English": "Receiver Account Number",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူအကောင့်နံပါတ်",
+      "Chinese": "收款人账户号码"
+    },
+    {
+      "English": "Branch Name",
+      "မြန်မာ": "ဘဏ်ခွဲနာမည်",
+      "Chinese": "分行名称"
+    },
+    {
+      "English": "Transfer Amount",
+      "မြန်မာ": "ငွေလွှဲမည့်ပမာဏ",
+      "Chinese": "转账金额"
+    },
+    {
+      "English": "Transfer Fees",
+      "မြန်မာ": "ငွေလွှဲ၀န်ဆောင်ခ",
+      "Chinese": "转账费"
+    },
+    {
+      "English": "Total Debit Amount",
+      "မြန်မာ": "စုစုပေါင်းငွေပမာဏ",
+      "Chinese": "总金额"
+    },
+    {
+      "English": "Purpose of Transaction",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုရည်ရွယ်ချက်",
+      "Chinese": "汇款目的"
+    },
+    {
+      "English": "Remark",
+      "မြန်မာ": "မှတ်ချက်",
+      "Chinese": "备注"
+    },
+    {
+      "English": "Save Receiver",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူကိုသိမ်းဆည်းရန်",
+      "Chinese": "保存收款人"
+    },
+    {
+      "English": "Receiver Nickname ",
+      "မြန်မာ": "နာမည်တို",
+      "Chinese": "收款人昵称"
+    },
+    {
+      "English": "Receiver Account Number",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူအကောင့်နံပါတ်",
+      "Chinese": "收款人账户号码"
+    },
+    {
+      "English": "Receiver Name",
+      "မြန်မာ": "လက်ခံသူနာမည်",
+      "Chinese": "收款人姓名"
+    },
+    {
+      "English": "Bank Name",
+      "မြန်မာ": "ဘဏ်နာမည်\t",
+      "Chinese": "银行名称"
+    },
+    {
+      "English": "Branch Name",
+      "မြန်မာ": "ဘဏ်ခွဲနာမည်",
+      "Chinese": "分行名称"
+    },
+    {
+      "English": "Save ",
+      "မြန်မာ": "သိမ်းဆည်းမည်",
+      "Chinese": "保存"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    }
+  ],
+  "WavePay Transfer": [
+    {
+      "English": "Wave Account Transfer",
+      "မြန်မာ": "Wave အကောင့်သို့ ငွေလွှဲရန်",
+      "Chinese": "将资金转入 Wave Pay 账户"
+    },
+    {
+      "English": "From which account",
+      "မြန်မာ": "ပေးပို့မည့်အကောင့်",
+      "Chinese": "汇款转账"
+    },
+    {
+      "English": "Wave account",
+      "မြန်မာ": "Wave အကောင့်",
+      "Chinese": "Wave 账户"
+    },
+    {
+      "English": "Enter digits",
+      "မြန်မာ": "နံပါတ်ထည့်ပါ",
+      "Chinese": "输入数字"
+    },
+    {
+      "English": "Amount",
+      "မြန်မာ": "ငွေပမာဏ",
+      "Chinese": "金额"
+    },
+    {
+      "English": "Enter Amount",
+      "မြန်မာ": "ငွေပမာဏ ထည့်ပါ",
+      "Chinese": "输入金额"
+    },
+    {
+      "English": "Next",
+      "မြန်မာ": "ဆက်လုပ်မည်",
+      "Chinese": "下一步"
+    }
+  ],
+  "Mobile Top-up": [
+    {
+      "English": "Mobile Top-up",
+      "မြန်မာ": "ဖုန်းငွေဖြည့်ရန်",
+      "Chinese": "手机充值"
+    },
+    {
+      "English": "From Which Account",
+      "မြန်မာ": "အကောင့်မှ",
+      "Chinese": "汇款账户"
+    },
+    {
+      "English": "Phone Number",
+      "မြန်မာ": "မိုဘိုင်းလ်ဖုန်းနံပါတ်",
+      "Chinese": "手机号码"
+    },
+    {
+      "English": "Amount ",
+      "မြန်မာ": "ငွေပမာဏ",
+      "Chinese": "金额 "
+    },
+    {
+      "English": "Next",
+      "မြန်မာ": "ရှေ့သို့",
+      "Chinese": "下一步"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Mobile Top-up Review",
+      "မြန်မာ": "ဖုန်းငွေဖြည့်ခြင်းကိုစစ်ဆေးရန်",
+      "Chinese": "手机充值记录"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "အကောင့်မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "Top-up To",
+      "မြန်မာ": "ငွေဖြည့်ရန်",
+      "Chinese": "充值至"
+    },
+    {
+      "English": "Top-up Amount",
+      "မြန်မာ": "ငွေဖြည့်ပမာဏ",
+      "Chinese": "充值金额"
+    },
+    {
+      "English": "Top-up Fees",
+      "မြန်မာ": "ငွေဖြည့်ခ",
+      "Chinese": "\r\n充值费用"
+    },
+    {
+      "English": "Discount",
+      "မြန်မာ": "လျှော့ဈေး",
+      "Chinese": "折扣"
+    },
+    {
+      "English": "Total Debit Amount",
+      "မြန်မာ": "စုစုပေါင်းငွေပမာဏ",
+      "Chinese": "总金额"
+    },
+    {
+      "English": "By clicking confirm, you agree to the Terms and Conditions",
+      "မြန်မာ": "အတည်ပြုမည်ကိုနှိပ်လိုက်ခြင်းအားဖြင့်စည်းကမ်းသတ်မှတ်ချက်များကိုသိရှိနားလည်ပြီးဖြစ်ပါသည်",
+      "Chinese": "点击确认表示您同意条款和协议"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Confirm",
+      "မြန်မာ": "အတည်ပြုမည်",
+      "Chinese": "确认"
+    },
+    {
+      "English": "Back",
+      "မြန်မာ": "နောက်သို့",
+      "Chinese": "后退"
+    },
+    {
+      "English": "Mobile top-up is successful.",
+      "မြန်မာ": "သင်၏ဖုန်းငွေဖြည့်ခြင်းအောင်မြင်ပါသည်။",
+      "Chinese": "手机充值成功。"
+    },
+    {
+      "English": "Transaction Reference ID",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်ချက် ရည်ညွှန်းအမှတ်",
+      "Chinese": "汇款ID号码"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "အကောင့်မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "Top-up To",
+      "မြန်မာ": "ငွေဖြည့်ရန်",
+      "Chinese": "充值至"
+    },
+    {
+      "English": "Discount",
+      "မြန်မာ": "လျှော့ဈေး",
+      "Chinese": "折扣"
+    },
+    {
+      "English": "Total Debit Amount",
+      "မြန်မာ": "စုစုပေါင်းငွေပမာဏ",
+      "Chinese": "总金额"
+    },
+    {
+      "English": "Transaction Date",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုလုပ်ဆောင်သည့်နေ့",
+      "Chinese": "汇款日期"
+    },
+    {
+      "English": "See Transaction History",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုမှတ်တမ်း ကြည့်မည်။",
+      "Chinese": "查看汇款记录"
+    },
+    {
+      "English": "Back to Dashboard",
+      "မြန်မာ": "ပင်မစာမျက်နှာသို့ သွားမည်၊",
+      "Chinese": "返回主页面"
+    },
+    {
+      "English": "Download Receipt",
+      "မြန်မာ": "ငွေလွှဲဖြတ်ပိုင်းကို ဒေါင်းလုဒ်လုပ်ပါ။",
+      "Chinese": "下载收据"
+    }
+  ],
+  "Bill Payment": [
+    {
+      "English": "Bill Payment",
+      "မြန်မာ": "ဘေလ်ပေးဆောင်ရန်",
+      "Chinese": "缴费"
+    },
+    {
+      "English": "Browse by Category",
+      "မြန်မာ": "‌ဘေလ်အမျိုးအစားအလိုက်ရှာရန်",
+      "Chinese": "按类别浏览"
+    },
+    {
+      "English": "All",
+      "မြန်မာ": "အားလုံး",
+      "Chinese": "全部"
+    },
+    {
+      "English": "Internet",
+      "မြန်မာ": "အင်တာနက်",
+      "Chinese": "互联网"
+    },
+    {
+      "English": "Government & Electricity Meter Bills",
+      "မြန်မာ": "အစိုးရနှင့်လျှပ်စစ်ဓာတ်အားမီတာခ",
+      "Chinese": "政府和电表账单"
+    },
+    {
+      "English": "Insurance & Health",
+      "မြန်မာ": "အာမခံနှင့်ကျန်းမာရေး",
+      "Chinese": "保险与健康"
+    },
+    {
+      "English": "Business",
+      "မြန်မာ": "စီးပွားရေးလုပ်ငန်း",
+      "Chinese": "商业"
+    },
+    {
+      "English": "Entertainment & Digital Coupon",
+      "မြန်မာ": "ဖျော်ဖြေရေးနှင့်ဒစ်ဂျစ်တယ်ကူပွန်",
+      "Chinese": "娱乐和数字优惠券"
+    },
+    {
+      "English": "Microfinance & Re-payment",
+      "မြန်မာ": "အသေးစားငွေကြေးနှင့်ချေးငွေပြန်ဆပ်ခြင်း",
+      "Chinese": "小额信贷和还款"
+    },
+    {
+      "English": "Travel & Tours",
+      "မြန်မာ": "ခရီးသွားလုပ်ငန်း",
+      "Chinese": "旅游与参观团"
+    },
+    {
+      "English": "Online Shopping",
+      "မြန်မာ": "အွန်လိုင်းဈေးဝယ်ခြင်း",
+      "Chinese": "网上购物"
+    },
+    {
+      "English": "Education",
+      "မြန်မာ": "ပညာရေး",
+      "Chinese": "教育"
+    },
+    {
+      "English": "Property Payment ",
+      "မြန်မာ": "အိမ်မြေငွေပေးချေမှု",
+      "Chinese": "资产支付"
+    },
+    {
+      "English": "Others",
+      "မြန်မာ": "အခြား",
+      "Chinese": "其他的"
+    },
+    {
+      "English": "Search Billers",
+      "မြန်မာ": "‌ဘေလ်ပေးဆောင်ရန်ရှာမည်",
+      "Chinese": "搜索账单人"
+    },
+    {
+      "English": "Biller List",
+      "မြန်မာ": "‌ဘေလ်စာရင်းများ",
+      "Chinese": "账单人清单"
+    },
+    {
+      "English": "From Which Account",
+      "မြန်မာ": "ပေးပို့မည့်အကောင့်မှ",
+      "Chinese": "汇款账户"
+    },
+    {
+      "English": "Bill Payment Review",
+      "မြန်မာ": "ဘေလ်ပေးဆောင်ခြင်းကိုစစ်ဆေးရန်",
+      "Chinese": "账单支付记录"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "To",
+      "မြန်မာ": "သို့",
+      "Chinese": "到"
+    },
+    {
+      "English": "By clicking confirm, you agree to the Terms and Conditions",
+      "မြန်မာ": "အတည်ပြုမည်ကိုနှိပ်လိုက်ခြင်းအားဖြင့်စည်းကမ်းသတ်မှတ်ချက်များကိုသိရှိနားလည်ပြီးဖြစ်ပါသည်",
+      "Chinese": "点击确认表示您同意条款和协议"
+    },
+    {
+      "English": "Terms and Conditions",
+      "မြန်မာ": "စည်းကမ်းသတ်မှတ်ချက်များ",
+      "Chinese": "条款和协议"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Confirm",
+      "မြန်မာ": "အတည်ပြုမည်",
+      "Chinese": "确认"
+    },
+    {
+      "English": "Back",
+      "မြန်မာ": "နောက်သို့",
+      "Chinese": "后退"
+    },
+    {
+      "English": "Bill Reference ID",
+      "မြန်မာ": "ဘေလ်လုပ်ဆောင်ချက် ရည်ညွှန်းအမှတ်",
+      "Chinese": "帐单ID号码"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从"
+    },
+    {
+      "English": "To",
+      "မြန်မာ": "သို့",
+      "Chinese": "到"
+    },
+    {
+      "English": "Your transfer is successful.",
+      "မြန်မာ": "သင်၏ဘေလ်ပေးဆောင်ခြင်းအောင်မြင်ပါသည်။",
+      "Chinese": "您的转账以成功。"
+    }
+  ],
+  "Receiver": [
+    {
+      "English": "Receivers",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူများ",
+      "Chinese": "收款人"
+    },
+    {
+      "English": "Yoma Bank",
+      "မြန်မာ": "ရိုးမဘဏ်",
+      "Chinese": "Yoma 银行"
+    },
+    {
+      "English": "WavePay",
+      "မြန်မာ": "WavePay",
+      "Chinese": "WavePay"
+    },
+    {
+      "English": "Other Bank",
+      "မြန်မာ": "အခြားဘဏ်",
+      "Chinese": "其他银行"
+    },
+    {
+      "English": "Add Receiver",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူသိမ်းမည်။",
+      "Chinese": "新收款人"
+    },
+    {
+      "English": "Payment Type",
+      "မြန်မာ": "ငွေပေးချေမှုအမျိုးအစား",
+      "Chinese": "付款方式"
+    },
+    {
+      "English": "Receiver Name",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူနာမည်",
+      "Chinese": "收款人姓名"
+    },
+    {
+      "English": "Enter receiver name",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူနာမည်ကိုထည့်ပါ",
+      "Chinese": "输入收款人姓名"
+    },
+    {
+      "English": "Account Number",
+      "မြန်မာ": "အကောင့်နံပါတ်",
+      "Chinese": "帐号"
+    },
+    {
+      "English": "WavePay Account Number",
+      "မြန်မာ": "WavePay အကောင့်နံပါတ်",
+      "Chinese": "WavePay 帐号"
+    },
+    {
+      "English": "Transfer To",
+      "မြန်မာ": "ငွေလွှဲမည့်ဘဏ်သို့",
+      "Chinese": "传送到"
+    },
+    {
+      "English": "Select Bank",
+      "မြန်မာ": "ဘဏ်ကိုရွေးပါ",
+      "Chinese": "选择银行"
+    },
+    {
+      "English": "Receiver Nickname ",
+      "မြန်မာ": "နာမည်တို",
+      "Chinese": "收款人昵称"
+    },
+    {
+      "English": "Enter receiver nickname",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူနာမည်တို ထည့်ပါ",
+      "Chinese": "输入收款人昵称"
+    },
+    {
+      "English": "Receiver Account Number",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူအကောင့်နံပါတ်",
+      "Chinese": "收款人帐号"
+    },
+    {
+      "English": "Enter Receiver Account Number",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူအကောင့်နံပါတ်ကိုထည့်ပါ",
+      "Chinese": "输入收款人帐号"
+    },
+    {
+      "English": "Branch Name",
+      "မြန်မာ": "ဘဏ်ခွဲနာမည်\t",
+      "Chinese": "分店名称"
+    },
+    {
+      "English": "Select Branch",
+      "မြန်မာ": "ဘဏ်ခွဲကိုရွေးပါ",
+      "Chinese": "选择分行"
+    },
+    {
+      "English": "Phone Number",
+      "မြန်မာ": "မိုဘိုင်းလ်ဖုန်းနံပါတ်",
+      "Chinese": "手机号码"
+    },
+    {
+      "English": "Enter digitis",
+      "မြန်မာ": "အကောင့်နံပါတ်ကိုထည့်ပါ",
+      "Chinese": "输入帐号"
+    },
+    {
+      "English": "Save",
+      "မြန်မာ": "သိမ်းဆည်းမည်",
+      "Chinese": "节省"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Success",
+      "မြန်မာ": "အောင်မြင်ပါသည်",
+      "Chinese": "成功"
+    },
+    {
+      "English": "Save Successfully!",
+      "မြန်မာ": "အောင်မြင်စွာသိမ်းဆည်းပြီးပါပြီ",
+      "Chinese": "保存成功"
+    },
+    {
+      "English": "You have successfully saved receiver.",
+      "မြန်မာ": "‌ငွေလက်ခံသူကိုအောင်မြင်စွာသိမ်းဆည်းပြီးပါပြီ။",
+      "Chinese": "您已成功保存收款人"
+    },
+    {
+      "English": "Go To Receiver List",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူအားလုံးကိုသိမ်းဆည်းထားသောစာရင်းသို့သွားရန်",
+      "Chinese": "转到收款人列表"
+    },
+    {
+      "English": "Name",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူနာမည်",
+      "Chinese": "收款人姓名"
+    },
+    {
+      "English": "Account Number",
+      "မြန်မာ": "အကောင့်နံပါတ်",
+      "Chinese": "帐号"
+    },
+    {
+      "English": "Action",
+      "မြန်မာ": "လုပ်ဆောင်ရန်",
+      "Chinese": "行动"
+    },
+    {
+      "English": "Search ",
+      "မြန်မာ": "ရှာဖွေရန်",
+      "Chinese": "搜索"
+    },
+    {
+      "English": "Edit Receiver",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူကိုပြင်ဆင်ရန်",
+      "Chinese": "编辑收款人"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Update",
+      "မြန်မာ": "ပြင်ဆင်မည်",
+      "Chinese": "更新"
+    },
+    {
+      "English": "Delete Receiver",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူကိုဖျက်သိမ်းရန်",
+      "Chinese": "删除收款人"
+    },
+    {
+      "English": "Delete?",
+      "မြန်မာ": "ဖျက်သိမ်းမည်",
+      "Chinese": "删除"
+    },
+    {
+      "English": "Are you sure you want to delete?",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူကိုဖျက်သိမ်းလိုသည်မှာသေချာပါသလား?",
+      "Chinese": "您确定要删除该收款人吗？"
+    },
+    {
+      "English": "This will delete your recipient from the list.",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူကိုစာရင်းမှဖျက်သိမ်းလိုက်ပါမည်။",
+      "Chinese": "这将从列表中删除您的收款人。"
+    },
+    {
+      "English": "Confirm",
+      "မြန်မာ": "အတည်ပြုမည်",
+      "Chinese": "确认"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "There is no recipient(s).",
+      "မြန်မာ": "ငွေလွှဲလက်ခံသူ(များ)မရှိပါ။",
+      "Chinese": "没有收款人"
+    },
+    {
+      "English": "Transfer",
+      "မြန်မာ": "လွှဲပြောင်းမည်",
+      "Chinese": "转移"
+    },
+    {
+      "English": "Edit",
+      "မြန်မာ": "ပြင်ဆင်မည်",
+      "Chinese": "编辑"
+    },
+    {
+      "English": "Delete",
+      "မြန်မာ": "ဖျက်သိမ်းမည်",
+      "Chinese": "删除"
+    }
+  ],
+  "Fixed Deposit": [
+    {
+      "English": "Fixed Deposit",
+      "မြန်မာ": "စာရင်းသေအပ်ငွေများ",
+      "Chinese": "\r\n定期存款"
+    },
+    {
+      "English": "Acc No",
+      "မြန်မာ": "အကောင့်နံပါတ်",
+      "Chinese": "账户号码"
+    },
+    {
+      "English": "Fixed Deposit Account",
+      "မြန်မာ": "စာရင်းသေအပ်ငွေစာရင်းများ",
+      "Chinese": "定期存款账户"
+    },
+    {
+      "English": "Grow your savings now by opening a Fixed Deposit account with the interest rate of 8.25% p.a.",
+      "မြန်မာ": "ရိုးမဘဏ်ရဲ့ အတိုးနှုန်း ၈.၂၅% p.a အထိ ရရှိနိုင်မည့် Fixed Deposit ကို စာရင်းဖွင့်ပြီး သင်၏ စုဆောင်းငွေကို တိုးပွားအောင် ပြုလုပ်လိုက်ပါ",
+      "Chinese": "立即开设定期存款账户，年利率为 8.25%，增加您的储蓄。"
+    },
+    {
+      "English": "Grow your savings now by opening a Super Fixed Deposit account with the highest interest rate of 9.75% p.a, transferring from a Flexi Everyday account.",
+      "မြန်မာ": "ရိုးမဘဏ်ရဲ့ အမြင့်ဆုံး အတိုးနှုန်း ၉.၇၅% p.a အထိ ရရှိနိုင်မည့် Super Fixed Deposit ကို Flexi Everyday အကောင့်မှ လွှဲပြောင်း၍ စာရင်းဖွင့်ပြီး သင်၏ စုဆောင်းငွေကို တိုးပွားအောင် ပြုလုပ်လိုက်ပါ",
+      "Chinese": "现在就通过 Flexi Everyday 账户转入最高年利率 9.75% 的超级定期存款账户来增加您的储蓄。"
+    },
+    {
+      "English": "Click here to open an account",
+      "မြန်မာ": "စာရင်းသေအပ်ငွေစာရင်းဖွင့်ရန် ဤနေရာကိုနှိပ်ပါ",
+      "Chinese": "点击这里开设账户"
+    },
+    {
+      "English": "Open Fixed Deposit Account",
+      "မြန်မာ": "စာရင်းသေအပ်ငွေစာရင်းဖွင့်မည်",
+      "Chinese": "开定期存款账户"
+    },
+    {
+      "English": "Earn More interest with Fixed Deposit Account!",
+      "မြန်မာ": "စာရင်းသေအပ်ငွေစာရင်းဖွင့်ပြီး သင်၏ စုဆောင်းငွေကို တိုးပွားအောင် ပြုလုပ်လိုက်ပါ!",
+      "Chinese": "通过定期存款账户赚取更多利息！"
+    },
+    {
+      "English": "Total Interest",
+      "မြန်မာ": "အတိုးနှုန်း စုစုပေါင်း",
+      "Chinese": "总利息"
+    },
+    {
+      "English": "Total interest is :",
+      "မြန်မာ": "အတိုးနှုန်း စုစုပေါင်း",
+      "Chinese": "总利息是："
+    },
+    {
+      "English": "Interest pay-out account",
+      "မြန်မာ": "အတိုးထည့်သွင်းမည့်အကောင့်",
+      "Chinese": "利息支付账户"
+    },
+    {
+      "English": "Super Fixed Deposit Account",
+      "မြန်မာ": "Super စာရင်းသေအပ်ငွေစာရင်း",
+      "Chinese": "Super定期存款账户"
+    },
+    {
+      "English": "Open Super Fixed Deposit Account",
+      "မြန်မာ": "Super စာရင်းသေအပ်ငွေစာရင်းဖွင့်မည်",
+      "Chinese": "开设Super定期账户"
+    },
+    {
+      "English": "From which account",
+      "မြန်မာ": "အသုံးပြုမည့်အကောင့်",
+      "Chinese": "从哪个账户"
+    },
+    {
+      "English": "Deposit Amount",
+      "မြန်မာ": "အပ်ငွေ ပမာဏ",
+      "Chinese": "存款金额"
+    },
+    {
+      "English": "Enter amount",
+      "မြန်မာ": "အပ်ငွေ ပမာဏရိုက်ထည့်ပါ။",
+      "Chinese": "输入金额"
+    },
+    {
+      "English": "Deposit Conditions",
+      "မြန်မာ": "အပ်ငွေသက်တမ်း",
+      "Chinese": "存款条件"
+    },
+    {
+      "English": "Maturity",
+      "မြန်မာ": "စာရင်းသက်တမ်းပြည့်မည့်နေ့အတွက်ညွှန်ကြားချက်",
+      "Chinese": "到期"
+    },
+    {
+      "English": "Maturity Info",
+      "မြန်မာ": "စာရင်းသက်တမ်းအမျိုးအစားကြည့်ရန်",
+      "Chinese": "查看到期信息"
+    },
+    {
+      "English": "Maturity Info",
+      "မြန်မာ": "စာရင်းသက်တမ်းအမျိုးအစား",
+      "Chinese": "到期信息类型"
+    },
+    {
+      "English": "Maturity methods can be effective if your new fixed deposit account is due.",
+      "မြန်မာ": "သင်၏ fixed deposit သက်တမ်းပြည့်သည့်နေ့အတွက် ဆက်လက်လုပ်ဆောင်ရမည့် ညွှန်ကြားချက် ဖြစ်သည်။",
+      "Chinese": "如果您的新定期存款账户到期，到期方式可能会有效。"
+    },
+    {
+      "English": "Principal and Interest will be payout to your account.",
+      "မြန်မာ": "အရင်းနှင့်အတိုးအား သင်၏မူရင်းအကောင့်ထဲသို့ ပြန်ထည့်မည်။",
+      "Chinese": "本金和利息将支付到您的账户。"
+    },
+    {
+      "English": "Interest will be payout to your source account (or) selected account and Principal will be renewal for the next term.",
+      "မြန်မာ": "အတိုးအား သင်၏ မူရင်းအကောင့် (သို့မဟုတ်) ရွေးချယ်ထားသောအကောင့်ထဲသို့ ပြန်ထည့်ပြီး အရင်းအား fixed deposit သက်တမ်းအသစ်ဖြင့် ဆက်ထားမည်။",
+      "Chinese": "利息将支付至您的源账户（或）所选账户，本金将持续下一期。"
+    },
+    {
+      "English": "Both principal and interest amount will be renewal for the next term.",
+      "မြန်မာ": "အရင်းနှင့်အတိုး အားလုံးပေါင်းပမာဏအား fixed deposit သက်တမ်းအသစ်ဖြင့် ဆက်ထားမည်။",
+      "Chinese": "本金和利息金额均会持续到下一期。"
+    },
+    {
+      "English": "Total payback amount will be 50,308.21 MMK and interest will be 308.21 MMK.",
+      "မြန်မာ": "စုစုပေါင်းပြန်ရမည့် ပမာဏမှာ ( 50,308.21 ) ကျပ် ဖြစ်ပြီး အတိုး ပမာဏမှာ ( 308.21 ) ကျပ် ဖြစ် သည်။",
+      "Chinese": "总偿还金额为 50,308.21 MMK，利息为 308.21 MMK。"
+    },
+    {
+      "English": "Interest Pay-out account",
+      "မြန်မာ": "အတိုးထည့်သွင်းမည့် အကောင့်",
+      "Chinese": "利息支付账户"
+    },
+    {
+      "English": "Next",
+      "မြန်မာ": "ဆက်သွားမည်",
+      "Chinese": "继续"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Total Payback Amount",
+      "မြန်မာ": "စုစုပေါင်းပြန်ရမည့် ပမာဏ",
+      "Chinese": "总回报金额"
+    },
+    {
+      "English": "From Which Account",
+      "မြန်မာ": "အသုံးပြုမည့်အကောင့်",
+      "Chinese": "从"
+    },
+    {
+      "English": "Deposit Amount",
+      "မြန်မာ": "အပ်ငွေ အမျိုးအစား",
+      "Chinese": "存款金额"
+    },
+    {
+      "English": "Deposit Type",
+      "မြန်မာ": "အပ်ငွေ ပမာဏ",
+      "Chinese": "存款类型"
+    },
+    {
+      "English": "Deposit Conditions",
+      "မြန်မာ": "အပ်ငွေအခြေအနေ",
+      "Chinese": "存款条件"
+    },
+    {
+      "English": "Maturity",
+      "မြန်မာ": "စာရင်းသက်တမ်းပြည့်မည့်အချိန်",
+      "Chinese": "到期"
+    },
+    {
+      "English": "Maturity Date",
+      "မြန်မာ": "စာရင်းသက်တမ်းပြည့်မည့်‌နေ့",
+      "Chinese": "到期时间"
+    },
+    {
+      "English": "Interest Pay-out account",
+      "မြန်မာ": "အတိုးထည့်သွင်းမည့် အကောင့်",
+      "Chinese": "利息支付账户"
+    },
+    {
+      "English": "Principal will be paid to your source account.",
+      "မြန်မာ": "အရင်းအားသင်၏ မူရင်းအကောင့်ထဲသို့ ထည့်မည်။",
+      "Chinese": "本金将支付至您的来源账户。"
+    },
+    {
+      "English": "Back",
+      "မြန်မာ": "အရှေ့သို့ပြန်သွားရန်",
+      "Chinese": "后退"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Confirm",
+      "မြန်မာ": "အတည်ပြုမည်။",
+      "Chinese": "确认"
+    },
+    {
+      "English": "Successfully created your Fixed Deposit Account!",
+      "မြန်မာ": "စာရင်းသေအပ်ငွေစာရင်း အောင်မြင်စွာဖွင့်လှစ်ပြီးပါပြီ။",
+      "Chinese": "成功创建了您的定期存款账户！"
+    },
+    {
+      "English": "Minimum transaction amount should be 50,000.00 MMK.",
+      "မြန်မာ": "အနည်းဆုံး ၅၀,၀၀၀ ကျပ်ဖြင့် အပ်ငွေစာရင်းဖွင့်လှစ်ရပါမည်",
+      "Chinese": "最低汇款余额为50000缅币。"
+    },
+    {
+      "English": "Sorry",
+      "မြန်မာ": "ဝမ်းနည်းပါတယ်",
+      "Chinese": "对不起"
+    },
+    {
+      "English": "You're not Flexi Account user!",
+      "မြန်မာ": "လူကြီးမင်းသည် Flexi Account အသုံးပြုသူမဟုတ်ပါ",
+      "Chinese": "您不是 Flexi 账户使用者!"
+    }
+  ],
+  "Quick Actions": [
+    {
+      "English": "Transfer to Own Account",
+      "မြန်မာ": "မိမိအကောင့်သို့ငွေလွှဲရန်",
+      "Chinese": "转账自有账户"
+    },
+    {
+      "English": "Transfer to Other Account",
+      "မြန်မာ": "အခြားအကောင့်သို့ငွေလွှဲရန်",
+      "Chinese": "转账其他账户"
+    },
+    {
+      "English": "Transfer to Other Bank",
+      "မြန်မာ": "အခြားဘဏ်သို့ငွေလွှဲရန်",
+      "Chinese": "转账其他银行"
+    },
+    {
+      "English": "Transfer to WavePay",
+      "မြန်မာ": "WavePay အကောင့်သို့ငွေလွှဲရန်",
+      "Chinese": "转账WavePay"
+    },
+    {
+      "English": "Pay Bills",
+      "မြန်မာ": "ဘေလ်ပေးဆောင်ရန်",
+      "Chinese": "缴纳费"
+    },
+    {
+      "English": "Saved Receivers",
+      "မြန်မာ": "သိမ်းဆည်းထားသော ငွေလက်ခံသူများကြည့်ရန်",
+      "Chinese": "\r\n已保存的收款人明细\r\n"
+    },
+    {
+      "English": "Open a Fixed Deposit Account",
+      "မြန်မာ": "စာရင်းသေအပ်ငွေစာရင်းဖွင့်ရန်",
+      "Chinese": "\r\n开设定期存款账户"
+    },
+    {
+      "English": "Promotions/ Marketing Campaign",
+      "မြန်မာ": "ပရိုမိုးရှင်း/ကမ်ပိန်းများကြည့်ရန်",
+      "Chinese": "\r\n促销/营销活动"
+    }
+  ],
+  "Account Overview": [
+    {
+      "English": "My Accounts",
+      "မြန်မာ": "ကျွန်ုပ်၏ အကောင့်စာရင်းများ",
+      "Chinese": "我的账户"
+    },
+    {
+      "English": "Deposit",
+      "မြန်မာ": "အပ်ငွေစာရင်းများ",
+      "Chinese": "存款"
+    },
+    {
+      "English": "You don't have any active Deposit Accounts",
+      "မြန်မာ": "သင့်တွင် လက်ရှိအပ်ငွေစာရင်းများ မရှိပါ။",
+      "Chinese": "您没有任何活跃的存款账户"
+    },
+    {
+      "English": "Acc No",
+      "မြန်မာ": "အကောင့်နံပါတ်",
+      "Chinese": "账户号码"
+    },
+    {
+      "English": "Account Detail",
+      "မြန်မာ": "အကောင့်အသေးစိတ် အချက်အလက်များ ",
+      "Chinese": "账户详情"
+    },
+    {
+      "English": "Download Account Statement",
+      "မြန်မာ": "အကောင့်စာရင်း ဒေါင်းလုဒ်လုပ်မည်",
+      "Chinese": "下载账户对账单"
+    },
+    {
+      "English": "Transfer",
+      "မြန်မာ": "ငွေလွှဲမည်",
+      "Chinese": "\r\n转移"
+    },
+    {
+      "English": "Acc No",
+      "မြန်မာ": "အကောင့်နံပါတ်",
+      "Chinese": "账户号码"
+    },
+    {
+      "English": "Account Name",
+      "မြန်မာ": "အကောင့်အမည်",
+      "Chinese": "账户名称"
+    },
+    {
+      "English": "Account Holder Name",
+      "မြန်မာ": "အကောင့်ပိုင်ရှင်အမည်",
+      "Chinese": "账户持有人名称"
+    },
+    {
+      "English": "Account Number",
+      "မြန်မာ": "အကောင့်နံပါတ်",
+      "Chinese": "账户号码"
+    },
+    {
+      "English": "Available Balance",
+      "မြန်မာ": "လွှဲနိုင်သည့်ပမာဏ",
+      "Chinese": "\r\n可用余额"
+    },
+    {
+      "English": "Account Currency",
+      "မြန်မာ": "ငွေကြေးအမျိုးအစား",
+      "Chinese": "账户币种"
+    },
+    {
+      "English": "Interest Rate",
+      "မြန်မာ": "အတိုးနှုန်း",
+      "Chinese": "利率"
+    },
+    {
+      "English": "Blocked Amount",
+      "မြန်မာ": "လွှဲမရသည့်ပမာဏ",
+      "Chinese": "冻结金额"
+    },
+    {
+      "English": "Booked Balance",
+      "မြန်မာ": "စာရင်းရှိပမာဏ",
+      "Chinese": "预订余额"
+    },
+    {
+      "English": "Account Type",
+      "မြန်မာ": "အကောင့်အမျိုးအစား",
+      "Chinese": "账户类型"
+    },
+    {
+      "English": "Opening Date",
+      "မြန်မာ": "အကောင့်ဖွင့်သည့်နေ့",
+      "Chinese": "账户开设日期"
+    },
+    {
+      "English": "Account Status",
+      "မြန်မာ": "အကောင့်အခြေအနေ",
+      "Chinese": "账户状态"
+    },
+    {
+      "English": "More Detail",
+      "မြန်မာ": "အသေးစိတ်ကြည့်မည်။",
+      "Chinese": "更多详情"
+    },
+    {
+      "English": "Transaction List",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်ချက်စာရင်းများ",
+      "Chinese": "汇款清单"
+    },
+    {
+      "English": "From Date",
+      "မြန်မာ": "ရက်စွဲမှ",
+      "Chinese": "从日期"
+    },
+    {
+      "English": "To Date",
+      "မြန်မာ": "ရက်စွဲသို့",
+      "Chinese": "至今为止"
+    },
+    {
+      "English": "Search",
+      "မြန်မာ": "ရှာမည်",
+      "Chinese": "搜索"
+    },
+    {
+      "English": "Clear All",
+      "မြန်မာ": "အားလုံးရှင်းမည်",
+      "Chinese": "全部清除"
+    },
+    {
+      "English": "There is no transaction yet.",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်မှုမရှိသေးပါ။",
+      "Chinese": "还没有汇款"
+    },
+    {
+      "English": "Download Account Statement",
+      "မြန်မာ": "အကောင့်စာရင်း ဒေါင်းလုဒ်လုပ်မည်",
+      "Chinese": "下载账户对账单"
+    },
+    {
+      "English": "You could only download account statements that are valid for the last 12 months.",
+      "မြန်မာ": "လွန်ခဲ့သော ၁၂လ၏စာရင်းရှင်းတမ်းကို လအလိုက် ရွေးချယ်ကာ ဒေါင်းလုဒ်လုပ်နိုင်ပါသည်",
+      "Chinese": "您可以下载最近 12 个月数据的每月账户对账报表"
+    },
+    {
+      "English": "Please choose month",
+      "မြန်မာ": "လကိုရွေးချယ်ပါ",
+      "Chinese": "选择一个月"
+    },
+    {
+      "English": "Download ",
+      "မြန်မာ": "ဒေါင်းလုဒ်လုပ်မည်",
+      "Chinese": "下载"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "取消"
+    },
+    {
+      "English": "Downloading ......",
+      "မြန်မာ": "ဒေါင်းလုဒ်လုပ်နေပါသည် .........",
+      "Chinese": "正在下载......"
+    },
+    {
+      "English": "Download Successfully",
+      "မြန်မာ": "ဒေါင်းလုဒ်လုပ်ခြင်းအောင်မြင်ပါသည်",
+      "Chinese": "下载成功"
+    },
+    {
+      "English": "Change your account name",
+      "မြန်မာ": "အကောင့်နာမည်ပြောင်းမည်",
+      "Chinese": "更改您的账户名称"
+    },
+    {
+      "English": "Account Rename",
+      "မြန်မာ": "အကောင့်နာမည် ပြန်လည်သတ်မှတ်ပါ",
+      "Chinese": "账户重命名"
+    },
+    {
+      "English": "Enter account name",
+      "မြန်မာ": "အကောင့်နာမည် ထည့်ပါ",
+      "Chinese": "输入您的账户名称"
+    },
+    {
+      "English": "Cancel",
+      "မြန်မာ": "မလုပ်တော့ပါ",
+      "Chinese": "\r\n取消"
+    },
+    {
+      "English": "Save",
+      "မြန်မာ": "သိမ်းဆည်းမည် ",
+      "Chinese": "节省"
+    },
+    {
+      "English": "Transaction Initiated Date",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုလုပ်ဆောင်သည့်နေ့",
+      "Chinese": "汇款日期"
+    },
+    {
+      "English": "Transaction Reference ID",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်ချက် ရည်ညွန်းအမှတ်",
+      "Chinese": "汇款参考 ID"
+    },
+    {
+      "English": "Transaction Amount",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမည့်ပမာဏ",
+      "Chinese": "汇款金额"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从转移"
+    },
+    {
+      "English": "To",
+      "မြန်မာ": "သို့",
+      "Chinese": "传送到"
+    },
+    {
+      "English": "Transaction Type",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်မှုအမျိုးအစား",
+      "Chinese": "汇款类型"
+    },
+    {
+      "English": "Transaction ID",
+      "မြန်မာ": "ငွေလွှဲသည့်အမှတ်",
+      "Chinese": "汇款ID"
+    },
+    {
+      "English": "Message",
+      "မြန်မာ": "အကြောင်းအရာ",
+      "Chinese": "评论"
+    },
+    {
+      "English": "Purpose of Transaction",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုရည်ရွယ်ချက်",
+      "Chinese": "汇款目的"
+    },
+    {
+      "English": "Transfer Fees",
+      "မြန်မာ": "ငွေလွှဲ၀န်ဆောင်ခ",
+      "Chinese": "汇款费"
+    },
+    {
+      "English": "Remark",
+      "မြန်မာ": "မှတ်ချက်",
+      "Chinese": "备注"
+    },
+    {
+      "English": "Receiver Bank Name",
+      "မြန်မာ": "လက်ခံသူဘဏ်နာမည်",
+      "Chinese": "收款银行名称"
+    },
+    {
+      "English": "Receiver Branch Name",
+      "မြန်မာ": "လက်ခံသူဘဏ်ခွဲနာမည်",
+      "Chinese": "收款人分行名称"
+    }
+  ],
+  "Transaction History": [
+    {
+      "English": "Transaction History",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုမှတ်တမ်းများ",
+      "Chinese": "汇款纪录"
+    },
+    {
+      "English": "From Date",
+      "မြန်မာ": "ရက်စွဲမှ",
+      "Chinese": "从日期"
+    },
+    {
+      "English": "To Date",
+      "မြန်မာ": "ရက်စွဲသို့",
+      "Chinese": "至今为止"
+    },
+    {
+      "English": "Search",
+      "မြန်မာ": "ရှာမည်",
+      "Chinese": "搜索"
+    },
+    {
+      "English": "Clear All",
+      "မြန်မာ": "အားလုံးရှင်းမည်",
+      "Chinese": "全部清除"
+    },
+    {
+      "English": "Transaction Initiated Date",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုလုပ်ဆောင်သည့်နေ့",
+      "Chinese": "汇款日期"
+    },
+    {
+      "English": "Transaction Reference ID",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်ချက် ရည်ညွန်းအမှတ်",
+      "Chinese": "汇款参考 ID"
+    },
+    {
+      "English": "Transaction Amount",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမည့်ပမာဏ",
+      "Chinese": "汇款金额"
+    },
+    {
+      "English": "From",
+      "မြန်မာ": "မှ",
+      "Chinese": "从转移"
+    },
+    {
+      "English": "To",
+      "မြန်မာ": "သို့",
+      "Chinese": "传送到"
+    },
+    {
+      "English": "Transaction Type",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်မှုအမျိုးအစား",
+      "Chinese": "汇款类型"
+    },
+    {
+      "English": "Transaction Detail",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုအသေးစိတ်မှတ်တမ်းများ",
+      "Chinese": "汇款详情"
+    },
+    {
+      "English": "Transaction Date",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုလုပ်ဆောင်သည့်နေ့",
+      "Chinese": "汇款日期"
+    },
+    {
+      "English": "Download Transaction",
+      "မြန်မာ": "ဒေါင်းလုဒ်လုပ်မည်",
+      "Chinese": "下载"
+    },
+    {
+      "English": "Transaction ID",
+      "မြန်မာ": "ငွေလွှဲသည့်အမှတ်",
+      "Chinese": "汇款ID"
+    },
+    {
+      "English": "Message",
+      "မြန်မာ": "မှတ်ချက်",
+      "Chinese": "评论"
+    },
+    {
+      "English": "Purpose of Transaction",
+      "မြန်မာ": "ငွေလွှဲပြောင်းမှုရည်ရွယ်ချက်",
+      "Chinese": "汇款目的"
+    },
+    {
+      "English": "Transfer Fees",
+      "မြန်မာ": "ငွေလွှဲ၀န်ဆောင်ခ",
+      "Chinese": "转账费"
+    },
+    {
+      "English": "Remark",
+      "မြန်မာ": "မှတ်ချက်",
+      "Chinese": "备注"
+    },
+    {
+      "English": "Receiver Bank Name",
+      "မြန်မာ": "လက်ခံသူဘဏ်နာမည်",
+      "Chinese": "收款银行名称"
+    },
+    {
+      "English": "Receiver Branch Name",
+      "မြန်မာ": "လက်ခံသူဘဏ်ခွဲနာမည်",
+      "Chinese": "收款人分行名称"
+    },
+    {
+      "English": "There is no transaction yet.",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်မှု မရှိသေးပါ။",
+      "Chinese": "还没有汇款"
+    }
+  ],
+  "Notifications": [
+    {
+      "Feature": "Notifications",
+      "English": "Notifications",
+      "မြန်မာ": "အသိပေးချက်များ",
+      "Chinese": "通知"
+    },
+    {
+      "English": "All",
+      "မြန်မာ": "အသိပေးချက်များအားလုံး",
+      "Chinese": "所有通知"
+    },
+    {
+      "English": "News & Promotions",
+      "မြန်မာ": "သတင်း နှင့် ပရိုမိုးရှင်း အသိပေးချက်များ",
+      "Chinese": "\r\n新闻与促销"
+    },
+    {
+      "English": "Account Infromation",
+      "မြန်မာ": "အကောင့်နှင့် ဆိုင်သော အသိပေးချက်များ",
+      "Chinese": "账户信息"
+    },
+    {
+      "English": "System Information",
+      "မြန်မာ": "စနစ်နှင့် ဆိုင်သော  အသိပေးချက်များ",
+      "Chinese": "系统信息"
+    },
+    {
+      "English": "No Notifications",
+      "မြန်မာ": "အသိပေးချက်များမရှိပါ။",
+      "Chinese": "无通知"
+    }
+  ],
+  "OTP": [
+    {
+      "Feature": "OTP",
+      "English": "Verify your transaction",
+      "မြန်မာ": "ငွေလွှဲပြောင်းခြင်းကိုစိစစ်ရန်",
+      "Chinese": "验证您的汇款"
+    },
+    {
+      "English": "Enter One Time Password to confirm your transfer.",
+      "မြန်မာ": "ငွေလွှဲပြောင်းခြင်းကိုစိစစ်ရန်တစ်ခါသုံးကုဒ်ကိုရိုက်ထည့်ပါ။",
+      "Chinese": "输入一次性密码以验证您的转账"
+    },
+    {
+      "English": "One time password is sent to your registered mobile number. Please enter the code in the message to authenticate yourself.",
+      "မြန်မာ": "တစ်ခါသုံးကုဒ်ကိုစာရင်းသွင်းထားသောမိုလ်ဘိုင်းဖုန်းနံပါတ်သို့ပို့မည်ဖြစ်ပါသည်။ကျေးဇူးပြု၍ပေးပို့လာသောတစ်ခါသုံးကုဒ်ကိုစစ်မှန်ကြောင်းသက်သေပြရန်ရိုက်ထည့်ပါ။",
+      "Chinese": "一次性密码将发送至您注册的手机号码。请输入消息中的代码以验证您的身份。"
+    },
+    {
+      "English": "OTP will be expired in 1:38",
+      "Chinese": "OTP将在1:38到期"
+    },
+    {
+      "English": "Invalid OTP",
+      "မြန်မာ": "တစ်ခါသုံးစကားဝှက်မှားယွင်းနေပါသည်။",
+      "Chinese": "无效的OTP"
+    },
+    {
+      "English": "Expired OTP",
+      "မြန်မာ": "တစ်ခါသုံးစကားဝှက်သက်တမ်းမှာ ကုန်ဆုံးသွားပါပြီ။",
+      "Chinese": "过期的OTP"
+    },
+    {
+      "English": "Something went wrong.",
+      "မြန်မာ": "လုပ်ဆောင်မှုမှားယွင်းနေပါသည်။\r\n",
+      "Chinese": "\r\n出了些问题。"
+    },
+    {
+      "English": "OTP Expired!",
+      "မြန်မာ": "တစ်ခါသုံးစကားဝှက်သက်တမ်းမှာ ကုန်ဆုံးသွားပါပြီ။",
+      "Chinese": "OTP过期了"
+    },
+    {
+      "English": "Don't receive the OTP? Resend-One Time Password",
+      "မြန်မာ": "OTP ကို ​​မရပါသလား? နောက်တစ်ကြိမ် တစ်ခါသုံးစကားဝှက်ကို ပြန်ပို့ပါ။",
+      "Chinese": "没有收到 OTP？重新发送一次性密码"
+    },
+    {
+      "English": "Enter Verification code",
+      "မြန်မာ": "အတည်ပြုကုတ်နံပါတ် ထည့်ပါ",
+      "Chinese": "输入验证码"
+    },
+    {
+      "English": "Please enter the verification code send to register phone number ** **** **45.",
+      "မြန်မာ": "ဘဏ်အကောင့်ဖွင့်စဉ်က စာရင်းသွင်းထားသည့် ဖုန်းနံပါတ် .............၄၅ သို့ ပေးပို့ထားသောအတည်ပြုကုတ်နံပါတ်ကို ထည့်ပါ",
+      "Chinese": "请输入验证代码发送到注册电话号码** **** ** 45。"
+    },
+    {
+      "English": "Verification code",
+      "မြန်မာ": "အတည်ပြုကုတ်နံပါတ်",
+      "Chinese": "验证码"
+    },
+    {
+      "English": "Enter 6 digit code",
+      "မြန်မာ": "ကုတ်နံပါတ် ၆ လုံးကို ထည့်ပါ",
+      "Chinese": "输入6位数码"
+    },
+    {
+      "English": "OTP will be expired in 02:45",
+      "မြန်မာ": "02:45 တွင် OTP သက်တမ်းကုန်ဆုံးပါမည်",
+      "Chinese": "OTP将在02:45到期"
+    },
+    {
+      "English": "Don’t receive the OTP? Resend OTP",
+      "မြန်မာ": "OTP မရရှိပါသလား?",
+      "Chinese": "没收到OTP？重新发送一次密码"
+    },
+    {
+      "English": "Resend OTP",
+      "မြန်မာ": "OTP ပြန်ပို့ပါမည်။",
+      "Chinese": "重新发送一次密码"
+    },
+    {
+      "English": "Expired",
+      "မြန်မာ": "OTP သက်တမ်းကုန်ဆုံးပါပြီ",
+      "Chinese": "OTP过期"
+    },
+    {
+      "English": "Failed to enter OTP 3 times. Please contact call center 09796629662.",
+      "မြန်မာ": "OTP သုံးကြိမ်မှားယွင်းပါသည်။ Customer Care Center ၀၉၇၉၆၆၂၉၆၆၂ သို့ဆက်သွယ်ပါ။",
+      "Chinese": "未能输入3次OTP。请联系服务中心09796629662。"
+    }
+  ],
+  "Purpose of Transaction": [
+    {
+      "Feature": "Purpose of Transaction",
+      "English": "Family Support",
+      "မြန်မာ": "မိသားစု ထောက်ပံ့ခြင်း",
+      "Chinese": "提供家庭"
+    },
+    {
+      "English": "Salaries",
+      "မြန်မာ": "လစာဝင်ငွေ",
+      "Chinese": "薪资"
+    },
+    {
+      "English": "Tax Payment",
+      "မြန်မာ": "အခွန်ပေးဆောင်ခြင်း",
+      "Chinese": "纳税"
+    },
+    {
+      "English": "Insurance Payment",
+      "မြန်မာ": "အာမခံပေးဆောင်ခြင်း",
+      "Chinese": "缴纳保险费"
+    },
+    {
+      "English": "Bill Payment",
+      "မြန်မာ": "ဘေလ်ပေးဆောင်ခြင်း",
+      "Chinese": "缴纳费"
+    },
+    {
+      "English": "Loan Repayment",
+      "မြန်မာ": "ချေးငွေပြန်လည်ပေးဆပ်ခြင်း",
+      "Chinese": "偿还贷款"
+    },
+    {
+      "English": "Loan Disbursement",
+      "မြန်မာ": "ချေးငွေထုတ်ယူခြင်း",
+      "Chinese": "贷款发放"
+    },
+    {
+      "English": "Custom Duty",
+      "မြန်မာ": "အကောက်ခွန်ပေးဆောင်ခြင်း",
+      "Chinese": "关税"
+    },
+    {
+      "English": "Company Fund Transfer",
+      "မြန်မာ": "လုပ်ငန်းသုံးငွေအား ပြောင်းရွှေ့ခြင်း",
+      "Chinese": "公司资金转账"
+    },
+    {
+      "English": "Rental",
+      "မြန်မာ": "ငှားရမ်းခ ပေးချေ/ ထုတ်ယူခြင်း",
+      "Chinese": "租赁"
+    },
+    {
+      "English": "Sale Proceed",
+      "မြန်မာ": "ရောင်းချရရှိငွေ",
+      "Chinese": "销售收入"
+    },
+    {
+      "English": "Donation",
+      "မြန်မာ": "အလှူငွေ",
+      "Chinese": "捐款"
+    },
+    {
+      "English": "Purchase Gold/ Jewelry",
+      "မြန်မာ": "ရွှေနှင့်ကျောက်မျက်ရတနာဝယ်ယူခြင်း",
+      "Chinese": "购买黄金/珠宝"
+    },
+    {
+      "English": "Cost of Goods",
+      "မြန်မာ": "ကုန်ဖိုးငွေပေးချေခြင်း/ ထုတ်ယူခြင်း",
+      "Chinese": "产品的成本"
+    },
+    {
+      "English": "General Expenses",
+      "မြန်မာ": "အထွေထွေကုန်ကျစရိတ် ",
+      "Chinese": "基本开销"
+    },
+    {
+      "English": "Purchase",
+      "မြန်မာ": "ပစ္စည်းဝယ်ယူခြင်း",
+      "Chinese": "采购"
+    },
+    {
+      "English": "Service / Consultant Fees",
+      "မြန်မာ": "ဝန်ဆောင်မှု/ အကြံပေးဝန်ဆောင်မှု",
+      "Chinese": "服务/顾问费"
+    },
+    {
+      "English": "High Value Assets",
+      "မြန်မာ": "တန်ဖိုးမြင့်ပစ္စည်း ရောင်းဝယ်ခြင်း",
+      "Chinese": "高价值资产"
+    },
+    {
+      "English": "Other",
+      "မြန်မာ": "အခြား ",
+      "Chinese": "其他"
+    },
+    {
+      "English": "Please fill the type of items purchased (e.g. online shopping, car, house, farms, land, etc.)",
+      "မြန်မာ": "ငှါးရမ်းသည့် ပစ္စည်းအမျိုးအစား (ဥပမာ ကား၊အိမ်၊ခြံမြေ၊တိုက်ခန်း၊စသည့်ဖြင့်)",
+      "Chinese": "请填写购买物品的类型（例如网购、汽车、房屋、农场、土地等）"
+    },
+    {
+      "English": "Please fill the type of items sold (e.g. Car, House, Land, Apartments, Goods, etc.)",
+      "မြန်မာ": "ရောင်းချခဲ့သော ပစ္စည်းအမျိုးအစား (ဥပမာ ကား၊အိမ်၊ခြံမြေ၊တိုက်ခန်း၊ကုန်ပစ္စည်း စသည်ဖြင့်)",
+      "Chinese": "请填写销售物品的类型（例如汽车、房屋、土地、公寓、商品等）"
+    },
+    {
+      "English": "Please fill the purpose of donation.",
+      "မြန်မာ": "လှူဒါန်းမည့်အကြောင်းအရာအားဖြည့်စွက်ရန်",
+      "Chinese": "\r\n请填写捐款用途"
+    },
+    {
+      "English": "Please fill the type of goods paid (e.g. bean, iron, betel nut, building materials, etc.)",
+      "မြန်မာ": "ပေးချေသော ကုန်ဖိုးပစ္စည်းအမျိုးအစား (ဥပမာ ပဲ၊သံ၊ကွမ်း၊ဆောက်လုပ်ရေးပစ္စည်း စသည်ဖြင့်)",
+      "Chinese": "请填写支付的商品种类（例如豆、铁、槟榔、建筑材料等）"
+    },
+    {
+      "English": "Please fill general costs (e.g. health, education, etc.)",
+      "မြန်မာ": "အထွေထွေကုန်ကျစရိတ် (ဥပမာ ကျန်းမာရေး၊ ပညာရေး စသည်ဖြင့်)",
+      "Chinese": "请填写一般费用（例如健康、教育等）"
+    },
+    {
+      "English": "Please fill purchased gold/jewellery",
+      "မြန်မာ": "ဝယ်ယူသော ပစ္စည်းအမျိုးအစား (ဥပမာ online shopping၊ကား၊အိမ်၊ခြံ၊မြေ စသည်ဖြင့်)",
+      "Chinese": "请填写购买的黄金/珠宝"
+    },
+    {
+      "English": "Please fill the type of service/advisory service (e.g. maintenance fees, legal advisory fees)",
+      "မြန်မာ": "ဝန်ဆောင်မှုအမျိုးအစား/အကြံပေးဝန်ဆောင်မှု (ဥပမာ maintenance fees၊ ဥပဒေ အကြံပေးဝန်ဆောင်ခစသည်ဖြင့်)",
+      "Chinese": "请填写服务/咨询服务类型（例如维护费、法律咨询费）"
+    },
+    {
+      "English": "Please fill other costs.",
+      "မြန်မာ": "မှတ်ချက်ဖြည့်သွင်းပါ။",
+      "Chinese": "请填写其他费用"
+    }
+  ],
+  "Portal Required Translation": [
+    {
+      "English": "The password cannot contain spaces.",
+      "မြန်မာ": "စကားဝှက်တွင် space ပါ၍မရပါ။",
+      "Chinese": "密码不能包含空格"
+    },
+    {
+      "English": "Passwords do not match.",
+      "မြန်မာ": "စကားဝှက် ကိုက်ညီမှုမရှိပါ။",
+      "Chinese": "密码不匹配。"
+    },
+    {
+      "English": "This field must be at least 8 characters.",
+      "မြန်မာ": "ဤနေရာတွင် စာလုံးအနည်းဆုံးရှစ်လုံးပါရမည်။",
+      "Chinese": "该字段必须至少有 8 个字符。"
+    },
+    {
+      "English": "Username can only contain lowercase letters and numbers (a-z, 0-9)",
+      "မြန်မာ": "အသုံးပြုသူအမည်တွင် အက္ခရာစာလုံးအသေး နှင့် ဂဏန်းများသာပါဝင်နိုင်ပါသည် (a-z ၊ 0-9)",
+      "Chinese": "用户名只能包含小写字母和数字（a-z、0-9）"
+    },
+    {
+      "English": "This field is required.",
+      "မြန်မာ": "ဤနေရာကို ဖြည့်သွင်းပါ။",
+      "Chinese": "这是必填栏"
+    },
+    {
+      "English": "Filter Transaction Type",
+      "မြန်မာ": "ငွေကြေးလုပ်ဆောင်မှုအမျိုးအစားကိုကြည့်ရန်။",
+      "Chinese": "汇款类型记录"
+    },
+    {
+      "English": "Optional",
+      "မြန်မာ": "မဖြည့်လဲရပါသည်",
+      "Chinese": "自选"
+    },
+    {
+      "English": "Only allow english character.",
+      "မြန်မာ": "အင်္ဂလိပ်စာသားဖြင့်သာလက်ခံပါသည်။",
+      "Chinese": "只允许英文字符"
+    },
+    {
+      "English": "Please enter a valid amount",
+      "မြန်မာ": "ကျေးဇူးပြု၍ မှန်ကန်သောပမာဏကို ထည့်ပါ။",
+      "Chinese": "请输入有效金额"
+    },
+    {
+      "English": "Recent Transactions",
+      "မြန်မာ": "လတ်တလောငွေလွှဲပြောင်းမှုများ",
+      "Chinese": "最近汇款记录"
+    },
+    {
+      "English": "More Details",
+      "မြန်မာ": "အသေးစိတ်အချက်အလက်များ",
+      "Chinese": "更多详细"
+    },
+    {
+      "English": "Maturity Instructions"
+    },
+    {
+      "English": "Interest Amount"
+    },
+    {
+      "English": "Interest Payback Account"
+    },
+    {
+      "English": "Principal Payback Account"
+    },
+    {
+      "English": "Total Payback Amount"
+    },
+    {
+      "English": "Original Amount"
+    }
+  ],
+  "Error Messages": [
+    {
+      "Feature": "Self-activation",
+      "English": "Username is too short",
+      "မြန်မာ": "အသုံးပြုသူအမည် တိုတောင်းနေသဖြင့် အဆင်မပြေပါ။",
+      "Chinese": "用户名太短"
+    },
+    {
+      "English": "Registration Failed",
+      "မြန်မာ": "စာရင်းသွင်းခြင်း မအောင်မြင်ပါ",
+      "Chinese": "注册失败"
+    },
+    {
+      "English": "Sorry, something went wrong. Please try again.",
+      "မြန်မာ": "တစ်ခုခုမှားယွင်းနေပါသဖြင့် ထပ်မံကြိုးစားပေးပါ။",
+      "Chinese": "抱歉，出了一些问题。请再试一次"
+    },
+    {
+      "Feature": "Other Account Transfer",
+      "English": "This field is required.",
+      "မြန်မာ": "ဤနေရာကို ဖြည့်သွင်းပါ။\t这是必填栏",
+      "Chinese": "这是必填栏"
+    },
+    {
+      "English": "You do not have sufficient balance.",
+      "မြန်မာ": "ငွေပမာဏလုံလောက်မှုမရှိပါ။",
+      "Chinese": "您没有足够的金额"
+    },
+    {
+      "English": "Per transaction limit is exceeded than 5,000,000.00 MMK.",
+      "မြန်မာ": "ငွေလွှဲပမာဏမှာ သတ်မှတ်ထားသော 5,000,000.00 MMK ထက်ကျော်လွန်နေပါသည်",
+      "Chinese": "汇款金额已超过限额 5,000,000.00 MMK"
+    },
+    {
+      "English": "Minimum transaction amount should be 1.00 MMK.",
+      "မြန်မာ": "အနည်းဆုံးလွှဲပြောင်းမည့်ငွေပမာဏ ၁ကျပ်ဖြစ်ရပါမည်။",
+      "Chinese": "最低汇款金额应为 1.00 MMK。"
+    },
+    {
+      "English": "Please enter valid account number.",
+      "မြန်မာ": "ကျေးဇူးပြု၍ မှန်ကန်သောအကောင့်နံပါတ်ကို ထည့်ပါ။",
+      "Chinese": "请输入有效的账号。"
+    },
+    {
+      "English": "Account not found!",
+      "မြန်မာ": "အကောင့်နံပါတ်ရှာမတွေ့ပါ။",
+      "Chinese": "找不到账户"
+    },
+    {
+      "English": "Only allow english character.",
+      "မြန်မာ": "အင်္ဂလိပ်အက္ခရာကိုသာခွင့်ပြုပါသည်။",
+      "Chinese": "只允许英文字符。"
+    },
+    {
+      "Feature": "WavePay Transfer",
+      "English": "Only Individual Flexi Account is allowed for transfer. Please walk in to the nearest YOMA branches (or) click on \"Account Overview > Open Flexi Everyday Account\" in Next Portal to open Flexi Account!",
+      "မြန်မာ": "မိမိတဦးတည်းပိုင် Flexi Account ဖြင့်သာ ငွေလွှဲနိုင်ပါမည်။ ကျေးဇူးပြု၍ အနီးဆုံး Yomaဘဏ်ခွဲများသို့ သွားရောက်၍ Flexi အကောင့်ကို ဖွင့်ပါ။ (သို့မဟုတ်) Next Portal ထဲရှိ Account Overview tab တွင် \"Flexi Everyday အကောင့်ဖွင့်ရန်\" ကို နှိပ်ပြီး Flexi အကောင့်ကို ဖွင့်ပါ။",
+      "Chinese": "仅允许个人Flexi账户转账。请前往最近的YOMA分行（或）点击Next Portal中的“账户概览>开设Flexi Everyday账户”来开设Flexi账户！"
+    },
+    {
+      "Feature": "Other Bank Transfer",
+      "English": "Please enter the valid mobile number.",
+      "မြန်မာ": "ကျေးဇူးပြု၍ မှန်ကန်သောမိုဘိုင်းဖုန်းနံပါတ်ကို ထည့်ပါ။",
+      "Chinese": "请输入有效的手机号码。"
+    },
+    {
+      "English": "Transaction Failed",
+      "မြန်မာ": "လုပ်ဆောင်ချက်မအောင်မြင်ပါ။",
+      "Chinese": "汇款失败。"
+    },
+    {
+      "English": "\r\nSorry, your other account transfer transaction failed",
+      "မြန်မာ": "အခြားအကောင့်သို့ငွေလွှဲပြောင်းခြင်းမအောင်မြင်ပါ",
+      "Chinese": "其他账户转账 - 汇款失败"
+    },
+    {
+      "English": "Sorry your mobile top-up transaction failed",
+      "မြန်မာ": "ဖုန်းငွေဖြည့်ခြင်းမအောင်မြင်ပါ။",
+      "Chinese": "抱歉，您的手机充值失败。"
+    },
+    {
+      "English": "Back to page",
+      "မြန်မာ": "ငွေလွှမည့်  နေရာသို့ပြန်သွားရန်",
+      "Chinese": "返回页面"
+    },
+    {
+      "Feature": "Mobile Top-up",
+      "English": "Your phone number is Invalid",
+      "မြန်မာ": "မိုဘိုင်းဖုန်းနံပါတ်မှားယွင်းနေပါသည်။",
+      "Chinese": "手机号码无效"
+    },
+    {
+      "Feature": "Bill Payment",
+      "English": "No results found",
+      "မြန်မာ": "ရှာမတွေ့ပါ။",
+      "Chinese": "未找到结果"
+    },
+    {
+      "Feature": "Receiver",
+      "English": "Please enter valid name",
+      "မြန်မာ": "ကျေးဇူးပြု၍ စာရင်းသွင်းထားသောအမည်ထည့်ပါ။",
+      "Chinese": "请输入有效的姓名。"
+    },
+    {
+      "English": "Please enter a valid account number.",
+      "မြန်မာ": "ကျေးဇူးပြု၍မှန်ကန်သောအကောင့်နံပါတ်ကိုထည့်သွင်းပါ။\r\n",
+      "Chinese": "请输入有效的账号。"
+    },
+    {
+      "Feature": "Update Password",
+      "English": "Invalid password: must not be equal to any of last 3 passwords.",
+      "မြန်မာ": "မမှန်ကန်သော စကားဝှက်- နောက်ဆုံး စကားဝှက် 3 ခုနှင့် မတူညီရပါ။",
+      "Chinese": "无效密码：不得与最近 3 个密码中的任何一个相同。"
+    },
+    {
+      "Feature": "Others",
+      "English": "Session Expired",
+      "မြန်မာ": "ဝင်ရောက်အသုံးပြုနိုင်မည့် သက်တမ်းကုန်ဆုံးသွားပါပြီ။",
+      "Chinese": "会期已过期"
+    },
+    {
+      "English": "Your session timed out. Please sign in again.",
+      "မြန်မာ": "သင်၏အသုံးပြုနိုင်မည့် အချိန်ကုန်ဆုံးသွားပါပြီ။ ကျေးဇူးပြု၍နောက်တစ်ကြိမ်ပြန်ဝင်ပါ။",
+      "Chinese": "您的会话超时。请重新登录。"
+    },
+    {
+      "English": "Ok",
+      "မြန်မာ": "အိုကေ",
+      "Chinese": "好的"
+    },
+    {
+      "English": "No Internet Connection",
+      "မြန်မာ": "အင်တာနက်ချိတ်ဆက်မှုမရှိပါ",
+      "Chinese": "\r\n没有网络连接"
+    },
+    {
+      "English": "Please check your internet connection and try again.",
+      "မြန်မာ": "ကျေးဇူးပြု၍အင်တာနက်ချိတ်ဆက်မှုကို စစ်ဆေးပြီး ပြန်စမ်းကြည့်ပါ။",
+      "Chinese": "\r\n请检查您的互联网连接，然后重试。"
+    },
+    {
+      "Feature": "Super Fixed Deposit",
+      "English": "\r\nSuper Fixed Deposit can be opened by payment with Flexi Accounts. Please walk in to the nearest YOMA branches (or)  click on \"Account Overview > Open Flexi Everyday Account\" in Next Portal to open Flexi Account!\r\n \r\n",
+      "မြန်မာ": "Flexi အကောင့်များဖြင့် ငွေပေးချေခြင်းဖြင့် Super Fixed Deposit ကို ဖွင့်နိုင်သည်။ ကျေးဇူးပြု၍ အနီးဆုံး Yomaဘဏ်ခွဲများသို့ သွားရောက်၍ Flexi အကောင့်ကို ဖွင့်ပါ။ (သို့မဟုတ်) Next Portal ထဲရှိ Account Overview tab တွင် \"Flexi Everyday အကောင့်ဖွင့်ရန်\" ကို နှိပ်ပြီး Flexi အကောင့်ကို ဖွင့်ပါ။",
+      "Chinese": "Super定期存款可以通过Flexi账户付款的方式开立。请前往最近的YOMA分行（或）点击Next Portal中的“账户概览>开设Flexi Everyday账户”来开设Flexi账户！"
+    }
+  ]
+}
