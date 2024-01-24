@@ -1,49 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Service Worker Push Notification</title>
-  </head>
-  <body>
-    <div class="cont"></div>
-    <button onclick="subscribe()">subscribe</button>
-    <script>
-      async function subscribe() {
-        let sw = await navigator.serviceWorker.ready;
-        let push = await sw.pushManager.subscribe({
-          userVisibleOnly: true,
-          applicationServerKey:
-            "BJug4_4hTyZakHM-X1cdFJcJZ1t4_E_rSaJA4s1ZWpZlfH9FSbETUSBfAR5UYWc6_uhsjK5zguzFQxPLslW0zPA",
-        });
-        
-        
-        // save subscription to server
-        console.log(JSON.stringify(push));
-    
-        document.querySelector(".cont").textContent = JSON.stringify(push);
-      }
 
-      window.addEventListener("load", async () => {
-        let sw = window.navigator.serviceWorker.register("./sw.js");
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Service Worker Push Notification</title>
+</head>
 
-        Notification.requestPermission().then((result) => {
-          if (result === "granted") {
-            console.log("notification granted");
-            subscribe();
-          }
-        });
+<body>
+  <div class="cont"></div>
+  <button onclick="subscribe()">subscribe</button>
+  <script>
+    async function subscribe() {
+      let sw = await navigator.serviceWorker.ready;
+      let push = await sw.pushManager.subscribe({
+        userVisibleOnly: true,
+        applicationServerKey:
+          "BJug4_4hTyZakHM-X1cdFJcJZ1t4_E_rSaJA4s1ZWpZlfH9FSbETUSBfAR5UYWc6_uhsjK5zguzFQxPLslW0zPA",
+      });
 
-        const options = { tag: "go-youn-jung" };
 
-        navigator.serviceWorker.ready.then((registration) => {
-          registration.getNotifications(options).then((notifications) => {
-            // do something with your notifications
-            console.log('getnotificatioin ',notifications);
-          });
+      // save subscription to server
+      console.log(JSON.stringify(push));
+
+      document.querySelector(".cont").textContent = JSON.stringify(push);
+    }
+
+    window.addEventListener("load", async () => {
+      let sw = window.navigator.serviceWorker.register("./sw.js");
+
+      Notification.requestPermission().then((result) => {
+        if (result === "granted") {
+          console.log("notification granted");
+          subscribe();
+        }
+      });
+
+      const options = { tag: "go-youn-jung" };
+
+      navigator.serviceWorker.ready.then((registration) => {
+        registration.getNotifications(options).then((notifications) => {
+          // do something with your notifications
+          console.log('getnotificatioin ', notifications);
         });
       });
-    </script>
-    <!-- <script src="app.js"></script> -->
-  </body>
+    });
+
+    navigator.serviceWorker.addEventListener('message', event => {
+      console.log(event.data)
+    });
+  </script>
+  <!-- <script src="app.js"></script> -->
+</body>
+
 </html>

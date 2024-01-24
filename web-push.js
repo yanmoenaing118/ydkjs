@@ -17,8 +17,16 @@ const sub = {
     "https://fcm.googleapis.com/fcm/send/eHk3esTrGXg:APA91bEDER4xC3T0UEV4zE4DsUOsrhPGiwiLvKc8FYusl4aZAAsUxj8_UgZeznuL7tQ9MT1tTT9AuH-cPmilZm6ca2WEY6cQAINdJ0C6JPIDirya6cqXq31L3JNK4UYUPeoZJGcBX007",
   expirationTime: null,
   keys: {
-    "p256dh":"BGrCe8hx4XKvz7vxoBOctVDZBnLVKehwksv6i6Yx_v7tN0WQ-MFWlmErmv9ESMpauf1MP0z1XNmf7JUkLKieH2E",
+    p256dh:
+      "BGrCe8hx4XKvz7vxoBOctVDZBnLVKehwksv6i6Yx_v7tN0WQ-MFWlmErmv9ESMpauf1MP0z1XNmf7JUkLKieH2E",
     auth: "34qPmfAXYWmp7PV-r5h6YA",
   },
 };
-webpush.sendNotification(sub, "My dearest Go Youn Jung");
+
+const message = {
+  title: "My dearest Go Youn Jung",
+  icon: "https://jabarekspres.com/wp-content/uploads/2022/07/images-13.jpeg",
+  body: "Go Youn-jung is a South Korean actress and model signed under MAA. She made her acting debut in the television series He Is Psychometric and gained recognition for her supporting role in the Netflix series Sweet Home."
+}
+
+webpush.sendNotification(sub, JSON.stringify(message));
